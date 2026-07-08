@@ -287,18 +287,6 @@
       "photo": "images/athletes/sunjin/hero.jpg",
       "keyStats": "🏆 2000 시드니 올림픽 여자 복식 준우승",
       "dataFile": "data/ko/sunjin.json"
-    },
-    {
-      "id": "yangying",
-      "name": "양잉",
-      "nameEn": "YANG YING",
-      "country": "중국",
-      "flag": "🇨🇳",
-      "team": "중국 국가 탁구팀",
-      "birthDate": "1977-07-13",
-      "photo": "images/athletes/yangying/hero.jpg",
-      "keyStats": "🏆 2000 시드니 올림픽 여자 복식 준우승",
-      "dataFile": "data/ko/yangying.json"
     }
   ]
 }

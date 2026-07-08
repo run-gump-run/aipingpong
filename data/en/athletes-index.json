@@ -287,18 +287,6 @@
       "photo": "images/athletes/sunjin/hero.jpg",
       "keyStats": "🏆 2000 Sydney Olympic Women's Doubles Runner-up",
       "dataFile": "data/en/sunjin.json"
-    },
-    {
-      "id": "yangying",
-      "name": "Yang Ying",
-      "nameEn": "YANG YING",
-      "country": "China",
-      "flag": "🇨🇳",
-      "team": "China National Table Tennis Team",
-      "birthDate": "1977-07-13",
-      "photo": "images/athletes/yangying/hero.jpg",
-      "keyStats": "🏆 2000 Sydney Olympic Women's Doubles Runner-up",
-      "dataFile": "data/en/yangying.json"
     }
   ]
 }

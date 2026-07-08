@@ -287,18 +287,6 @@
       "photo": "images/athletes/sunjin/hero.jpg",
       "keyStats": " 2000シドニーオリンピック女子ダブルス準優勝",
       "dataFile": "data/ja/sunjin.json"
-    },
-    {
-      "id": "yangying",
-      "name": "楊影",
-      "nameEn": "YANG YING",
-      "country": "中国",
-      "flag": "🇨🇳",
-      "team": "中国国家卓球チーム",
-      "birthDate": "1977-07-13",
-      "photo": "images/athletes/yangying/hero.jpg",
-      "keyStats": "🏆 2000シドニーオリンピック女子ダブルス準優勝",
-      "dataFile": "data/ja/yangying.json"
     }
   ]
 }

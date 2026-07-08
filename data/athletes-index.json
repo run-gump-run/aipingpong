@@ -285,20 +285,8 @@
                          "team":  "中国国家乒乓球队",
                          "birthDate":  "1980-03-13",
                          "photo":  "images/athletes/sunjin/hero.jpg",
-                         "keyStats":  "🏆 2000悉尼奥运女双亚军",
-                         "dataFile":  "data/sunjin.json"
-                     },
-                     {
-                         "id":  "yangying",
-                         "name":  "杨影",
-                         "nameEn":  "YANG YING",
-                         "country":  "中国",
-                         "flag":  "🇨🇳",
-                         "team":  "中国国家乒乓球队",
-                         "birthDate":  "1977-07-13",
-                         "photo":  "images/athletes/yangying/hero.jpg",
-                         "keyStats":  "🏆 2000悉尼奥运女双亚军",
-                         "dataFile":  "data/yangying.json"
-                     }
-                 ]
+                        "keyStats":  "🏆 2000悉尼奥运女双亚军",
+                        "dataFile":  "data/sunjin.json"
+                    }
+                ]
 }
