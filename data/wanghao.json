@@ -1,0 +1,140 @@
+{
+    "id":  "wanghao",
+    "name":  "王皓",
+    "nameEn":  "WANG HAO · 直板横打巅峰 · 三届奥运亚军",
+    "country":  "CHN",
+    "team":  "中国国家乒乓球队",
+    "birthDate":  "1983-12-01",
+    "heroImages":  [
+                       "images/athletes/wanghao/hero.jpg"
+                   ],
+    "tags":  [
+                 {
+                     "text":  "🥈 三届奥运男单亚军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏅 世乒赛单打冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏆 世界杯单打冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1983.12.01 生于长春",
+                     "type":  "normal"
+                 }
+             ],
+    "stats":  [
+                  {
+                      "num":  2,
+                      "label":  "奥运金牌",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  1,
+                      "label":  "世乒赛单打冠军",
+                      "highlight":  true
+                  },
+                  {
+                      "num":  2,
+                      "label":  "世界杯单打冠军",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  0,
+                      "label":  "大满贯",
+                      "highlight":  false
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "year":  "2004",
+                         "age":  "21岁",
+                         "subtitle":  "雅典奥运首次夺银",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥈 雅典奥运会男单银牌（决赛负于柳承敏）",
+                                              "📌 首次参加奥运会即杀入男单决赛"
+                                          ]
+                     },
+                     {
+                         "year":  "2007",
+                         "age":  "24岁",
+                         "subtitle":  "世界杯首冠",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 男子世界杯单打冠军（个人首个三大赛单打冠军）"
+                                          ]
+                     },
+                     {
+                         "year":  "2008",
+                         "age":  "25岁",
+                         "subtitle":  "北京奥运银牌 · 世界杯卫冕",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥈 北京奥运会男单银牌（决赛负于马琳）",
+                                              "🥇 北京奥运会男团金牌",
+                                              "🏆 男子世界杯单打冠军（卫冕成功，第二冠）"
+                                          ]
+                     },
+                     {
+                         "year":  "2009",
+                         "age":  "26岁",
+                         "subtitle":  "横滨世乒赛登顶",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🏆 横滨世乒赛男单冠军（决赛击败王励勤）"
+                                          ],
+                         "badge":  "⭐ 世乒赛单打冠军"
+                     },
+                     {
+                         "year":  "2012",
+                         "age":  "29岁",
+                         "subtitle":  "伦敦奥运三度获银",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥈 伦敦奥运会男单银牌（决赛负于张继科）",
+                                              "🥇 伦敦奥运会男团金牌",
+                                              "📌 连续三届奥运会男单决赛获银牌"
+                                          ]
+                     },
+                     {
+                         "year":  "2014",
+                         "age":  "31岁",
+                         "subtitle":  "退役",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "📌 正式退役",
+                                              "📌 后任八一队主教练，培养出樊振东等选手"
+                                          ]
+                     }
+                 ],
+    "achievements":  {
+                         "title":  "⭐ 直板横打巅峰",
+                         "description":  "王皓将直板横打技术推向巅峰，以反手直板横打闻名于世。他连续三届奥运会闯入男单决赛，遗憾的是三次均获银牌。2009年夺得世乒赛男单冠军达到巅峰。与王励勤、马琳并称「二王一马」时代。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会团体",
+                                           "year":  "2008 / 2012"
+                                       },
+                                       {
+                                           "icon":  "🥈",
+                                           "title":  "奥运会单打",
+                                           "year":  "2004 / 2008 / 2012 三连银"
+                                       },
+                                       {
+                                           "icon":  "🏅",
+                                           "title":  "世乒赛单打",
+                                           "year":  "2009 横滨"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世界杯单打",
+                                           "year":  "2007 / 2008"
+                                       }
+                                   ]
+                     }
+}

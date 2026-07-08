@@ -1,0 +1,112 @@
+{
+    "id":  "xuxin",
+    "heroImages":  [
+                       "images/athletes/xuxin/hero.jpg"
+                   ],
+    "team":  "中国国家乒乓球队",
+    "tags":  [
+                 {
+                     "text":  "🏆 奥运冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏅 世乒赛双打冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1990.01.08 生于徐州",
+                     "type":  "normal"
+                 }
+             ],
+    "nameEn":  "XU XIN · 乒乓传奇 · 人民艺术家",
+    "name":  "许昕",
+    "stats":  [
+                  {
+                      "label":  "奥运金牌",
+                      "num":  2,
+                      "highlight":  false
+                  },
+                  {
+                      "label":  "世乒赛单打冠军",
+                      "num":  0,
+                      "highlight":  false
+                  },
+                  {
+                      "label":  "世界杯单打冠军",
+                      "num":  1,
+                      "highlight":  true
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "首个世界冠军",
+                         "age":  "20岁",
+                         "year":  "2010",
+                         "achievements":  [
+                                              "🏆 广州亚运会男团冠军、混双冠军"
+                                          ]
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "奥运团体金牌",
+                         "age":  "22岁",
+                         "year":  "2012",
+                         "achievements":  [
+                                              "🥇 伦敦奥运会男团冠军"
+                                          ]
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "里约奥运再夺金",
+                         "age":  "26岁",
+                         "year":  "2016",
+                         "achievements":  [
+                                              "🥇 里约奥运会男团冠军"
+                                          ]
+                     },
+                     {
+                         "subtitle":  "世乒赛混双冠军",
+                         "achievements":  [
+                                              "🏆 布达佩斯世乒赛混双冠军（与刘诗雯）",
+                                              "📌 世乒赛混双两冠（2015/2019）"
+                                          ],
+                         "age":  "29岁",
+                         "year":  "2019",
+                         "badge":  "⭐ 人民艺术家",
+                         "isPeak":  true
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "东京奥运混双银牌",
+                         "age":  "30岁",
+                         "year":  "2020",
+                         "achievements":  [
+                                              "🥈 东京奥运会混双亚军（与刘诗雯）"
+                                          ]
+                     }
+                 ],
+    "country":  "CHN",
+    "birthDate":  "1990-01-08",
+    "achievements":  {
+                         "title":  "⭐ 人民艺术家",
+                         "description":  "许昕以直板打法和极具观赏性的比赛风格著称，被誉为\u0027人民艺术家\u0027。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运男团",
+                                           "year":  "2012 / 2016"
+                                       },
+                                       {
+                                           "icon":  "🏅",
+                                           "title":  "世乒赛混双",
+                                           "year":  "2015 / 2019"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世界杯单打",
+                                           "year":  "2013"
+                                       }
+                                   ]
+                     }
+}

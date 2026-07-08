@@ -1,0 +1,156 @@
+{
+  "id": "fanzhendong",
+  "name": "Fan Zhendong",
+  "nameEn": "FAN ZHENDONG · Table Tennis Legend · Super Grand Slam",
+  "country": "CHN",
+  "team": "China National Table Tennis Team",
+  "birthDate": "1997-01-22",
+  "heroImages": ["images/athletes/fanzhendong/hero.jpg"],
+  "tags": [
+    {"text": "🏆 Olympic Champion", "type": "gold"},
+    {"text": "🏅 World Champion", "type": "gold"},
+    {"text": "🏆 World Cup Champion", "type": "gold"},
+    {"text": "🎂 1997.01.22 Born in Guangzhou", "type": "normal"}
+  ],
+  "stats": [
+    {"num": 3, "label": "Olympic Golds", "highlight": false},
+    {"num": 2, "label": "World Singles Titles", "highlight": true},
+    {"num": 4, "label": "World Cup Singles Titles", "highlight": false},
+    {"num": 1, "label": "Grand Slam", "highlight": true}
+  ],
+  "timeline": [
+    {
+      "year": "2012", "age": "Age 15", "subtitle": "Rising Star", "isPeak": false,
+      "achievements": [
+        "🏆 World Junior Championships: Men's Singles, Mixed Doubles & Team Champion (Triple Crown)",
+        "🏆 National Championships: Defeated Wang Liqin, breakthrough performance",
+        "📌 Selected for national team, youngest player at the time"
+      ]
+    },
+    {
+      "year": "2013", "age": "Age 16", "subtitle": "Youngest Pro Tour Champion", "isPeak": false,
+      "achievements": [
+        "🏆 Poland Open Men's Singles Champion (youngest Pro Tour singles champion in history)",
+        "🏆 Germany Open Men's Singles Champion",
+        "🏆 12th National Games: Team Champion, Doubles Champion, Singles Runner-up"
+      ]
+    },
+    {
+      "year": "2014", "age": "Age 17", "subtitle": "Youngest World Champion in History", "isPeak": false,
+      "achievements": [
+        "🏆 Tokyo World Team Championships Champion (17 years 103 days, youngest male world champion in Chinese team history)",
+        "🏆 Nanjing Youth Olympic Games: Men's Singles & Mixed Team Champion (Double Crown)"
+      ]
+    },
+    {
+      "year": "2016", "age": "Age 19", "subtitle": "First Major Singles Title", "isPeak": false,
+      "achievements": [
+        "🏆 Men's World Cup Singles Champion (first major singles title)"
+      ]
+    },
+    {
+      "year": "2017", "age": "Age 20", "subtitle": "First World Championships Title", "isPeak": false,
+      "achievements": [
+        "🏆 Düsseldorf World Championships Men's Doubles Champion (with Xu Xin)"
+      ]
+    },
+    {
+      "year": "2018", "age": "Age 21", "subtitle": "World No.1", "isPeak": false,
+      "achievements": [
+        "🏆 Men's World Cup Singles Champion (successful defense)",
+        "🏆 World Team Championships Champion",
+        "📌 Reached World No.1 ranking in April"
+      ]
+    },
+    {
+      "year": "2019", "age": "Age 22", "subtitle": "Three-peat & First-Class Merit", "isPeak": false,
+      "achievements": [
+        "🏆 Men's World Cup Singles Champion (three-peat in progress)",
+        "🏆 Military World Games: Four gold medals, awarded First-Class Merit",
+        "🏆 ITTF World Tour Finals Men's Singles Champion"
+      ]
+    },
+    {
+      "year": "2020", "age": "Age 23", "subtitle": "Four-time World Cup Champion", "isPeak": false,
+      "achievements": [
+        "🏆 Men's World Cup Singles Champion (fourth title, completing three-peat)",
+        "📌 Tied Ma Lin's record of four World Cup titles"
+      ]
+    },
+    {
+      "year": "2021", "age": "Age 24", "subtitle": "First World Singles Title", "isPeak": false,
+      "achievements": [
+        "🥇 Tokyo Olympics Men's Team Champion (China's 4th consecutive Olympic men's team gold)",
+        "🥈 Tokyo Olympics Men's Singles Runner-up (lost 2:4 to Ma Long in final)",
+        "🏆 National Games Men's Singles Gold (first time)",
+        "🏆 Houston World Championships Men's Singles Champion (first world singles title)"
+      ]
+    },
+    {
+      "year": "2022", "age": "Age 25", "subtitle": "WTT Title & National Championships Four-peat", "isPeak": false,
+      "achievements": [
+        "🏆 WTT Singapore Smash Men's Singles Champion",
+        "🏆 National Championships Men's Singles Champion (first ever men's 'four-peat')",
+        "🏆 World Team Championships Champion"
+      ]
+    },
+    {
+      "year": "2023", "age": "Age 26", "subtitle": "Defending World Champion", "isPeak": false,
+      "achievements": [
+        "🏆 WTT Singapore Smash Men's Singles Champion (defense)",
+        "🏆 WTT Xinlong Champions Men's Singles Champion",
+        "🏆 Durban World Championships Men's Singles Champion (successful defense)"
+      ]
+    },
+    {
+      "year": "2024", "age": "Age 27", "subtitle": "Paris Triumph · Grand Slam", "isPeak": true,
+      "achievements": [
+        "🏆 WTT Chongqing Champions Men's Singles Champion",
+        "🥇 Paris Olympics Men's Singles Gold (beat Truls Möregårdh 4:1 in final)",
+        "🥇 Paris Olympics Men's Team Gold"
+      ],
+      "badge": "⭐ Super Grand Slam Achieved"
+    },
+    {
+      "year": "2025", "age": "Age 28", "subtitle": "National Games Defense · Historic First", "isPeak": true,
+      "achievements": [
+        "🏆 National Games Men's Singles Champion (successful defense, beat Lin Shidong 4:1 in final)",
+        "📌 Surpassed Ma Long, became first men's singles two-time National Games champion"
+      ],
+      "badge": "⭐ National Games Two-peat"
+    },
+    {
+      "year": "2025-26", "age": "Age 28-29", "subtitle": "Bundesliga · European Treble", "isPeak": true,
+      "achievements": [
+        "🇩🇪 Joined Saarbrücken, 29-7 record dominating performance",
+        "🏆 Champions League Winner (May, Saarbrücken 3:2 Montpellier)",
+        "🏆 German Cup Winner",
+        "🏆 Bundesliga Champion (Final 3:1 vs Düsseldorf, won 2 matches)"
+      ],
+      "badge": "⭐ European Treble"
+    },
+    {
+      "year": "2026", "age": "Age 29", "subtitle": "Transfer to Düsseldorf · New Chapter", "isPeak": false,
+      "achievements": [
+        "📌 Officially joined Bundesliga powerhouse Düsseldorf in July",
+        "📌 New club debut in August, featured on center poster",
+        "📌 Opening a new chapter in overseas table tennis"
+      ]
+    }
+  ],
+  "achievements": {
+    "title": "⭐ Super Grand Slam",
+    "description": "After Ma Long, Fan Zhendong became the second male player in history to win singles titles at the Olympics, World Championships, World Cup, Asian Games, Asian Championships, Asia Cup, World Tour Finals, National Games, and National Championships — the Super Grand Slam.",
+    "items": [
+      {"icon": "🥇", "title": "Olympic Singles", "year": "2024 Paris"},
+      {"icon": "🏅", "title": "World Championships Singles", "year": "2021 / 2023"},
+      {"icon": "🏆", "title": "World Cup Singles", "year": "2016-2020"},
+      {"icon": "🌏", "title": "Asian Games Singles", "year": "2018 Jakarta"},
+      {"icon": "🎯", "title": "Asian Championships Singles", "year": "2017"},
+      {"icon": "💎", "title": "Asia Cup Singles", "year": "2018"},
+      {"icon": "📋", "title": "World Tour Finals", "year": "2019"},
+      {"icon": "🏟️", "title": "National Games Singles", "year": "2021 / 2025 Defense"},
+      {"icon": "🎖️", "title": "National Championships Singles", "year": "Four-time Champion"}
+    ]
+  }
+}

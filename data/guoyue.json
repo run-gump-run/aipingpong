@@ -1,0 +1,103 @@
+{
+    "id":  "guoyue",
+    "heroImages":  [
+                       "images/athletes/guoyue/hero.jpg"
+                   ],
+    "team":  "中国国家乒乓球队",
+    "tags":  [
+                 {
+                     "text":  "🥇 奥运冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏅 世乒赛冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1988.07.17 生于鞍山",
+                     "type":  "normal"
+                 }
+             ],
+    "nameEn":  "GUO YUE · 乒乓传奇",
+    "name":  "郭跃",
+    "stats":  [
+                  {
+                      "label":  "奥运金牌",
+                      "num":  2,
+                      "highlight":  true
+                  },
+                  {
+                      "label":  "世乒赛单打冠军",
+                      "num":  1,
+                      "highlight":  false
+                  },
+                  {
+                      "label":  "世界杯单打冠军",
+                      "num":  2,
+                      "highlight":  false
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "雅典奥运女双铜牌",
+                         "age":  "16岁",
+                         "year":  "2004",
+                         "achievements":  [
+                                              "🥉 雅典奥运会女双铜牌（搭档牛剑锋）"
+                                          ]
+                     },
+                     {
+                         "subtitle":  "世乒赛单打冠军",
+                         "achievements":  [
+                                              "🏆 萨格勒布世乒赛女单冠军"
+                                          ],
+                         "age":  "19岁",
+                         "year":  "2007",
+                         "badge":  "⭐ 天才少女",
+                         "isPeak":  true
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "北京奥运",
+                         "age":  "20岁",
+                         "year":  "2008",
+                         "achievements":  [
+                                              "🥇 北京奥运会女团冠军",
+                                              "🥉 北京奥运会女单季军"
+                                          ]
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "伦敦团体金牌",
+                         "age":  "24岁",
+                         "year":  "2012",
+                         "achievements":  [
+                                              "🥇 伦敦奥运会女团冠军"
+                                          ]
+                     }
+                 ],
+    "country":  "CHN",
+    "birthDate":  "1988-07-17",
+    "achievements":  {
+                         "title":  "⭐ 天才少女",
+                         "description":  "郭跃是国乒历史上最年轻的世界冠军之一，以左手横板两面快攻著称。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运女团",
+                                           "year":  "2008 / 2012"
+                                       },
+                                       {
+                                           "icon":  "🏅",
+                                           "title":  "世乒赛单打",
+                                           "year":  "2007"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世界杯单打",
+                                           "year":  "2007 / 2008"
+                                       }
+                                   ]
+                     }
+}

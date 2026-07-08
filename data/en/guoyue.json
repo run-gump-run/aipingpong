@@ -1,0 +1,56 @@
+{
+  "id": "guoyue",
+  "name": "Guo Yue",
+  "nameEn": "GUO YUE · Table Tennis Legend",
+  "country": "CHN",
+  "team": "China National Table Tennis Team",
+  "birthDate": "1988-07-17",
+  "heroImages": ["images/athletes/guoyue/hero.jpg"],
+  "tags": [
+    {"text": "🥇 Olympic Champion", "type": "gold"},
+    {"text": "🏅 World Champion", "type": "gold"},
+    {"text": "🎂 1988.07.17 Born in Anshan", "type": "normal"}
+  ],
+  "stats": [
+    {"num": 2, "label": "Olympic Golds", "highlight": true},
+    {"num": 1, "label": "World Singles Titles", "highlight": false},
+    {"num": 2, "label": "World Cup Singles Titles", "highlight": false}
+  ],
+  "timeline": [
+    {
+      "year": "2004", "age": "Age 16", "subtitle": "Athens Olympics Women's Doubles Bronze", "isPeak": false,
+      "achievements": [
+        "🥉 Athens Olympics Women's Doubles Bronze (partnered with Niu Jianfeng)"
+      ]
+    },
+    {
+      "year": "2007", "age": "Age 19", "subtitle": "World Championships Singles Champion", "isPeak": true,
+      "achievements": [
+        "🏆 Zagreb World Championships Women's Singles Champion"
+      ],
+      "badge": "⭐ Prodigy"
+    },
+    {
+      "year": "2008", "age": "Age 20", "subtitle": "Beijing Olympics", "isPeak": false,
+      "achievements": [
+        "🥇 Beijing Olympics Women's Team Champion",
+        "🥉 Beijing Olympics Women's Singles Bronze"
+      ]
+    },
+    {
+      "year": "2012", "age": "Age 24", "subtitle": "London Team Gold", "isPeak": false,
+      "achievements": [
+        "🥇 London Olympics Women's Team Champion"
+      ]
+    }
+  ],
+  "achievements": {
+    "title": "⭐ Prodigy",
+    "description": "Guo Yue was one of the youngest world champions in Chinese table tennis history, known for her left-handed shakehand fast attack style.",
+    "items": [
+      {"icon": "🥇", "title": "Olympic Women's Team", "year": "2008 / 2012"},
+      {"icon": "🏅", "title": "World Championships Singles", "year": "2007"},
+      {"icon": "🏆", "title": "World Cup Singles", "year": "2007 / 2008"}
+    ]
+  }
+}

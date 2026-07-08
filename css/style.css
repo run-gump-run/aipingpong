@@ -1,0 +1,1034 @@
+:root {
+  --red: #d62828;
+  --red-deep: #9d0208;
+  --red-light: #ef4444;
+  --gold: #f4a300;
+  --gold-light: #ffd166;
+  --dark: #1a1a2e;
+  --dark-2: #16213e;
+  --cream: #fdf6e3;
+  --text: #2b2d42;
+  --text-light: #8d99ae;
+  --white: #ffffff;
+  --shadow: 0 10px 40px rgba(0,0,0,0.12);
+  --shadow-lg: 0 20px 60px rgba(0,0,0,0.18);
+  --silver: #adb5bd;
+  --bronze: #cd7f32;
+}
+
+/* Dark mode variables */
+html.dark-mode {
+  --cream: #1a1a2e;
+  --text: #e0e0e0;
+  --text-light: #a0a0a0;
+  --white: #2a2a3e;
+  --shadow: 0 10px 40px rgba(0,0,0,0.3);
+  --shadow-lg: 0 20px 60px rgba(0,0,0,0.4);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", "Helvetica Neue", sans-serif;
+  color: var(--text);
+  background: var(--cream);
+  overflow-x: hidden;
+  line-height: 1.6;
+}
+
+a { text-decoration: none; color: inherit; }
+
+/* ============ NAVBAR ============ */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 0.8rem 2rem;
+  background: rgba(26,26,46,0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.navbar-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--white);
+  font-size: 1.2rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.navbar-tabs {
+  display: flex;
+  gap: 0.3rem;
+}
+
+.navbar-tab {
+  padding: 0.5rem 1.2rem;
+  border-radius: 50px;
+  color: rgba(255,255,255,0.7);
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: transparent;
+  border: none;
+  white-space: nowrap;
+}
+
+.navbar-tab.active {
+  background: rgba(255,255,255,0.15);
+  color: var(--white);
+}
+
+.navbar-tab:hover:not(.active) {
+  color: var(--white);
+  background: rgba(255,255,255,0.08);
+}
+
+.navbar-right {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.navbar-search {
+  position: relative;
+}
+
+.lang-switch {
+  padding: 0.4rem 0.8rem;
+  border-radius: 50px;
+  background: rgba(255,255,255,0.1);
+  color: var(--white);
+  font-size: 0.8rem;
+  font-weight: 700;
+  cursor: pointer;
+  border: 1px solid rgba(255,255,255,0.2);
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+.lang-switch:hover {
+  background: rgba(255,255,255,0.2);
+  border-color: var(--red-light);
+}
+
+.arrow-down {
+  display: inline-block;
+  margin-left: 0.3rem;
+  font-size: 0.6rem;
+  vertical-align: middle;
+}
+
+/* Language dropdown */
+.lang-dropdown {
+  position: relative;
+}
+
+.lang-menu {
+  position: absolute;
+  top: calc(100% + 0.5rem);
+  right: 0;
+  min-width: 120px;
+  background: var(--white);
+  border-radius: 8px;
+  box-shadow: var(--shadow-lg);
+  overflow: hidden;
+  z-index: 1001;
+  animation: slideDown 0.2s ease-out;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.lang-option {
+  width: 100%;
+  padding: 0.6rem 1rem;
+  background: transparent;
+  border: none;
+  text-align: left;
+  font-size: 0.9rem;
+  color: var(--text);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.lang-option:hover {
+  background: rgba(214,40,40,0.1);
+}
+
+.lang-option.active {
+  background: rgba(214,40,40,0.15);
+  color: var(--red);
+  font-weight: 600;
+}
+
+/* Theme toggle button */
+.theme-toggle {
+  padding: 0.4rem 0.6rem;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+}
+
+.theme-toggle:hover {
+  background: rgba(255,255,255,0.2);
+  border-color: var(--gold);
+  transform: rotate(15deg);
+}
+
+.navbar-search input {
+  width: 220px;
+  padding: 0.5rem 1rem 0.5rem 2.5rem;
+  border: 1px solid rgba(255,255,255,0.2);
+  border-radius: 50px;
+  background: rgba(255,255,255,0.08);
+  color: var(--white);
+  font-size: 0.9rem;
+  outline: none;
+  transition: all 0.3s;
+}
+
+.navbar-search input::placeholder { color: rgba(255,255,255,0.4); }
+
+.navbar-search input:focus {
+  border-color: var(--red-light);
+  background: rgba(255,255,255,0.12);
+  width: 260px;
+}
+
+.navbar-search::before {
+  content: '🔍';
+  position: absolute;
+  left: 0.8rem;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 0.85rem;
+}
+
+/* ============ HERO (Homepage) ============ */
+.home-hero {
+  min-height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, var(--dark) 0%, var(--dark-2) 100%);
+  text-align: center;
+  padding: 8rem 2rem 4rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.home-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at center, rgba(214,40,40,0.08), transparent 60%);
+}
+
+.home-hero h1 {
+  position: relative;
+  z-index: 2;
+  font-size: clamp(2rem, 6vw, 3.5rem);
+  font-weight: 900;
+  color: var(--white);
+  margin-bottom: 0.5rem;
+}
+
+.home-hero h1 .accent {
+  background: linear-gradient(135deg, var(--red-light), var(--gold));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.home-hero p {
+  position: relative;
+  z-index: 2;
+  color: rgba(255,255,255,0.6);
+  font-size: 1.1rem;
+}
+
+/* ============ ATHLETE GRID ============ */
+.athlete-grid-section {
+  padding: 3rem 2rem 5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.athlete-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.athlete-card {
+  background: var(--white);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.athlete-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-lg);
+}
+
+.athlete-card-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  background: #eee;
+}
+
+.athlete-card-body {
+  padding: 1rem 1.2rem 1.5rem;
+  text-align: center;
+}
+
+.athlete-card-name {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: var(--dark);
+  margin-bottom: 0.3rem;
+}
+
+.athlete-card-team {
+  font-size: 0.82rem;
+  color: var(--text-light);
+  margin-bottom: 0.5rem;
+}
+
+.athlete-card-stats {
+  font-size: 0.85rem;
+  color: var(--red);
+  font-weight: 600;
+}
+
+.no-results {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: var(--text-light);
+  font-size: 1.1rem;
+}
+
+/* ============ ATHLETE DETAIL: HERO ============ */
+.athlete-hero {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.athlete-hero-slides {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.athlete-hero-slide {
+  position: absolute;
+  inset: 0;
+  background: center center / cover no-repeat;
+  opacity: 0;
+  transition: opacity 1.5s ease-in-out;
+}
+
+.athlete-hero-slide.active { opacity: 1; }
+
+.athlete-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(26,26,46,0.45) 0%, rgba(22,33,62,0.30) 40%, rgba(15,52,96,0.18) 70%, rgba(26,26,46,0.40) 100%);
+  z-index: 1;
+}
+
+.athlete-hero-inner {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: 2rem;
+  max-width: 900px;
+  width: 100%;
+}
+
+.athlete-hero-flag {
+  font-size: 1.1rem;
+  letter-spacing: 6px;
+  color: var(--gold-light);
+  margin-bottom: 1.2rem;
+  opacity: 0;
+  animation: fadeUp 0.8s 0.2s forwards;
+}
+
+.athlete-hero-name {
+  font-size: clamp(3rem, 10vw, 6rem);
+  font-weight: 900;
+  color: rgba(255,255,255,0.88);
+  line-height: 1;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.5rem;
+  opacity: 0;
+  animation: fadeUp 0.8s 0.4s forwards;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.45);
+}
+
+.athlete-hero-name .accent {
+  background: linear-gradient(135deg, var(--red-light), var(--gold));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.athlete-hero-sub {
+  font-size: clamp(0.95rem, 3vw, 1.3rem);
+  color: rgba(255,255,255,0.85);
+  font-weight: 300;
+  letter-spacing: 2px;
+  margin-bottom: 2rem;
+  opacity: 0;
+  animation: fadeUp 0.8s 0.6s forwards;
+  text-shadow: 0 1px 6px rgba(0,0,0,0.4);
+}
+
+.athlete-hero-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  justify-content: center;
+  opacity: 0;
+  animation: fadeUp 0.8s 0.8s forwards;
+}
+
+.athlete-hero-tag {
+  padding: 0.5rem 1.3rem;
+  border: 1px solid rgba(255,255,255,0.25);
+  border-radius: 50px;
+  font-size: 0.85rem;
+  color: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0.08);
+}
+
+.athlete-hero-tag.gold {
+  border-color: var(--gold);
+  color: var(--gold-light);
+  background: rgba(244,163,0,0.15);
+}
+
+.scroll-hint {
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  color: rgba(255,255,255,0.5);
+  font-size: 0.8rem;
+  letter-spacing: 2px;
+  opacity: 0;
+  animation: fadeUp 0.8s 1s forwards;
+  text-align: center;
+}
+
+.scroll-hint .arrow {
+  display: block;
+  width: 24px;
+  height: 24px;
+  margin: 0.5rem auto 0;
+  border-right: 2px solid rgba(255,255,255,0.4);
+  border-bottom: 2px solid rgba(255,255,255,0.4);
+  transform: rotate(45deg);
+  animation: bounce 1.5s infinite;
+}
+
+@keyframes bounce {
+  0%,100% { transform: rotate(45deg) translate(0,0); }
+  50% { transform: rotate(45deg) translate(4px,4px); }
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ============ STATS ============ */
+.stats {
+  padding: 4rem 2rem;
+  background: var(--white);
+}
+
+.stats-grid {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1.5rem;
+}
+
+.stat-card {
+  text-align: center;
+  padding: 2rem 1rem;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #fff 0%, #fafafa 100%);
+  box-shadow: var(--shadow);
+  transition: transform 0.3s, box-shadow 0.3s;
+  border-top: 4px solid var(--red);
+}
+
+.stat-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-lg);
+}
+
+.stat-card.gold-border { border-top-color: var(--gold); }
+
+.stat-num {
+  font-size: 2.8rem;
+  font-weight: 900;
+  color: var(--red);
+  line-height: 1;
+}
+
+.stat-card.gold-border .stat-num { color: var(--gold); }
+
+.stat-label {
+  margin-top: 0.6rem;
+  font-size: 0.9rem;
+  color: var(--text-light);
+  font-weight: 500;
+}
+
+/* ============ SECTION TITLE ============ */
+.section-title {
+  text-align: center;
+  padding: 4rem 2rem 1rem;
+}
+
+.section-title h2 {
+  font-size: clamp(1.8rem, 5vw, 2.6rem);
+  font-weight: 800;
+  color: var(--dark);
+  margin-bottom: 0.5rem;
+}
+
+.section-title h2 .accent { color: var(--red); }
+
+.section-title p {
+  color: var(--text-light);
+  font-size: 1rem;
+}
+
+.section-title .line {
+  width: 60px;
+  height: 4px;
+  background: linear-gradient(90deg, var(--red), var(--gold));
+  margin: 1rem auto 0;
+  border-radius: 2px;
+}
+
+/* ============ TIMELINE ============ */
+.timeline-section {
+  padding: 2rem 2rem 5rem;
+  background: var(--cream);
+}
+
+.timeline {
+  max-width: 1000px;
+  margin: 0 auto;
+  position: relative;
+  padding: 2rem 0;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(180deg, transparent, var(--red) 5%, var(--red) 95%, transparent);
+  transform: translateX(-50%);
+}
+
+.tl-item {
+  position: relative;
+  width: 50%;
+  padding: 1.5rem 3rem;
+  opacity: 0;
+  transform: translateY(40px);
+  transition: opacity 0.6s, transform 0.6s;
+}
+
+.tl-item.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.tl-item:nth-child(odd) {
+  left: 0;
+  text-align: right;
+}
+
+.tl-item:nth-child(even) {
+  left: 50%;
+  text-align: left;
+}
+
+.tl-dot {
+  position: absolute;
+  top: 2.2rem;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--red);
+  border: 4px solid var(--white);
+  box-shadow: 0 0 0 3px var(--red);
+  z-index: 2;
+  transition: transform 0.3s;
+}
+
+.tl-item:nth-child(odd) .tl-dot { right: -9px; }
+.tl-item:nth-child(even) .tl-dot { left: -9px; }
+
+.tl-item:hover .tl-dot { transform: scale(1.3); }
+
+.tl-dot.peak {
+  background: var(--gold);
+  box-shadow: 0 0 0 3px var(--gold), 0 0 20px var(--gold);
+}
+
+.tl-card {
+  background: var(--white);
+  border-radius: 14px;
+  padding: 1.5rem 1.8rem;
+  box-shadow: var(--shadow);
+  transition: transform 0.3s, box-shadow 0.3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.tl-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 5px;
+  height: 100%;
+  background: var(--red);
+}
+
+.tl-card.peak-card::before { background: var(--gold); }
+
+.tl-card:hover {
+  transform: scale(1.03);
+  box-shadow: var(--shadow-lg);
+}
+
+.tl-year {
+  font-size: 1.6rem;
+  font-weight: 900;
+  color: var(--red);
+  line-height: 1;
+  margin-bottom: 0.3rem;
+}
+
+.tl-card.peak-card .tl-year { color: var(--gold); }
+
+.tl-age {
+  font-size: 0.8rem;
+  color: var(--text-light);
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  padding: 0.15rem 0.6rem;
+  background: #f0f0f0;
+  border-radius: 20px;
+}
+
+.tl-card ul {
+  list-style: none;
+  padding: 0;
+}
+
+.tl-card li {
+  padding: 0.4rem 0;
+  font-size: 0.92rem;
+  color: var(--text);
+  border-bottom: 1px dashed #eee;
+}
+
+.tl-card li:last-child { border-bottom: none; }
+
+.tl-card .highlight-badge {
+  display: inline-block;
+  margin-top: 0.6rem;
+  padding: 0.3rem 0.8rem;
+  background: linear-gradient(135deg, var(--gold), var(--gold-light));
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 700;
+  border-radius: 6px;
+}
+
+/* ============ ACHIEVEMENTS ============ */
+.achievements-section {
+  padding: 5rem 2rem;
+  background: linear-gradient(135deg, var(--dark) 0%, var(--dark-2) 100%);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.achievements-section::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at center, rgba(244,163,0,0.12), transparent 60%);
+}
+
+.ach-content {
+  position: relative;
+  z-index: 2;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.ach-title {
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  font-weight: 900;
+  color: var(--gold-light);
+  margin-bottom: 1rem;
+}
+
+.ach-desc {
+  color: rgba(255,255,255,0.7);
+  font-size: 1.05rem;
+  margin-bottom: 2.5rem;
+  line-height: 1.8;
+}
+
+.ach-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 1rem;
+}
+
+.ach-item {
+  padding: 1.5rem 0.8rem;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 12px;
+  transition: all 0.3s;
+}
+
+.ach-item:hover {
+  background: rgba(244,163,0,0.1);
+  border-color: var(--gold);
+  transform: translateY(-4px);
+}
+
+.ach-icon { font-size: 1.8rem; margin-bottom: 0.5rem; }
+
+.ach-item-title {
+  color: var(--white);
+  font-weight: 700;
+  font-size: 0.95rem;
+  margin-bottom: 0.2rem;
+}
+
+.ach-item-year { color: var(--gold-light); font-size: 0.8rem; }
+
+/* ============ TOURNAMENT PAGE ============ */
+.tournament-hero {
+  background: linear-gradient(135deg, var(--dark) 0%, var(--dark-2) 100%);
+  text-align: center;
+  padding: 8rem 2rem 3rem;
+}
+
+.tournament-hero h1 {
+  font-size: clamp(1.8rem, 5vw, 2.8rem);
+  font-weight: 900;
+  color: var(--white);
+  margin-bottom: 0.5rem;
+}
+
+.tournament-hero h1 .accent {
+  background: linear-gradient(135deg, var(--red-light), var(--gold));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.tournament-hero p { color: rgba(255,255,255,0.6); }
+
+.tournament-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  padding: 2rem 2rem 1rem;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.tournament-tab {
+  padding: 0.5rem 1.2rem;
+  border: 2px solid #ddd;
+  border-radius: 50px;
+  background: var(--white);
+  color: var(--text-light);
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s;
+  white-space: nowrap;
+}
+
+.tournament-tab.active {
+  border-color: var(--red);
+  background: var(--red);
+  color: var(--white);
+}
+
+.tournament-tab:hover:not(.active) {
+  border-color: var(--red);
+  color: var(--red);
+}
+
+.tournament-content {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1rem 2rem 5rem;
+}
+
+.year-card {
+  background: var(--white);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  margin-bottom: 1.2rem;
+  overflow: hidden;
+  transition: box-shadow 0.3s;
+}
+
+.year-card:hover { box-shadow: var(--shadow-lg); }
+
+.year-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.2rem 1.8rem;
+  cursor: pointer;
+  background: linear-gradient(135deg, #fff 0%, #fafafa 100%);
+  border-left: 5px solid var(--red);
+}
+
+.year-card-title {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: var(--dark);
+}
+
+.year-card-location {
+  font-size: 0.9rem;
+  color: var(--text-light);
+  margin-left: 0.8rem;
+}
+
+.year-card-toggle {
+  font-size: 1.2rem;
+  color: var(--text-light);
+  transition: transform 0.3s;
+}
+
+.year-card.expanded .year-card-toggle { transform: rotate(180deg); }
+
+.year-card-body {
+  padding: 0 1.8rem 1.5rem;
+  display: none;
+}
+
+.year-card.expanded .year-card-body { display: block; }
+
+.medal-row {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  gap: 1rem;
+  align-items: center;
+  padding: 0.7rem 0;
+  border-bottom: 1px dashed #eee;
+}
+
+.medal-row:last-child { border-bottom: none; }
+
+.medal-event {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text-light);
+}
+
+.medal-winners {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  font-size: 0.88rem;
+}
+
+.medal-gold { color: var(--gold); font-weight: 700; }
+.medal-silver { color: var(--silver); font-weight: 600; }
+.medal-bronze { color: var(--bronze); }
+
+.medal-winner {
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  transition: text-decoration-color 0.2s;
+}
+
+.medal-winner:hover { text-decoration-color: currentColor; }
+
+/* ============ FOOTER ============ */
+.footer {
+  background: var(--dark);
+  color: rgba(255,255,255,0.5);
+  text-align: center;
+  padding: 2.5rem 2rem;
+  font-size: 0.85rem;
+}
+
+.footer strong { color: var(--gold-light); }
+
+/* ============ LOADING ============ */
+.loading {
+  text-align: center;
+  padding: 6rem 2rem;
+  color: var(--text-light);
+  font-size: 1.1rem;
+}
+
+/* ============ RESPONSIVE ============ */
+@media (max-width: 1024px) {
+  .athlete-grid { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    padding: 0.6rem 1rem;
+    gap: 0.8rem;
+    flex-wrap: wrap;
+  }
+  .navbar-search { margin-left: 0; width: 100%; order: 3; }
+  .navbar-search input { width: 100%; }
+  .navbar-search input:focus { width: 100%; }
+
+  .athlete-grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; }
+
+  .timeline::before { left: 30px; }
+  .tl-item {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 0.5rem;
+    text-align: left !important;
+  }
+  .tl-item:nth-child(odd), .tl-item:nth-child(even) {
+    left: 0;
+    text-align: left;
+  }
+  .tl-item:nth-child(odd) .tl-dot,
+  .tl-item:nth-child(even) .tl-dot {
+    left: 21px;
+    right: auto;
+  }
+
+  .stats-grid { grid-template-columns: repeat(2, 1fr); }
+
+  .athlete-hero::before {
+    background: linear-gradient(135deg, rgba(26,26,46,0.50) 0%, rgba(22,33,62,0.38) 50%, rgba(26,26,46,0.50) 100%);
+  }
+
+  .medal-row { grid-template-columns: 60px 1fr; gap: 0.5rem; }
+  .medal-winners { font-size: 0.82rem; gap: 0.5rem; }
+}
+
+/* Dark mode specific adjustments */
+html.dark-mode .navbar {
+  background: rgba(26,26,46,0.95);
+}
+
+html.dark-mode .athlete-card {
+  background: var(--white);
+}
+
+html.dark-mode .stats {
+  background: #2a2a3e;
+}
+
+html.dark-mode .stat-card {
+  background: linear-gradient(135deg, #2a2a3e 0%, #1f1f2e 100%);
+}
+
+html.dark-mode .timeline-section {
+  background: #1a1a2e;
+}
+
+html.dark-mode .tl-card {
+  background: #2a2a3e;
+}
+
+html.dark-mode .tl-card li {
+  border-bottom-color: rgba(255,255,255,0.1);
+}
+
+html.dark-mode .tl-age {
+  background: rgba(255,255,255,0.1);
+  color: var(--text-light);
+}
+
+html.dark-mode .year-card {
+  background: var(--white);
+}
+
+html.dark-mode .year-card-header {
+  background: linear-gradient(135deg, #2a2a3e 0%, #1f1f2e 100%);
+}
+
+html.dark-mode .medal-row {
+  border-bottom-color: rgba(255,255,255,0.1);
+}
+
+html.dark-mode .lang-menu {
+  background: #2a2a3e;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+}
+
+html.dark-mode .theme-toggle {
+  background: rgba(255,255,255,0.15);
+}

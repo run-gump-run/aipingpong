@@ -1,0 +1,114 @@
+﻿{
+    "id":  "lixiaoxia",
+    "heroImages":  [
+                       "images/athletes/lixiaoxia/hero.jpg"
+                   ],
+    "team":  "中国国家乒乓球队",
+    "tags":  [
+                 {
+                     "text":  "🥇 奥运冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏅 世乒赛冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏆 世界杯冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1988.06.21 生于鞍山",
+                     "type":  "normal"
+                 }
+             ],
+    "nameEn":  "LI XIAOXIA · 乒乓传奇 · 大满贯",
+    "name":  "李晓霞",
+    "stats":  [
+                  {
+                      "label":  "奥运金牌",
+                      "num":  3,
+                      "highlight":  true
+                  },
+                  {
+                      "label":  "世乒赛单打冠军",
+                      "num":  1,
+                      "highlight":  false
+                  },
+                  {
+                      "label":  "世界杯单打冠军",
+                      "num":  2,
+                      "highlight":  false
+                  },
+                  {
+                      "label":  "大满贯",
+                      "num":  1,
+                      "highlight":  true
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "世界杯首冠",
+                         "age":  "20岁",
+                         "year":  "2008",
+                         "achievements":  [
+                                              "🏆 乒乓球世界杯女单冠军"
+                                          ]
+                     },
+                     {
+                         "subtitle":  "伦敦登顶",
+                         "achievements":  [
+                                              "🥇 伦敦奥运会女单金牌",
+                                              "🥇 伦敦奥运会女团冠军"
+                                          ],
+                         "age":  "24岁",
+                         "year":  "2012",
+                                                  "isPeak":  true
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "世乒赛单打首冠",
+                         "age":  "25岁",
+                         "year":  "2013",
+                         "achievements":  [
+                                              "🏆 巴黎世乒赛女单冠军"
+                                          ],
+                         "badge":  "⭐ 大满贯达成"
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "里约收官",
+                         "age":  "28岁",
+                         "year":  "2016",
+                         "achievements":  [
+                                              "🥇 里约奥运会女团冠军",
+                                              "🥈 里约奥运会女单亚军",
+                                              "📌 赛后退役"
+                                          ]
+                     }
+                 ],
+    "country":  "CHN",
+    "birthDate":  "1988-06-21",
+    "achievements":  {
+                         "title":  "⭐ 大满贯",
+                         "description":  "李晓霞以力量型打法著称，是中国女乒第四位大满贯得主。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会单打",
+                                           "year":  "2012 伦敦"
+                                       },
+                                       {
+                                           "icon":  "🏅",
+                                           "title":  "世乒赛单打",
+                                           "year":  "2013"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世界杯单打",
+                                           "year":  "2008 / 2012"
+                                       }
+                                   ]
+                     }
+}

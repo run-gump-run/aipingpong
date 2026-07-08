@@ -1,0 +1,172 @@
+{
+    "id":  "konglinghui",
+    "name":  "孔令辉",
+    "nameEn":  "KONG LINGHUI · 乒乓王子 · 大满贯",
+    "country":  "CHN",
+    "team":  "中国国家乒乓球队",
+    "birthDate":  "1975-10-18",
+    "heroImages":  [
+                       "images/athletes/konglinghui/hero.jpg"
+                   ],
+    "tags":  [
+                 {
+                     "text":  "🥇 奥运男单冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏅 世乒赛单打冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏆 世界杯单打冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1975.10.18 生于哈尔滨",
+                     "type":  "normal"
+                 }
+             ],
+    "stats":  [
+                  {
+                      "num":  2,
+                      "label":  "奥运金牌",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  1,
+                      "label":  "世乒赛单打冠军",
+                      "highlight":  true
+                  },
+                  {
+                      "num":  1,
+                      "label":  "世界杯单打冠军",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  1,
+                      "label":  "大满贯",
+                      "highlight":  true
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "year":  "1994",
+                         "age":  "19岁",
+                         "subtitle":  "世界杯首冠",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 男子世界杯单打冠军（个人首个三大赛单打冠军）"
+                                          ]
+                     },
+                     {
+                         "year":  "1995",
+                         "age":  "20岁",
+                         "subtitle":  "世乒赛夺冠 · 崛起之年",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🏆 天津世乒赛男单冠军（决赛击败盖亭）",
+                                              "🏆 世乒赛男团冠军",
+                                              "🏆 混双冠军（搭档邓亚萍）",
+                                              "📌 中国男乒重返巅峰的标志性人物"
+                                          ],
+                         "badge":  "⭐ 世乒赛单打冠军"
+                     },
+                     {
+                         "year":  "1996",
+                         "age":  "21岁",
+                         "subtitle":  "亚特兰大奥运双冠",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥇 亚特兰大奥运会男双金牌（搭档刘国梁）",
+                                              "🥈 亚特兰大奥运会男单亚军"
+                                          ]
+                     },
+                     {
+                         "year":  "1997",
+                         "age":  "22岁",
+                         "subtitle":  "世乒赛双打冠军",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 曼彻斯特世乒赛男双冠军（搭档刘国梁）",
+                                              "🏆 世乒赛男团冠军"
+                                          ]
+                     },
+                     {
+                         "year":  "1999",
+                         "age":  "24岁",
+                         "subtitle":  "世乒赛卫冕",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 埃因霍温世乒赛男双冠军（搭档刘国梁，卫冕成功）"
+                                          ]
+                     },
+                     {
+                         "year":  "2000",
+                         "age":  "25岁",
+                         "subtitle":  "悉尼登顶 · 成就大满贯",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥇 悉尼奥运会男单金牌（决赛4:3击败瓦尔德内尔）",
+                                              "📌 集奥运会、世乒赛、世界杯单打冠军于一身，成就大满贯",
+                                              "📌 中国男乒第二位大满贯得主"
+                                          ],
+                         "badge":  "⭐ 大满贯达成"
+                     },
+                     {
+                         "year":  "2001",
+                         "age":  "26岁",
+                         "subtitle":  "世乒赛再夺双打",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 大阪世乒赛男双冠军（搭档刘国梁，三连冠）",
+                                              "🏆 世乒赛男团冠军"
+                                          ]
+                     },
+                     {
+                         "year":  "2004",
+                         "age":  "29岁",
+                         "subtitle":  "雅典奥运",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "📌 雅典奥运会男双（搭档王皓）止步八强",
+                                              "🏆 国际乒联巡回赛多次夺冠"
+                                          ]
+                     },
+                     {
+                         "year":  "2006",
+                         "age":  "31岁",
+                         "subtitle":  "退役",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "📌 正式宣布退役，结束职业生涯",
+                                              "📌 后转型教练，曾任中国女队主教练"
+                                          ]
+                     }
+                 ],
+    "achievements":  {
+                         "title":  "⭐ 大满贯",
+                         "description":  "孔令辉是中国男乒第二位大满贯得主，集奥运会（2000）、世乒赛（1995）、世界杯（1994）单打冠军于一身。他与刘国梁并称「双子星」，共同开启了中国男乒的统治时代。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会单打",
+                                           "year":  "2000 悉尼"
+                                       },
+                                       {
+                                           "icon":  "🏅",
+                                           "title":  "世乒赛单打",
+                                           "year":  "1995 天津"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世界杯单打",
+                                           "year":  "1994"
+                                       },
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会双打",
+                                           "year":  "1996 亚特兰大"
+                                       }
+                                   ]
+                     }
+}

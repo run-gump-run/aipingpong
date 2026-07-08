@@ -1,0 +1,60 @@
+{
+  "id": "lixiaoxia",
+  "name": "Li Xiaoxia",
+  "nameEn": "LI XIAOXIA · Table Tennis Legend · Grand Slam",
+  "country": "CHN",
+  "team": "China National Table Tennis Team",
+  "birthDate": "1988-06-21",
+  "heroImages": ["images/athletes/lixiaoxia/hero.jpg"],
+  "tags": [
+    {"text": "🥇 Olympic Champion", "type": "gold"},
+    {"text": "🏅 World Champion", "type": "gold"},
+    {"text": "🏆 World Cup Champion", "type": "gold"},
+    {"text": "🎂 1988.06.21 Born in Anshan", "type": "normal"}
+  ],
+  "stats": [
+    {"num": 3, "label": "Olympic Golds", "highlight": true},
+    {"num": 1, "label": "World Singles Titles", "highlight": false},
+    {"num": 2, "label": "World Cup Singles Titles", "highlight": false},
+    {"num": 1, "label": "Grand Slam", "highlight": true}
+  ],
+  "timeline": [
+    {
+      "year": "2008", "age": "Age 20", "subtitle": "First World Cup Title", "isPeak": false,
+      "achievements": [
+        "🏆 World Cup Women's Singles Champion"
+      ]
+    },
+    {
+      "year": "2012", "age": "Age 24", "subtitle": "London Triumph", "isPeak": true,
+      "achievements": [
+        "🥇 London Olympics Women's Singles Gold",
+        "🥇 London Olympics Women's Team Champion"
+      ]
+    },
+    {
+      "year": "2013", "age": "Age 25", "subtitle": "First World Singles Title", "isPeak": false,
+      "achievements": [
+        "🏆 Paris World Championships Women's Singles Champion"
+      ],
+      "badge": "⭐ Grand Slam Achieved"
+    },
+    {
+      "year": "2016", "age": "Age 28", "subtitle": "Rio Finale", "isPeak": false,
+      "achievements": [
+        "🥇 Rio Olympics Women's Team Champion",
+        "🥈 Rio Olympics Women's Singles Runner-up",
+        "📌 Retired after the Games"
+      ]
+    }
+  ],
+  "achievements": {
+    "title": "⭐ Grand Slam",
+    "description": "Li Xiaoxia was known for her power-style play and was the fourth female player from China to achieve the Grand Slam.",
+    "items": [
+      {"icon": "🥇", "title": "Olympic Singles", "year": "2012 London"},
+      {"icon": "🏅", "title": "World Championships Singles", "year": "2013"},
+      {"icon": "🏆", "title": "World Cup Singles", "year": "2008 / 2012"}
+    ]
+  }
+}

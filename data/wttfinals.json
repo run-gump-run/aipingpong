@@ -1,0 +1,91 @@
+{
+  "id": "wttfinals",
+  "name": "ITTF/WTT总决赛",
+  "icon": "📋",
+  "years": [
+    {
+      "year": "2025",
+      "location": "香港",
+      "events": {
+        "mensSingles": {"gold": "张本智和(日本)", "silver": "莫雷加德(瑞典)"},
+        "womensSingles": {"gold": "王曼昱", "silver": "蒯曼"}
+      }
+    },
+    {
+      "year": "2024",
+      "location": "福冈",
+      "events": {
+        "mensSingles": {"gold": "王楚钦", "silver": "张本智和(日本)"},
+        "womensSingles": {"gold": "王曼昱", "silver": "陈幸同"}
+      }
+    },
+    {
+      "year": "2023",
+      "location": "多哈",
+      "events": {
+        "mensSingles": {"gold": "王楚钦", "silver": "张本智和(日本)"},
+        "womensSingles": {"gold": "孙颖莎"}
+      }
+    },
+    {
+      "year": "2022",
+      "location": "新乡",
+      "events": {
+        "mensSingles": {"gold": "王楚钦", "silver": "张本智和(日本)"},
+        "womensSingles": {"gold": "孙颖莎", "silver": "陈梦"}
+      }
+    },
+    {
+      "year": "2021",
+      "location": "新加坡",
+      "events": {
+        "mensSingles": {"gold": "樊振东", "silver": "张本智和(日本)"},
+        "womensSingles": {"gold": "孙颖莎", "silver": "王艺迪"}
+      }
+    },
+    {
+      "year": "2020",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "马龙"},
+        "womensSingles": {"gold": "陈梦"}
+      }
+    },
+    {
+      "year": "2019",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "樊振东"},
+        "womensSingles": {"gold": "陈梦"}
+      }
+    },
+    {
+      "year": "2018",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "张本智和(日本)"}
+      }
+    },
+    {
+      "year": "2017",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "樊振东"}
+      }
+    },
+    {
+      "year": "2016",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "马龙"}
+      }
+    },
+    {
+      "year": "2015",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "马龙"}
+      }
+    }
+  ]
+}

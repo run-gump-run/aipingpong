@@ -1,0 +1,141 @@
+{
+    "id":  "zhangjike",
+    "name":  "张继科",
+    "nameEn":  "ZHANG JIKE · 藏獒 · 最快大满贯",
+    "country":  "CHN",
+    "team":  "中国国家乒乓球队",
+    "birthDate":  "1988-02-16",
+    "heroImages":  [
+                       "images/athletes/zhangjike/hero.jpg"
+                   ],
+    "tags":  [
+                 {
+                     "text":  "🥇 奥运男单冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏅 世乒赛单打冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏆 世界杯单打冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1988.02.16 生于青岛",
+                     "type":  "normal"
+                 }
+             ],
+    "stats":  [
+                  {
+                      "num":  3,
+                      "label":  "奥运金牌",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  2,
+                      "label":  "世乒赛单打冠军",
+                      "highlight":  true
+                  },
+                  {
+                      "num":  2,
+                      "label":  "世界杯单打冠军",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  1,
+                      "label":  "大满贯",
+                      "highlight":  true
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "year":  "2011",
+                         "age":  "23岁",
+                         "subtitle":  "世乒赛+世界杯 · 双冠爆发",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🏆 鹿特丹世乒赛男单冠军（决赛击败王皓）",
+                                              "🏆 巴黎男子世界杯单打冠军",
+                                              "📌 个人首个世乒赛和世界杯单打冠军"
+                                          ],
+                         "badge":  "⭐ 世乒赛+世界杯双冠"
+                     },
+                     {
+                         "year":  "2012",
+                         "age":  "24岁",
+                         "subtitle":  "伦敦登顶 · 最快大满贯",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥇 伦敦奥运会男单金牌（决赛4:1击败王皓）",
+                                              "🥇 伦敦奥运会男团金牌",
+                                              "📌 仅用445天完成大满贯，史上最快"
+                                          ],
+                         "badge":  "⭐ 最快大满贯（445天）"
+                     },
+                     {
+                         "year":  "2013",
+                         "age":  "25岁",
+                         "subtitle":  "卫冕世乒赛",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🏆 巴黎世乒赛男单冠军（卫冕成功，决赛击败王皓）"
+                                          ]
+                     },
+                     {
+                         "year":  "2014",
+                         "age":  "26岁",
+                         "subtitle":  "世界杯卫冕",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 男子世界杯单打冠军（卫冕成功，决赛击败马龙）"
+                                          ]
+                     },
+                     {
+                         "year":  "2016",
+                         "age":  "28岁",
+                         "subtitle":  "里约奥运",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🥈 里约奥运会男单银牌（决赛负于马龙）",
+                                              "🥇 里约奥运会男团金牌"
+                                          ]
+                     },
+                     {
+                         "year":  "2018",
+                         "age":  "30岁",
+                         "subtitle":  "淡出赛场",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "📌 逐渐淡出国际赛场",
+                                              "📌 转型综艺节目与商业活动"
+                                          ]
+                     }
+                 ],
+    "achievements":  {
+                         "title":  "⭐ 最快大满贯",
+                         "description":  "张继科仅用445天便集齐世乒赛（2011）、世界杯（2011）、奥运会（2012）三大赛单打冠军，创造了史上最快大满贯纪录。以凶悍的比赛风格和强大的心理素质著称，被誉为「藏獒」。巅峰期统治力极强，两夺世乒赛男单冠军。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会单打",
+                                           "year":  "2012 伦敦"
+                                       },
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会团体",
+                                           "year":  "2012 / 2016"
+                                       },
+                                       {
+                                           "icon":  "🏅",
+                                           "title":  "世乒赛单打",
+                                           "year":  "2011 / 2013 卫冕"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世界杯单打",
+                                           "year":  "2011 / 2014"
+                                       }
+                                   ]
+                     }
+}

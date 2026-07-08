@@ -1,0 +1,191 @@
+{
+    "id":  "malong",
+    "name":  "马龙",
+    "nameEn":  "MA LONG · 乒乓传奇 · 双圈大满贯",
+    "country":  "CHN",
+    "team":  "中国国家乒乓球队",
+    "birthDate":  "1988-10-20",
+    "heroImages":  [
+                       "images/athletes/malong/hero.jpg"
+                   ],
+    "tags":  [
+                 {
+                     "text":  "🏆 奥运冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏅 世乒赛冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏆 世界杯冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1988.10.20 生于鞍山",
+                     "type":  "normal"
+                 }
+             ],
+    "stats":  [
+                  {
+                      "num":  6,
+                      "label":  "奥运金牌",
+                      "highlight":  true
+                  },
+                  {
+                      "num":  3,
+                      "label":  "世乒赛单打冠军",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  2,
+                      "label":  "世界杯单打冠军",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  2,
+                      "label":  "大满贯",
+                      "highlight":  true
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "year":  "2003",
+                         "age":  "15岁",
+                         "subtitle":  "入选国家队",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "📌 入选国家一队，崭露头角"
+                                          ]
+                     },
+                     {
+                         "year":  "2006",
+                         "age":  "18岁",
+                         "subtitle":  "首个世界冠军",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 不莱梅团体世乒赛冠军（个人首个世界冠军）"
+                                          ]
+                     },
+                     {
+                         "year":  "2010",
+                         "age":  "22岁",
+                         "subtitle":  "亚运会三冠王",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 广州亚运会男单冠军、男团冠军、混双冠军"
+                                          ]
+                     },
+                     {
+                         "year":  "2012",
+                         "age":  "24岁",
+                         "subtitle":  "世界杯首冠",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 男子世界杯单打冠军（个人首个三大赛单打冠军）",
+                                              "🏆 伦敦奥运会男团冠军"
+                                          ]
+                     },
+                     {
+                         "year":  "2015",
+                         "age":  "27岁",
+                         "subtitle":  "世乒赛单打首冠",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 苏州世乒赛男单冠军（个人首座世乒赛单打冠军）",
+                                              "🏆 男子世界杯单打冠军",
+                                              "🏆 团体世界杯冠军"
+                                          ]
+                     },
+                     {
+                         "year":  "2016",
+                         "age":  "28岁",
+                         "subtitle":  "里约登顶 · 成就大满贯",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥇 里约奥运会男单金牌（决赛4:0击败张继科）",
+                                              "🥇 里约奥运会男团金牌",
+                                              "🏆 第8次获得世界冠军"
+                                          ],
+                         "badge":  "⭐ 大满贯达成"
+                     },
+                     {
+                         "year":  "2017",
+                         "age":  "29岁",
+                         "subtitle":  "卫冕世乒赛",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 杜塞尔多夫世乒赛男单冠军（卫冕成功）"
+                                          ]
+                     },
+                     {
+                         "year":  "2019",
+                         "age":  "31岁",
+                         "subtitle":  "世乒赛三连冠",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🏆 布达佩斯世乒赛男单冠军（三连冠）",
+                                              "📌 继庄则栋之后第二位世乒赛男单三连冠"
+                                          ],
+                         "badge":  "⭐ 世乒赛三连冠"
+                     },
+                     {
+                         "year":  "2020",
+                         "age":  "32岁",
+                         "subtitle":  "东京卫冕 · 双圈大满贯",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥇 东京奥运会男单金牌（卫冕成功，决赛4:2击败樊振东）",
+                                              "🥇 东京奥运会男团金牌",
+                                              "📌 史上首位卫冕奥运男单的选手"
+                                          ],
+                         "badge":  "⭐ 双圈大满贯达成"
+                     },
+                     {
+                         "year":  "2024",
+                         "age":  "36岁",
+                         "subtitle":  "巴黎团体金牌",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🥇 巴黎奥运会男团金牌（中国队奥运男团五连冠）",
+                                              "📌 成为中国奥运史上首位六金王"
+                                          ]
+                     }
+                 ],
+    "achievements":  {
+                         "title":  "⭐ 双圈大满贯",
+                         "description":  "马龙是史上首位集奥运会、世乒赛、世界杯、亚运会、亚锦赛、亚洲杯、巡回赛总决赛、全运会及全锦赛单打冠军于一身的男子选手，且各大赛均至少两次夺冠——双圈大满贯。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会单打",
+                                           "year":  "2016 / 2020 卫冕"
+                                       },
+                                       {
+                                           "icon":  "🏅",
+                                           "title":  "世乒赛单打",
+                                           "year":  "2015 / 2017 / 2019 三连冠"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世界杯单打",
+                                           "year":  "2012 / 2015"
+                                       },
+                                       {
+                                           "icon":  "🌏",
+                                           "title":  "亚运会单打",
+                                           "year":  "2010 广州"
+                                       },
+                                       {
+                                           "icon":  "📋",
+                                           "title":  "巡回赛总决赛",
+                                           "year":  "2008 / 2009 / 2011 / 2015 / 2020"
+                                       },
+                                       {
+                                           "icon":  "🏟️",
+                                           "title":  "全运会单打",
+                                           "year":  "2013 / 2017 卫冕"
+                                       }
+                                   ]
+                     }
+}

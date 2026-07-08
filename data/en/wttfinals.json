@@ -1,0 +1,91 @@
+{
+  "id": "wttfinals",
+  "name": "ITTF/WTT Finals",
+  "icon": "📋",
+  "years": [
+    {
+      "year": "2025",
+      "location": "Hong Kong",
+      "events": {
+        "mensSingles": {"gold": "Tomokazu Harimoto (Japan)", "silver": "Truls Möregårdh (Sweden)"},
+        "womensSingles": {"gold": "Wang Manyu", "silver": "Kuai Man"}
+      }
+    },
+    {
+      "year": "2024",
+      "location": "Fukuoka",
+      "events": {
+        "mensSingles": {"gold": "Wang Chuqin", "silver": "Tomokazu Harimoto (Japan)"},
+        "womensSingles": {"gold": "Wang Manyu", "silver": "Chen Xingtong"}
+      }
+    },
+    {
+      "year": "2023",
+      "location": "Doha",
+      "events": {
+        "mensSingles": {"gold": "Wang Chuqin", "silver": "Tomokazu Harimoto (Japan)"},
+        "womensSingles": {"gold": "Sun Yingsha"}
+      }
+    },
+    {
+      "year": "2022",
+      "location": "Xinxiang",
+      "events": {
+        "mensSingles": {"gold": "Wang Chuqin", "silver": "Tomokazu Harimoto (Japan)"},
+        "womensSingles": {"gold": "Sun Yingsha", "silver": "Chen Meng"}
+      }
+    },
+    {
+      "year": "2021",
+      "location": "Singapore",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong", "silver": "Tomokazu Harimoto (Japan)"},
+        "womensSingles": {"gold": "Sun Yingsha", "silver": "Wang Yidi"}
+      }
+    },
+    {
+      "year": "2020",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"},
+        "womensSingles": {"gold": "Chen Meng"}
+      }
+    },
+    {
+      "year": "2019",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong"},
+        "womensSingles": {"gold": "Chen Meng"}
+      }
+    },
+    {
+      "year": "2018",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Tomokazu Harimoto (Japan)"}
+      }
+    },
+    {
+      "year": "2017",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong"}
+      }
+    },
+    {
+      "year": "2016",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"}
+      }
+    },
+    {
+      "year": "2015",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"}
+      }
+    }
+  ]
+}

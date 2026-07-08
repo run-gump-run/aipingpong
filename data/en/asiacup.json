@@ -1,0 +1,284 @@
+{
+  "id": "asiacup",
+  "name": "Asia Cup",
+  "icon": "💎",
+  "years": [
+    {
+      "year": "2026",
+      "location": "Haikou",
+      "events": {
+        "mensSingles": {"gold": "Wang Chuqin", "silver": "Tomokazu Harimoto (Japan)"},
+        "womensSingles": {"gold": "Sun Yingsha", "silver": "Wang Manyu"}
+      }
+    },
+    {
+      "year": "2025",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Wang Chuqin", "silver": "Liang Jingkun"},
+        "womensSingles": {"gold": "Wang Manyu", "silver": "Sun Yingsha"}
+      }
+    },
+    {
+      "year": "2022",
+      "location": "Bangkok",
+      "events": {
+        "mensSingles": {"gold": "Tomokazu Harimoto (Japan)"},
+        "womensSingles": {"gold": "Wang Yidi"}
+      }
+    },
+    {
+      "year": "2019",
+      "location": "Yokohama",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong", "silver": "Ma Long"},
+        "womensSingles": {"gold": "Zhu Yuling", "silver": "Chen Meng"}
+      }
+    },
+    {
+      "year": "2018",
+      "location": "Yokohama",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong", "silver": "Lin Gaoyuan"},
+        "womensSingles": {"gold": "Zhu Yuling", "silver": "Chen Meng"}
+      }
+    },
+    {
+      "year": "2017",
+      "location": "Al Ain",
+      "events": {
+        "mensSingles": {"gold": "Lin Gaoyuan", "silver": "Fan Zhendong"},
+        "womensSingles": {"gold": "Zhu Yuling", "silver": "Liu Shiwen"}
+      }
+    },
+    {
+      "year": "2016",
+      "location": "Dubai",
+      "events": {
+        "mensSingles": {"gold": "Xu Xin", "silver": "Zhang Jike"},
+        "womensSingles": {"gold": "Liu Shiwen", "silver": "Li Xiaoxia"}
+      }
+    },
+    {
+      "year": "2015",
+      "location": "Jaipur",
+      "events": {
+        "mensSingles": {"gold": "Xu Xin", "silver": "Fan Zhendong"},
+        "womensSingles": {"gold": "Feng Tianwei (Singapore)", "silver": "Liu Shiwen"}
+      }
+    },
+    {
+      "year": "2014",
+      "location": "Wuhan",
+      "events": {
+        "mensSingles": {"gold": "Ma Long", "silver": "Fan Zhendong"},
+        "womensSingles": {"gold": "Ding Ning", "silver": "Li Xiaoxia"}
+      }
+    },
+    {
+      "year": "2013",
+      "location": "Guangzhou",
+      "events": {
+        "mensSingles": {"gold": "Xu Xin", "silver": "Yan An"},
+        "womensSingles": {"gold": "Liu Shiwen"}
+      }
+    },
+    {
+      "year": "2012",
+      "location": "Guangzhou",
+      "events": {
+        "mensSingles": {"gold": "Xu Xin", "silver": "Yoshida Kaii (Japan)"},
+        "womensSingles": {"gold": "Liu Shiwen"}
+      }
+    },
+    {
+      "year": "2011",
+      "location": "Changsha",
+      "events": {
+        "mensSingles": {"gold": "Ma Long", "silver": "Xu Xin"},
+        "womensSingles": {"gold": "Guo Yan"}
+      }
+    },
+    {
+      "year": "2010",
+      "location": "Guangzhou",
+      "events": {
+        "mensSingles": {"gold": "Zhang Jike", "silver": "Gao Ning (Singapore)"},
+        "womensSingles": {"gold": "Liu Shiwen", "silver": "Ding Ning"}
+      }
+    },
+    {
+      "year": "2009",
+      "location": "Hangzhou",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"},
+        "womensSingles": {"gold": "Guo Yue"}
+      }
+    },
+    {
+      "year": "2008",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Ma Long", "silver": "Chen Qi"},
+        "womensSingles": {"gold": "Guo Yue"}
+      }
+    },
+    {
+      "year": "2007",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Gao Ning (Singapore)"}
+      }
+    },
+    {
+      "year": "2006",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Wang Hao", "silver": "Chen Qi"}
+      }
+    },
+    {
+      "year": "2005",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Wang Hao", "silver": "Hao Shuai"}
+      }
+    },
+    {
+      "year": "2004",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Zhang Yu"},
+        "womensSingles": {"gold": "Tie Ya Na (Hong Kong, China)"}
+      }
+    },
+    {
+      "year": "2003",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Ye Ruoting"},
+        "womensSingles": {"gold": "Fan Ying"}
+      }
+    },
+    {
+      "year": "2000",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Chen Tianyuan"},
+        "womensSingles": {"gold": "Tang Yuan"}
+      }
+    },
+    {
+      "year": "1997",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Guo Keli"},
+        "womensSingles": {"gold": "Wang Chen"}
+      }
+    },
+    {
+      "year": "1996",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Ma Lin", "silver": "Lin Zhigang"},
+        "womensSingles": {"gold": "Wu Na"}
+      }
+    },
+    {
+      "year": "1994",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Lin Zhigang"},
+        "womensSingles": {"gold": "Qiao Hong"}
+      }
+    },
+    {
+      "year": "1993",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Li Gun-sang (North Korea)"},
+        "womensSingles": {"gold": "Liu Wei"}
+      }
+    },
+    {
+      "year": "1992",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Ma Wenge"},
+        "womensSingles": {"gold": "Deng Yaping"}
+      }
+    },
+    {
+      "year": "1991",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Kim Guk-chol (North Korea)"},
+        "womensSingles": {"gold": "Liu Wei"}
+      }
+    },
+    {
+      "year": "1990",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Wang Yonggang"},
+        "womensSingles": {"gold": "Ri Pun-hui (North Korea)"}
+      }
+    },
+    {
+      "year": "1989",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Kiyoshi Saito (Japan)"},
+        "womensSingles": {"gold": "Yu Sun-bok (North Korea)"}
+      }
+    },
+    {
+      "year": "1988",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Wei Qingguang"},
+        "womensSingles": {"gold": "Deng Yaping"}
+      }
+    },
+    {
+      "year": "1987",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Teng Yi"},
+        "womensSingles": {"gold": "Jiao Zhimin"}
+      }
+    },
+    {
+      "year": "1986",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Wei Qingguang"},
+        "womensSingles": {"gold": "Hu Xiaoxin"}
+      }
+    },
+    {
+      "year": "1985",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Chen Longcan"},
+        "womensSingles": {"gold": "Jiao Zhimin"}
+      }
+    },
+    {
+      "year": "1984",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Hui Jun"},
+        "womensSingles": {"gold": "Tong Ling"}
+      }
+    },
+    {
+      "year": "1983",
+      "location": "Wuxi",
+      "events": {
+        "mensSingles": {"gold": "Cai Zhenhua"},
+        "womensSingles": {"gold": "Cao Yanhua"}
+      }
+    }
+  ]
+}

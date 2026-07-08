@@ -1,0 +1,217 @@
+{
+  "id": "asianchamps",
+  "name": "Asian Championships",
+  "icon": "🎯",
+  "years": [
+    {
+      "year": "2023",
+      "location": "Pyeongchang",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"},
+        "womensSingles": {"gold": "Sun Yingsha"},
+        "mensTeam": {"gold": "China"},
+        "womensTeam": {"gold": "China"}
+      }
+    },
+    {
+      "year": "2021",
+      "location": "Doha",
+      "events": {
+        "mensSingles": {"gold": "Lee Sang-su (South Korea)"},
+        "womensSingles": {"gold": "Hina Hayata (Japan)"}
+      }
+    },
+    {
+      "year": "2019",
+      "location": "Yogyakarta",
+      "events": {
+        "mensSingles": {"gold": "Xu Xin"},
+        "womensSingles": {"gold": "Liu Shiwen"}
+      }
+    },
+    {
+      "year": "2017",
+      "location": "Wuxi",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong"},
+        "womensSingles": {"gold": "Miu Hirano (Japan)"}
+      }
+    },
+    {
+      "year": "2015",
+      "location": "Pattaya",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong"},
+        "womensSingles": {"gold": "Zhu Yuling"}
+      }
+    },
+    {
+      "year": "2013",
+      "location": "Busan",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"},
+        "womensSingles": {"gold": "Liu Shiwen"}
+      }
+    },
+    {
+      "year": "2012",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"},
+        "womensSingles": {"gold": "Guo Yan"}
+      }
+    },
+    {
+      "year": "2009",
+      "location": "Lucknow",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"},
+        "womensSingles": {"gold": "Ding Ning"}
+      }
+    },
+    {
+      "year": "2007",
+      "location": "Yangzhou",
+      "events": {
+        "mensSingles": {"gold": "Wang Hao"},
+        "womensSingles": {"gold": "Zhang Yining"}
+      }
+    },
+    {
+      "year": "2005",
+      "location": "Jeju",
+      "events": {
+        "mensSingles": {"gold": "Wang Liqin"},
+        "womensSingles": {"gold": "Lin Ling (Hong Kong, China)"}
+      }
+    },
+    {
+      "year": "2003",
+      "location": "Bangkok",
+      "events": {
+        "mensSingles": {"gold": "Wang Hao"},
+        "womensSingles": {"gold": "Niu Jianfeng"}
+      }
+    },
+    {
+      "year": "2000",
+      "location": "Doha",
+      "events": {
+        "mensSingles": {"gold": "Chiang Peng-Lung (Chinese Taipei)"},
+        "womensSingles": {"gold": "Lin Ling (Hong Kong, China)"}
+      }
+    },
+    {
+      "year": "1998",
+      "location": "Osaka",
+      "events": {
+        "mensSingles": {"gold": "Wang Liqin"},
+        "womensSingles": {"gold": "Li Ju"}
+      }
+    },
+    {
+      "year": "1996",
+      "location": "Singapore",
+      "events": {
+        "mensSingles": {"gold": "Kong Linghui"},
+        "womensSingles": {"gold": "Chiharu Yamazaki (Japan)"}
+      }
+    },
+    {
+      "year": "1994",
+      "location": "Tianjin",
+      "events": {
+        "mensSingles": {"gold": "Kong Linghui"},
+        "womensSingles": {"gold": "Deng Yaping"}
+      }
+    },
+    {
+      "year": "1992",
+      "location": "New Delhi",
+      "events": {
+        "mensSingles": {"gold": "Xie Chaojie"},
+        "womensSingles": {"gold": "Kang Weiyi"}
+      }
+    },
+    {
+      "year": "1990",
+      "location": "Kuala Lumpur",
+      "events": {
+        "mensSingles": {"gold": "Wang Tao"},
+        "womensSingles": {"gold": "Qiao Hong"}
+      }
+    },
+    {
+      "year": "1988",
+      "location": "Niigata",
+      "events": {
+        "mensSingles": {"gold": "Chen Longcan"},
+        "womensSingles": {"gold": "He Zhili"}
+      }
+    },
+    {
+      "year": "1986",
+      "location": "Shenzhen",
+      "events": {
+        "mensSingles": {"gold": "Jiang Jialiang"},
+        "womensSingles": {"gold": "He Zhili"}
+      }
+    },
+    {
+      "year": "1984",
+      "location": "Islamabad",
+      "events": {
+        "mensSingles": {"gold": "Xie Saike"},
+        "womensSingles": {"gold": "He Zhili"}
+      }
+    },
+    {
+      "year": "1982",
+      "location": "Jakarta",
+      "events": {
+        "mensSingles": {"gold": "Cai Zhenhua"},
+        "womensSingles": {"gold": "Cao Yanhua"}
+      }
+    },
+    {
+      "year": "1980",
+      "location": "Kolkata",
+      "events": {
+        "mensSingles": {"gold": "Shi Zhihao"},
+        "womensSingles": {"gold": "Qi Baoxiang"}
+      }
+    },
+    {
+      "year": "1978",
+      "location": "Kuala Lumpur",
+      "events": {
+        "mensSingles": {"gold": "Guo Yuehua"},
+        "womensSingles": {"gold": "Cao Yanhua"}
+      }
+    },
+    {
+      "year": "1976",
+      "location": "Pyongyang",
+      "events": {
+        "mensSingles": {"gold": "Liang Geliang"},
+        "womensSingles": {"gold": "Zhang Li"}
+      }
+    },
+    {
+      "year": "1974",
+      "location": "Yokohama",
+      "events": {
+        "mensSingles": {"gold": "Nobuhiko Hasegawa (Japan)"},
+        "womensSingles": {"gold": "Tomie Edano (Japan)"}
+      }
+    },
+    {
+      "year": "1972",
+      "location": "Beijing",
+      "events": {
+        "mensSingles": {"gold": "Nobuhiko Hasegawa (Japan)"},
+        "womensSingles": {"gold": "Li Li"}
+      }
+    }
+  ]
+}

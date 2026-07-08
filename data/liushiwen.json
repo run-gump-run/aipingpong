@@ -1,0 +1,150 @@
+{
+    "id":  "liushiwen",
+    "name":  "刘诗雯",
+    "nameEn":  "LIU SHIWEN · 小枣 · 世界杯五冠王",
+    "country":  "CHN",
+    "team":  "中国国家乒乓球队",
+    "birthDate":  "1991-04-12",
+    "heroImages":  [
+                       "images/athletes/liushiwen/hero.jpg"
+                   ],
+    "tags":  [
+                 {
+                     "text":  "🏅 世乒赛单打冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏆 世界杯五冠王",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🥇 奥运团体冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1991.04.12 生于辽宁",
+                     "type":  "normal"
+                 }
+             ],
+    "stats":  [
+                  {
+                      "num":  1,
+                      "label":  "奥运金牌",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  1,
+                      "label":  "世乒赛单打冠军",
+                      "highlight":  true
+                  },
+                  {
+                      "num":  5,
+                      "label":  "世界杯单打冠军",
+                      "highlight":  true
+                  },
+                  {
+                      "num":  0,
+                      "label":  "大满贯",
+                      "highlight":  false
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "year":  "2009",
+                         "age":  "18岁",
+                         "subtitle":  "世界杯首冠",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 女子世界杯单打冠军（个人首个三大赛单打冠军）"
+                                          ]
+                     },
+                     {
+                         "year":  "2012",
+                         "age":  "21岁",
+                         "subtitle":  "世界杯卫冕",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 女子世界杯单打冠军（卫冕成功）"
+                                          ]
+                     },
+                     {
+                         "year":  "2013",
+                         "age":  "22岁",
+                         "subtitle":  "世界杯三连冠",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 女子世界杯单打冠军（三连冠）"
+                                          ]
+                     },
+                     {
+                         "year":  "2015",
+                         "age":  "24岁",
+                         "subtitle":  "世界杯四冠王",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 女子世界杯单打冠军（第四冠）"
+                                          ]
+                     },
+                     {
+                         "year":  "2016",
+                         "age":  "25岁",
+                         "subtitle":  "里约奥运团体金牌",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥇 里约奥运会女团金牌"
+                                          ]
+                     },
+                     {
+                         "year":  "2019",
+                         "age":  "28岁",
+                         "subtitle":  "布达佩斯世乒赛登顶 · 五冠王",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🏆 布达佩斯世乒赛女单冠军（个人首座世乒赛单打冠军）",
+                                              "🏆 女子世界杯单打冠军（第五冠，历史最多）",
+                                              "📌 世界杯五冠王，打破纪录"
+                                          ],
+                         "badge":  "⭐ 世界杯五冠王"
+                     },
+                     {
+                         "year":  "2020",
+                         "age":  "29岁",
+                         "subtitle":  "东京奥运混双银牌",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🥈 东京奥运会混双银牌（搭档许昕，决赛负于水谷隼/伊藤美诚）"
+                                          ]
+                     },
+                     {
+                         "year":  "2023",
+                         "age":  "32岁",
+                         "subtitle":  "淡出国家队",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "📌 逐渐淡出国家队主力阵容",
+                                              "📌 转型参与联赛与推广活动"
+                                          ]
+                     }
+                 ],
+    "achievements":  {
+                         "title":  "⭐ 世界杯五冠王",
+                         "description":  "刘诗雯五夺女子世界杯单打冠军，是世界杯历史上夺冠次数最多的选手。2019年终于夺得世乒赛女单冠军，达到职业生涯巅峰。遗憾的是东京奥运会混双决赛获银牌，未能完成大满贯。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会团体",
+                                           "year":  "2016 里约"
+                                       },
+                                       {
+                                           "icon":  "🏅",
+                                           "title":  "世乒赛单打",
+                                           "year":  "2019 布达佩斯"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世界杯单打",
+                                           "year":  "2009 / 2012 / 2013 / 2015 / 2019"
+                                       }
+                                   ]
+                     }
+}

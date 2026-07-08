@@ -1,0 +1,139 @@
+{
+    "id":  "chenmeng",
+    "name":  "陈梦",
+    "nameEn":  "CHEN MENG · 卫冕女王 · 奥运女单双冠",
+    "country":  "CHN",
+    "team":  "中国国家乒乓球队",
+    "birthDate":  "1994-01-15",
+    "heroImages":  [
+                       "images/athletes/chenmeng/hero.jpg"
+                   ],
+    "tags":  [
+                 {
+                     "text":  "🥇 奥运女单卫冕",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏆 世界杯单打冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🥈 2届世乒赛女单亚军",
+                     "type":  "normal"
+                 },
+                 {
+                     "text":  "🎂 1994.01.15 生于青岛",
+                     "type":  "normal"
+                 }
+             ],
+    "stats":  [
+                  {
+                      "num":  4,
+                      "label":  "奥运金牌",
+                      "highlight":  true
+                  },
+                  {
+                      "num":  0,
+                      "label":  "世乒赛单打冠军",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  1,
+                      "label":  "世界杯单打冠军",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  0,
+                      "label":  "大满贯",
+                      "highlight":  false
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "year":  "2018",
+                         "age":  "24岁",
+                         "subtitle":  "亚运会夺冠",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 雅加达亚运会女团冠军"
+                                          ]
+                     },
+                     {
+                         "year":  "2019",
+                         "age":  "25岁",
+                         "subtitle":  "世乒赛女单亚军",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🥈 布达佩斯世乒赛女单亚军（决赛负于刘诗雯）"
+                                          ]
+                     },
+                     {
+                         "year":  "2020",
+                         "age":  "26岁",
+                         "subtitle":  "世界杯首冠",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 女子世界杯单打冠军（个人首个三大赛单打冠军）"
+                                          ]
+                     },
+                     {
+                         "year":  "2021",
+                         "age":  "27岁",
+                         "subtitle":  "东京登顶 · 女单+女团双金",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥇 东京奥运会女单金牌（决赛击败孙颖莎）",
+                                              "🥇 东京奥运会女团金牌"
+                                          ],
+                         "badge":  "⭐ 奥运双冠王"
+                     },
+                     {
+                         "year":  "2023",
+                         "age":  "29岁",
+                         "subtitle":  "世乒赛女单再获亚军",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🥈 德班世乒赛女单亚军（决赛负于孙颖莎）",
+                                              "📌 两届世乒赛女单均获亚军，未能夺冠"
+                                          ]
+                     },
+                     {
+                         "year":  "2024",
+                         "age":  "30岁",
+                         "subtitle":  "巴黎卫冕 · 奥运女单双冠",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥇 巴黎奥运会女单金牌（卫冕成功，决赛击败孙颖莎）",
+                                              "🥇 巴黎奥运会女团金牌",
+                                              "📌 继邓亚萍、张怡宁之后第三位卫冕奥运女单的选手"
+                                          ],
+                         "badge":  "⭐ 奥运女单卫冕"
+                     }
+                 ],
+    "achievements":  {
+                         "title":  "⭐ 奥运女单卫冕",
+                         "description":  "陈梦是继邓亚萍、张怡宁之后第三位卫冕奥运会女单的选手，连续两届奥运会（2020东京/2024巴黎）夺得女单金牌。2020年夺得女子世界杯单打冠军。遗憾的是两届世乒赛女单均获亚军（2019负于刘诗雯、2023负于孙颖莎），未能完成大满贯。以稳健的防守反击和强大的正手实力著称。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会单打",
+                                           "year":  "2020 东京 / 2024 巴黎 卫冕"
+                                       },
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会团体",
+                                           "year":  "2020 / 2024"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世界杯单打",
+                                           "year":  "2020 威海"
+                                       },
+                                       {
+                                           "icon":  "🥈",
+                                           "title":  "世乒赛单打",
+                                           "year":  "2019 / 2023 两届亚军"
+                                       }
+                                   ]
+                     }
+}

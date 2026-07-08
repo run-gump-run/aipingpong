@@ -1,0 +1,125 @@
+﻿{
+    "id":  "zhangyining",
+    "heroImages":  [
+                       "images/athletes/zhangyining/hero.jpg"
+                   ],
+    "team":  "中国国家乒乓球队",
+    "tags":  [
+                 {
+                     "text":  "🥇 奥运冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏅 世乒赛冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏆 世界杯冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1981.10.05 生于北京",
+                     "type":  "normal"
+                 }
+             ],
+    "nameEn":  "ZHANG YINING · 乒乓传奇 · 大魔王",
+    "name":  "张怡宁",
+    "stats":  [
+                  {
+                      "label":  "奥运金牌",
+                      "num":  4,
+                      "highlight":  true
+                  },
+                  {
+                      "label":  "世乒赛单打冠军",
+                      "num":  2,
+                      "highlight":  false
+                  },
+                  {
+                      "label":  "世界杯单打冠军",
+                      "num":  4,
+                      "highlight":  false
+                  },
+                  {
+                      "label":  "大满贯",
+                      "num":  2,
+                      "highlight":  true
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "首夺世界冠军",
+                         "age":  "20岁",
+                         "year":  "2001",
+                         "achievements":  [
+                                              "🏆 大阪世乒赛女团冠军"
+                                          ]
+                     },
+                     {
+                         "subtitle":  "雅典登顶",
+                         "achievements":  [
+                                              "🥇 雅典奥运会女单金牌",
+                                              "🥇 雅典奥运会女双金牌"
+                                          ],
+                         "age":  "23岁",
+                         "year":  "2004",
+                                                  "isPeak":  true
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "世乒赛单打首冠",
+                         "age":  "24岁",
+                         "year":  "2005",
+                         "achievements":  [
+                                              "🏆 上海世乒赛女单冠军",
+                                              "🏆 世界杯女单冠军"
+                                          ],
+                         "badge":  "⭐ 大满贯达成"
+                     },
+                     {
+                         "subtitle":  "北京卫冕",
+                         "achievements":  [
+                                              "🥇 北京奥运会女单金牌（卫冕）",
+                                              "🥇 北京奥运会女团冠军"
+                                          ],
+                         "age":  "27岁",
+                         "year":  "2008",
+                                                  "isPeak":  true
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "横滨世乒赛卫冕",
+                         "age":  "28岁",
+                         "year":  "2009",
+                         "achievements":  [
+                                              "🏆 横滨世乒赛女单冠军（卫冕）",
+                                              "📌 巅峰退役"
+                                          ],
+                         "badge":  "⭐ 双圈大满贯"
+                     }
+                 ],
+    "country":  "CHN",
+    "birthDate":  "1981-10-05",
+    "achievements":  {
+                         "title":  "⭐ 双圈大满贯",
+                         "description":  "张怡宁是乒坛史上首位完成双圈大满贯的女子选手，被誉为\u0027大魔王\u0027。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会单打",
+                                           "year":  "2004 / 2008 卫冕"
+                                       },
+                                       {
+                                           "icon":  "🏅",
+                                           "title":  "世乒赛单打",
+                                           "year":  "2005 / 2009"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世界杯单打",
+                                           "year":  "2001 / 2002 / 2004 / 2005"
+                                       }
+                                   ]
+                     }
+}

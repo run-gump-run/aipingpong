@@ -1,0 +1,474 @@
+{
+  "id": "worlds",
+  "name": "World Championships",
+  "icon": "🏆",
+  "years": [
+    {
+      "year": "2025",
+      "location": "Doha",
+      "events": {
+        "mensSingles": {"gold": "Wang Chuqin", "silver": "Hugo Calderano (Brazil)", "bronze": ["Liang Jingkun", "Truls Möregårdh (Sweden)"]},
+        "womensSingles": {"gold": "Sun Yingsha", "silver": "Wang Manyu", "bronze": ["Chen Xingtong", "Mima Ito (Japan)"]},
+        "mixedDoubles": {"gold": "China (Wang Chuqin/Sun Yingsha)"},
+        "womensDoubles": {"gold": "China (Wang Manyu/Kuai Man)"},
+        "mensDoubles": {"gold": "Japan (Hiroto Shinozuka/Shunsuke Togami)"}
+      }
+    },
+    {
+      "year": "2023",
+      "location": "Durban",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong"},
+        "womensSingles": {"gold": "Sun Yingsha"}
+      }
+    },
+    {
+      "year": "2021",
+      "location": "Houston",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong"},
+        "womensSingles": {"gold": "Wang Manyu"}
+      }
+    },
+    {
+      "year": "2019",
+      "location": "Budapest",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"},
+        "womensSingles": {"gold": "Liu Shiwen"}
+      }
+    },
+    {
+      "year": "2017",
+      "location": "Düsseldorf",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"},
+        "womensSingles": {"gold": "Ding Ning"}
+      }
+    },
+    {
+      "year": "2015",
+      "location": "Suzhou",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"},
+        "womensSingles": {"gold": "Ding Ning"}
+      }
+    },
+    {
+      "year": "2013",
+      "location": "Paris",
+      "events": {
+        "mensSingles": {"gold": "Zhang Jike"},
+        "womensSingles": {"gold": "Li Xiaoxia"}
+      }
+    },
+    {
+      "year": "2011",
+      "location": "Rotterdam",
+      "events": {
+        "mensSingles": {"gold": "Zhang Jike"},
+        "womensSingles": {"gold": "Ding Ning"}
+      }
+    },
+    {
+      "year": "2009",
+      "location": "Yokohama",
+      "events": {
+        "mensSingles": {"gold": "Wang Hao"},
+        "womensSingles": {"gold": "Zhang Yining"}
+      }
+    },
+    {
+      "year": "2007",
+      "location": "Zagreb",
+      "events": {
+        "mensSingles": {"gold": "Wang Liqin"},
+        "womensSingles": {"gold": "Guo Yue"}
+      }
+    },
+    {
+      "year": "2005",
+      "location": "Shanghai",
+      "events": {
+        "mensSingles": {"gold": "Wang Liqin"},
+        "womensSingles": {"gold": "Zhang Yining"}
+      }
+    },
+    {
+      "year": "2003",
+      "location": "Paris",
+      "events": {
+        "mensSingles": {"gold": "Werner Schlager (Austria)"},
+        "womensSingles": {"gold": "Wang Nan"}
+      }
+    },
+    {
+      "year": "2001",
+      "location": "Osaka",
+      "events": {
+        "mensSingles": {"gold": "Wang Liqin"},
+        "womensSingles": {"gold": "Wang Nan"}
+      }
+    },
+    {
+      "year": "1999",
+      "location": "Eindhoven",
+      "events": {
+        "mensSingles": {"gold": "Liu Guoliang"},
+        "womensSingles": {"gold": "Wang Nan"}
+      }
+    },
+    {
+      "year": "1997",
+      "location": "Manchester",
+      "events": {
+        "mensSingles": {"gold": "Jan-Ove Waldner (Sweden)"},
+        "womensSingles": {"gold": "Deng Yaping"}
+      }
+    },
+    {
+      "year": "1995",
+      "location": "Tianjin",
+      "events": {
+        "mensSingles": {"gold": "Kong Linghui"},
+        "womensSingles": {"gold": "Deng Yaping"}
+      }
+    },
+    {
+      "year": "1993",
+      "location": "Gothenburg",
+      "events": {
+        "mensSingles": {"gold": "Jean-Philippe Gatien (France)"},
+        "womensSingles": {"gold": "Hyun Jung-hwa (South Korea)"}
+      }
+    },
+    {
+      "year": "1991",
+      "location": "Chiba",
+      "events": {
+        "mensSingles": {"gold": "Jörgen Persson (Sweden)"},
+        "womensSingles": {"gold": "Deng Yaping"}
+      }
+    },
+    {
+      "year": "1989",
+      "location": "Dortmund",
+      "events": {
+        "mensSingles": {"gold": "Jan-Ove Waldner (Sweden)"},
+        "womensSingles": {"gold": "Qiao Hong"}
+      }
+    },
+    {
+      "year": "1987",
+      "location": "New Delhi",
+      "events": {
+        "mensSingles": {"gold": "Jiang Jialiang"},
+        "womensSingles": {"gold": "He Zhili"}
+      }
+    },
+    {
+      "year": "1985",
+      "location": "Gothenburg",
+      "events": {
+        "mensSingles": {"gold": "Jiang Jialiang"},
+        "womensSingles": {"gold": "Cao Yanhua"}
+      }
+    },
+    {
+      "year": "1983",
+      "location": "Tokyo",
+      "events": {
+        "mensSingles": {"gold": "Guo Yuehua"},
+        "womensSingles": {"gold": "Cao Yanhua"}
+      }
+    },
+    {
+      "year": "1981",
+      "location": "Novi Sad",
+      "events": {
+        "mensSingles": {"gold": "Guo Yuehua"},
+        "womensSingles": {"gold": "Tong Ling"}
+      }
+    },
+    {
+      "year": "1979",
+      "location": "Pyongyang",
+      "events": {
+        "mensSingles": {"gold": "Seiji Ono (Japan)"},
+        "womensSingles": {"gold": "Ge Xinai"}
+      }
+    },
+    {
+      "year": "1977",
+      "location": "Birmingham",
+      "events": {
+        "mensSingles": {"gold": "Mitsuru Kono (Japan)"},
+        "womensSingles": {"gold": "Park Young-soon (North Korea)"}
+      }
+    },
+    {
+      "year": "1975",
+      "location": "Kolkata",
+      "events": {
+        "mensSingles": {"gold": "István Jónyer (Hungary)"},
+        "womensSingles": {"gold": "Park Young-soon (North Korea)"}
+      }
+    },
+    {
+      "year": "1973",
+      "location": "Sarajevo",
+      "events": {
+        "mensSingles": {"gold": "Xi Enting"},
+        "womensSingles": {"gold": "Hu Yulan"}
+      }
+    },
+    {
+      "year": "1971",
+      "location": "Nagoya",
+      "events": {
+        "mensSingles": {"gold": "Stellan Bengtsson (Sweden)"},
+        "womensSingles": {"gold": "Lin Huiqing"}
+      }
+    },
+    {
+      "year": "1969",
+      "location": "Munich",
+      "events": {
+        "mensSingles": {"gold": "Shigeo Itoh (Japan)"},
+        "womensSingles": {"gold": "Toshiko Kowada (Japan)"}
+      }
+    },
+    {
+      "year": "1967",
+      "location": "Stockholm",
+      "events": {
+        "mensSingles": {"gold": "Nobuhiko Hasegawa (Japan)"},
+        "womensSingles": {"gold": "Sachiko Morisawa (Japan)"}
+      }
+    },
+    {
+      "year": "1965",
+      "location": "Ljubljana",
+      "events": {
+        "mensSingles": {"gold": "Zhuang Zedong"},
+        "womensSingles": {"gold": "Naoko Fukatsu (Japan)"}
+      }
+    },
+    {
+      "year": "1963",
+      "location": "Prague",
+      "events": {
+        "mensSingles": {"gold": "Zhuang Zedong"},
+        "womensSingles": {"gold": "Kimiko Matsuzaki (Japan)"}
+      }
+    },
+    {
+      "year": "1961",
+      "location": "Beijing",
+      "events": {
+        "mensSingles": {"gold": "Zhuang Zedong"},
+        "womensSingles": {"gold": "Qiu Zhonghui"}
+      }
+    },
+    {
+      "year": "1959",
+      "location": "Dortmund",
+      "events": {
+        "mensSingles": {"gold": "Rong Guotuan"},
+        "womensSingles": {"gold": "Kimiko Matsuzaki (Japan)"}
+      }
+    },
+    {
+      "year": "1957",
+      "location": "Stockholm",
+      "events": {
+        "mensSingles": {"gold": "Toshiaki Tanaka (Japan)"},
+        "womensSingles": {"gold": "Fujie Eguchi (Japan)"}
+      }
+    },
+    {
+      "year": "1956",
+      "location": "Tokyo",
+      "events": {
+        "mensSingles": {"gold": "Ichiro Ogimura (Japan)"},
+        "womensSingles": {"gold": "Tomie Okawa (Japan)"}
+      }
+    },
+    {
+      "year": "1955",
+      "location": "Utrecht",
+      "events": {
+        "mensSingles": {"gold": "Toshiaki Tanaka (Japan)"},
+        "womensSingles": {"gold": "Angelica Rozeanu (Romania)"}
+      }
+    },
+    {
+      "year": "1954",
+      "location": "London",
+      "events": {
+        "mensSingles": {"gold": "Ichiro Ogimura (Japan)"},
+        "womensSingles": {"gold": "Angelica Rozeanu (Romania)"}
+      }
+    },
+    {
+      "year": "1953",
+      "location": "Bucharest",
+      "events": {
+        "mensSingles": {"gold": "Ferenc Sidó (Hungary)"},
+        "womensSingles": {"gold": "Angelica Rozeanu (Romania)"}
+      }
+    },
+    {
+      "year": "1952",
+      "location": "Mumbai",
+      "events": {
+        "mensSingles": {"gold": "Norihiko Sato (Japan)"},
+        "womensSingles": {"gold": "Angelica Rozeanu (Romania)"}
+      }
+    },
+    {
+      "year": "1951",
+      "location": "Vienna",
+      "events": {
+        "mensSingles": {"gold": "Johnny Leach (England)"},
+        "womensSingles": {"gold": "Angelica Rozeanu (Romania)"}
+      }
+    },
+    {
+      "year": "1950",
+      "location": "Budapest",
+      "events": {
+        "mensSingles": {"gold": "Richard Bergmann (England)"},
+        "womensSingles": {"gold": "Angelica Rozeanu (Romania)"}
+      }
+    },
+    {
+      "year": "1949",
+      "location": "Stockholm",
+      "events": {
+        "mensSingles": {"gold": "Johnny Leach (England)"},
+        "womensSingles": {"gold": "Gizi Farkas (Hungary)"}
+      }
+    },
+    {
+      "year": "1948",
+      "location": "London",
+      "events": {
+        "mensSingles": {"gold": "Richard Bergmann (England)"},
+        "womensSingles": {"gold": "Gizi Farkas (Hungary)"}
+      }
+    },
+    {
+      "year": "1947",
+      "location": "Paris",
+      "events": {
+        "mensSingles": {"gold": "Bohumil Váňa (Czechoslovakia)"},
+        "womensSingles": {"gold": "Gizi Farkas (Hungary)"}
+      }
+    },
+    {
+      "year": "1939",
+      "location": "Cairo",
+      "events": {
+        "mensSingles": {"gold": "Richard Bergmann (England)"},
+        "womensSingles": {"gold": "Věra Votrubcová (Czechoslovakia)"}
+      }
+    },
+    {
+      "year": "1938",
+      "location": "London",
+      "events": {
+        "mensSingles": {"gold": "Bohumil Váňa (Czechoslovakia)"},
+        "womensSingles": {"gold": "Gertrude Pritzi (Austria)"}
+      }
+    },
+    {
+      "year": "1937",
+      "location": "Baden",
+      "events": {
+        "mensSingles": {"gold": "Richard Bergmann (England)"},
+        "womensSingles": {"gold": "Ruth Aarons (USA)"}
+      }
+    },
+    {
+      "year": "1936",
+      "location": "Prague",
+      "events": {
+        "mensSingles": {"gold": "Stanislav Kolář (Czechoslovakia)"},
+        "womensSingles": {"gold": "Ruth Aarons (USA)"}
+      }
+    },
+    {
+      "year": "1935",
+      "location": "London",
+      "events": {
+        "mensSingles": {"gold": "Victor Barna (Hungary)"},
+        "womensSingles": {"gold": "Marie Kettnerová (Czechoslovakia)"}
+      }
+    },
+    {
+      "year": "1934",
+      "location": "Paris",
+      "events": {
+        "mensSingles": {"gold": "Victor Barna (Hungary)"},
+        "womensSingles": {"gold": "Marie Kettnerová (Czechoslovakia)"}
+      }
+    },
+    {
+      "year": "1933",
+      "location": "Baden",
+      "events": {
+        "mensSingles": {"gold": "Victor Barna (Hungary)"},
+        "womensSingles": {"gold": "Mária Mednyánszky (Hungary)"}
+      }
+    },
+    {
+      "year": "1932",
+      "location": "Prague",
+      "events": {
+        "mensSingles": {"gold": "Victor Barna (Hungary)"},
+        "womensSingles": {"gold": "Mária Mednyánszky (Hungary)"}
+      }
+    },
+    {
+      "year": "1931",
+      "location": "Budapest",
+      "events": {
+        "mensSingles": {"gold": "Miklós Szabados (Hungary)"},
+        "womensSingles": {"gold": "Mária Mednyánszky (Hungary)"}
+      }
+    },
+    {
+      "year": "1930",
+      "location": "Berlin",
+      "events": {
+        "mensSingles": {"gold": "Victor Barna (Hungary)"},
+        "womensSingles": {"gold": "Mária Mednyánszky (Hungary)"}
+      }
+    },
+    {
+      "year": "1929",
+      "location": "Budapest",
+      "events": {
+        "mensSingles": {"gold": "Fred Perry (England)"},
+        "womensSingles": {"gold": "Mária Mednyánszky (Hungary)"}
+      }
+    },
+    {
+      "year": "1928",
+      "location": "Stockholm",
+      "events": {
+        "mensSingles": {"gold": "László Bellák (Hungary)"},
+        "womensSingles": {"gold": "Mária Mednyánszky (Hungary)"}
+      }
+    },
+    {
+      "year": "1926",
+      "location": "London",
+      "events": {
+        "mensSingles": {"gold": "Jacobi (Hungary)"},
+        "womensSingles": {"gold": "Mária Mednyánszky (Hungary)"}
+      }
+    }
+  ]
+}

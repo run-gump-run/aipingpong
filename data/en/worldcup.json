@@ -1,0 +1,342 @@
+{
+  "id": "worldcup",
+  "name": "World Cup",
+  "icon": "🏆",
+  "years": [
+    {
+      "year": "2026",
+      "location": "Macau",
+      "events": {
+        "womensSingles": {"gold": "Sun Yingsha", "silver": "Wang Manyu"}
+      }
+    },
+    {
+      "year": "2025",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "Hugo Calderano (Brazil)"},
+        "womensSingles": {"gold": "Sun Yingsha"}
+      }
+    },
+    {
+      "year": "2024",
+      "location": "Macau",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"},
+        "womensSingles": {"gold": "Sun Yingsha", "silver": "Wang Manyu"}
+      }
+    },
+    {
+      "year": "2020",
+      "location": "Weihai, China",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong"},
+        "womensSingles": {"gold": "Chen Meng"}
+      }
+    },
+    {
+      "year": "2019",
+      "location": "Chengdu, China",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong"},
+        "womensSingles": {"gold": "Liu Shiwen"}
+      }
+    },
+    {
+      "year": "2018",
+      "location": "Paris, France",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong"},
+        "womensSingles": {"gold": "Ding Ning"}
+      }
+    },
+    {
+      "year": "2017",
+      "location": "Liège, Belgium",
+      "events": {
+        "mensSingles": {"gold": "Dimitrij Ovtcharov (Germany)"},
+        "womensSingles": {"gold": "Zhu Yuling"}
+      }
+    },
+    {
+      "year": "2016",
+      "location": "Saarbrücken, Germany",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong"},
+        "womensSingles": {"gold": "Miu Hirano (Japan)"}
+      }
+    },
+    {
+      "year": "2015",
+      "location": "Halmstad, Sweden",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"},
+        "womensSingles": {"gold": "Liu Shiwen"}
+      }
+    },
+    {
+      "year": "2014",
+      "location": "Düsseldorf, Germany",
+      "events": {
+        "mensSingles": {"gold": "Zhang Jike"},
+        "womensSingles": {"gold": "Ding Ning"}
+      }
+    },
+    {
+      "year": "2013",
+      "location": "Verviers, Belgium",
+      "events": {
+        "mensSingles": {"gold": "Xu Xin"},
+        "womensSingles": {"gold": "Liu Shiwen"}
+      }
+    },
+    {
+      "year": "2012",
+      "location": "Liverpool, England",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"},
+        "womensSingles": {"gold": "Liu Shiwen"}
+      }
+    },
+    {
+      "year": "2011",
+      "location": "Paris, France",
+      "events": {
+        "mensSingles": {"gold": "Zhang Jike"},
+        "womensSingles": {"gold": "Ding Ning"}
+      }
+    },
+    {
+      "year": "2010",
+      "location": "Dubai, UAE",
+      "events": {
+        "mensSingles": {"gold": "Wang Hao"},
+        "womensSingles": {"gold": "Guo Yan"}
+      }
+    },
+    {
+      "year": "2009",
+      "location": "Moscow, Russia",
+      "events": {
+        "mensSingles": {"gold": "Vladimir Samsonov (Belarus)"},
+        "womensSingles": {"gold": "Liu Shiwen"}
+      }
+    },
+    {
+      "year": "2008",
+      "location": "Liège, Belgium",
+      "events": {
+        "mensSingles": {"gold": "Wang Hao"},
+        "womensSingles": {"gold": "Li Xiaoxia"}
+      }
+    },
+    {
+      "year": "2007",
+      "location": "Barcelona, Spain",
+      "events": {
+        "mensSingles": {"gold": "Wang Hao"},
+        "womensSingles": {"gold": "Wang Nan"}
+      }
+    },
+    {
+      "year": "2006",
+      "location": "Paris, France",
+      "events": {
+        "mensSingles": {"gold": "Ma Lin"},
+        "womensSingles": {"gold": "Guo Yan"}
+      }
+    },
+    {
+      "year": "2005",
+      "location": "Liège, Belgium",
+      "events": {
+        "mensSingles": {"gold": "Timo Boll (Germany)"},
+        "womensSingles": {"gold": "Zhang Yining"}
+      }
+    },
+    {
+      "year": "2004",
+      "location": "Xiaoshan, China",
+      "events": {
+        "mensSingles": {"gold": "Ma Lin"},
+        "womensSingles": {"gold": "Zhang Yining"}
+      }
+    },
+    {
+      "year": "2003",
+      "location": "Jiangyin, China",
+      "events": {
+        "mensSingles": {"gold": "Ma Lin"},
+        "womensSingles": {"gold": "Wang Nan"}
+      }
+    },
+    {
+      "year": "2002",
+      "location": "Jinan, China",
+      "events": {
+        "mensSingles": {"gold": "Timo Boll (Germany)"},
+        "womensSingles": {"gold": "Zhang Yining"}
+      }
+    },
+    {
+      "year": "2001",
+      "location": "Courmayeur, Italy",
+      "events": {
+        "mensSingles": {"gold": "Vladimir Samsonov (Belarus)"},
+        "womensSingles": {"gold": "Zhang Yining"}
+      }
+    },
+    {
+      "year": "2000",
+      "location": "Yangzhou, China",
+      "events": {
+        "mensSingles": {"gold": "Ma Lin"},
+        "womensSingles": {"gold": "Li Ju"}
+      }
+    },
+    {
+      "year": "1999",
+      "location": "Zhongshan, China",
+      "events": {
+        "mensSingles": {"gold": "Vladimir Samsonov (Belarus)"},
+        "womensSingles": {"gold": "Wang Nan"}
+      }
+    },
+    {
+      "year": "1998",
+      "location": "Shantou, China",
+      "events": {
+        "mensSingles": {"gold": "Jörg Rosskopf (Germany)"},
+        "womensSingles": {"gold": "Wang Nan"}
+      }
+    },
+    {
+      "year": "1997",
+      "location": "Nîmes, France",
+      "events": {
+        "mensSingles": {"gold": "Zoran Primorac (Croatia)"},
+        "womensSingles": {"gold": "Wang Nan"}
+      }
+    },
+    {
+      "year": "1996",
+      "location": "Nîmes, France",
+      "events": {
+        "mensSingles": {"gold": "Liu Guoliang"},
+        "womensSingles": {"gold": "Deng Yaping"}
+      }
+    },
+    {
+      "year": "1995",
+      "location": "Nîmes, France",
+      "events": {
+        "mensSingles": {"gold": "Kong Linghui"}
+      }
+    },
+    {
+      "year": "1994",
+      "location": "Chinese Taipei",
+      "events": {
+        "mensSingles": {"gold": "Jean-Philippe Gatien (France)"}
+      }
+    },
+    {
+      "year": "1993",
+      "location": "Guangzhou, China",
+      "events": {
+        "mensSingles": {"gold": "Zoran Primorac (Croatia)"}
+      }
+    },
+    {
+      "year": "1992",
+      "location": "Ho Chi Minh City, Vietnam",
+      "events": {
+        "mensSingles": {"gold": "Ma Wenge"}
+      }
+    },
+    {
+      "year": "1991",
+      "location": "Kuala Lumpur",
+      "events": {
+        "mensSingles": {"gold": "Jörgen Persson (Sweden)"}
+      }
+    },
+    {
+      "year": "1990",
+      "location": "Chiba, Japan",
+      "events": {
+        "mensSingles": {"gold": "Jan-Ove Waldner (Sweden)"}
+      }
+    },
+    {
+      "year": "1989",
+      "location": "Nairobi, Kenya",
+      "events": {
+        "mensSingles": {"gold": "Ma Wenge"}
+      }
+    },
+    {
+      "year": "1988",
+      "location": "Wuhan, China",
+      "events": {
+        "mensSingles": {"gold": "Andrzej Grubba (Poland)"}
+      }
+    },
+    {
+      "year": "1987",
+      "location": "Macau",
+      "events": {
+        "mensSingles": {"gold": "Teng Yi"}
+      }
+    },
+    {
+      "year": "1986",
+      "location": "Trinidad and Tobago",
+      "events": {
+        "mensSingles": {"gold": "Chen Longcan"}
+      }
+    },
+    {
+      "year": "1985",
+      "location": "Foshan, China",
+      "events": {
+        "mensSingles": {"gold": "Chen Xinhua"}
+      }
+    },
+    {
+      "year": "1984",
+      "location": "Kuala Lumpur",
+      "events": {
+        "mensSingles": {"gold": "Jiang Jialiang"}
+      }
+    },
+    {
+      "year": "1983",
+      "location": "Barbados",
+      "events": {
+        "mensSingles": {"gold": "Mikael Appelgren (Sweden)"}
+      }
+    },
+    {
+      "year": "1982",
+      "location": "Hong Kong",
+      "events": {
+        "mensSingles": {"gold": "Guo Yuehua"}
+      }
+    },
+    {
+      "year": "1981",
+      "location": "Kuala Lumpur",
+      "events": {
+        "mensSingles": {"gold": "Tibor Klampár (Hungary)"}
+      }
+    },
+    {
+      "year": "1980",
+      "location": "Hong Kong",
+      "events": {
+        "mensSingles": {"gold": "Guo Yuehua"}
+      }
+    }
+  ]
+}

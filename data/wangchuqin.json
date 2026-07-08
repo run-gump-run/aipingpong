@@ -1,0 +1,156 @@
+﻿{
+    "id":  "wangchuqin",
+    "name":  "王楚钦",
+    "nameEn":  "WANG CHUQIN · 左手将军 · 新生代领军人",
+    "country":  "CHN",
+    "team":  "中国国家乒乓球队",
+    "birthDate":  "2000-05-11",
+    "heroImages":  [
+                       "images/athletes/wangchuqin/hero.jpg"
+                   ],
+    "tags":  [
+                 {
+                     "text":  "🥇 奥运混双冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🥇 奥运男团冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏆 世乒赛混双冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 2000.05.11 生于吉林",
+                     "type":  "normal"
+                 }
+             ],
+    "stats":  [
+                  {
+                      "num":  2,
+                      "label":  "奥运金牌",
+                      "highlight":  true
+                  },
+                  {
+                      "num":  0,
+                      "label":  "世乒赛单打冠军",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  0,
+                      "label":  "世界杯单打冠军",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  0,
+                      "label":  "大满贯",
+                      "highlight":  false
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "year":  "2018",
+                         "age":  "18岁",
+                         "subtitle":  "青奥会冠军",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 布宜诺斯艾利斯青奥会男单冠军",
+                                              "📌 左手横拍两面反胶打法"
+                                          ]
+                     },
+                     {
+                         "year":  "2019",
+                         "age":  "19岁",
+                         "subtitle":  "国际赛场历练",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "📌 参加布达佩斯世乒赛，积累大赛经验",
+                                              "📌 在国际乒联巡回赛中逐步成长"
+                                          ]
+                     },
+                     {
+                         "year":  "2021",
+                         "age":  "21岁",
+                         "subtitle":  "世乒赛混双首冠",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🏆 休斯敦世乒赛混双冠军（搭档孙颖莎，个人首个世乒赛冠军）"
+                                          ],
+                         "badge":  "⭐ 世乒赛混双冠军"
+                     },
+                     {
+                         "year":  "2022",
+                         "age":  "22岁",
+                         "subtitle":  "团体世乒赛冠军",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 成都团体世乒赛冠军",
+                                              "🏆 WTT多项赛事冠军"
+                                          ]
+                     },
+                     {
+                         "year":  "2023",
+                         "age":  "23岁",
+                         "subtitle":  "世乒赛双冠",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🏆 德班世乒赛混双冠军（搭档孙颖莎，卫冕成功）",
+                                              "🏆 德班世乒赛男双冠军（搭档樊振东）",
+                                              "🏆 杭州亚运会男单冠军、男团冠军"
+                                          ],
+                         "badge":  "⭐ 世乒赛双冠王"
+                     },
+                     {
+                         "year":  "2024",
+                         "age":  "24岁",
+                         "subtitle":  "巴黎奥运双金",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥇 巴黎奥运会混双金牌（搭档孙颖莎，中国乒乓球奥运混双首金）",
+                                              "🥇 巴黎奥运会男团金牌"
+                                          ],
+                         "badge":  "⭐ 奥运双冠王"
+                     },
+                     {
+                         "year":  "2025",
+                         "age":  "25岁",
+                         "subtitle":  "继续征战",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "📌 作为中国男乒新生代领军人物继续征战国际赛场"
+                                          ]
+                     }
+                 ],
+    "achievements":  {
+                         "title":  "⭐ 新生代领军人",
+                         "description":  "王楚钦是中国男乒新生代的领军人物，左手横拍两面反胶打法。2024年巴黎奥运会与孙颖莎搭档夺得中国乒乓球历史上首枚奥运混双金牌，同时随队获得男团金牌。多次在世乒赛夺得混双和男双冠军。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会混双",
+                                           "year":  "2024 巴黎"
+                                       },
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会团体",
+                                           "year":  "2024 巴黎"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世乒赛混双",
+                                           "year":  "2021 / 2023 卫冕"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世乒赛男双",
+                                           "year":  "2023 德班"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世乒赛团体",
+                                           "year":  "2022 / 2024"
+                                       }
+                                   ]
+                     }
+}

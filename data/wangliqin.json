@@ -1,0 +1,161 @@
+{
+    "id":  "wangliqin",
+    "name":  "王励勤",
+    "nameEn":  "WANG LIQIN · 正手之王 · 三冠世乒赛",
+    "country":  "CHN",
+    "team":  "中国国家乒乓球队",
+    "birthDate":  "1978-06-18",
+    "heroImages":  [
+                       "images/athletes/wangliqin/hero.jpg"
+                   ],
+    "tags":  [
+                 {
+                     "text":  "🏅 世乒赛三冠王",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🥇 奥运双打冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏆 世界杯单打冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1978.06.18 生于上海",
+                     "type":  "normal"
+                 }
+             ],
+    "stats":  [
+                  {
+                      "num":  2,
+                      "label":  "奥运金牌",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  3,
+                      "label":  "世乒赛单打冠军",
+                      "highlight":  true
+                  },
+                  {
+                      "num":  1,
+                      "label":  "世界杯单打冠军",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  0,
+                      "label":  "大满贯",
+                      "highlight":  false
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "year":  "1997",
+                         "age":  "19岁",
+                         "subtitle":  "国际赛场崭露头角",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 国际乒联巡回赛总决赛男单冠军",
+                                              "📌 以正手弧圈球技术闻名"
+                                          ]
+                     },
+                     {
+                         "year":  "1998",
+                         "age":  "20岁",
+                         "subtitle":  "世界杯首冠",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 男子世界杯单打冠军"
+                                          ]
+                     },
+                     {
+                         "year":  "2000",
+                         "age":  "22岁",
+                         "subtitle":  "悉尼奥运双打夺金",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥇 悉尼奥运会男双金牌（搭档阎森）",
+                                              "🥈 悉尼奥运会男单铜牌"
+                                          ]
+                     },
+                     {
+                         "year":  "2001",
+                         "age":  "23岁",
+                         "subtitle":  "世乒赛单打首冠",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🏆 大阪世乒赛男单冠军（决赛击败孔令辉）",
+                                              "🏆 世乒赛男团冠军",
+                                              "🏆 世乒赛男双冠军（搭档阎森）"
+                                          ],
+                         "badge":  "⭐ 世乒赛单打冠军"
+                     },
+                     {
+                         "year":  "2005",
+                         "age":  "27岁",
+                         "subtitle":  "上海世乒赛主场夺冠",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🏆 上海世乒赛男单冠军（决赛击败马琳）",
+                                              "🏆 世乒赛混双冠军（搭档郭跃）"
+                                          ],
+                         "badge":  "⭐ 世乒赛单打二冠"
+                     },
+                     {
+                         "year":  "2007",
+                         "age":  "29岁",
+                         "subtitle":  "世乒赛三冠王",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🏆 萨格勒布世乒赛男单冠军（决赛击败马琳）",
+                                              "📌 世乒赛男单三冠王（2001/2005/2007）"
+                                          ],
+                         "badge":  "⭐ 世乒赛三连冠（非连续）"
+                     },
+                     {
+                         "year":  "2008",
+                         "age":  "30岁",
+                         "subtitle":  "北京奥运团体金牌",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🥇 北京奥运会男团金牌"
+                                          ]
+                     },
+                     {
+                         "year":  "2014",
+                         "age":  "36岁",
+                         "subtitle":  "退役",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "📌 正式退役",
+                                              "📌 后任中国乒协副主席、上海市体育局职务"
+                                          ]
+                     }
+                 ],
+    "achievements":  {
+                         "title":  "⭐ 世乒赛三冠王",
+                         "description":  "王励勤以「正手之王」著称，三夺世乒赛男单冠军（2001/2005/2007），与王皓、马琳并称「二王一马」时代。他的正手弧圈球力量与旋转堪称历史顶级，是21世纪初中国男乒的核心主力。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会双打",
+                                           "year":  "2000 悉尼"
+                                       },
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会团体",
+                                           "year":  "2008 北京"
+                                       },
+                                       {
+                                           "icon":  "🏅",
+                                           "title":  "世乒赛单打",
+                                           "year":  "2001 / 2005 / 2007"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世界杯单打",
+                                           "year":  "1998"
+                                       }
+                                   ]
+                     }
+}

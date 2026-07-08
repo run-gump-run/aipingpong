@@ -1,0 +1,68 @@
+{
+  "id": "zhangyining",
+  "name": "Zhang Yining",
+  "nameEn": "ZHANG YINING · Table Tennis Legend · The Great魔王",
+  "country": "CHN",
+  "team": "China National Table Tennis Team",
+  "birthDate": "1981-10-05",
+  "heroImages": ["images/athletes/zhangyining/hero.jpg"],
+  "tags": [
+    {"text": "🥇 Olympic Champion", "type": "gold"},
+    {"text": "🏅 World Champion", "type": "gold"},
+    {"text": "🏆 World Cup Champion", "type": "gold"},
+    {"text": "🎂 1981.10.05 Born in Beijing", "type": "normal"}
+  ],
+  "stats": [
+    {"num": 4, "label": "Olympic Golds", "highlight": true},
+    {"num": 2, "label": "World Singles Titles", "highlight": false},
+    {"num": 4, "label": "World Cup Singles Titles", "highlight": false},
+    {"num": 2, "label": "Grand Slam", "highlight": true}
+  ],
+  "timeline": [
+    {
+      "year": "2001", "age": "Age 20", "subtitle": "First World Champion", "isPeak": false,
+      "achievements": [
+        "🏆 Osaka World Championships Women's Team Champion"
+      ]
+    },
+    {
+      "year": "2004", "age": "Age 23", "subtitle": "Athens Triumph", "isPeak": true,
+      "achievements": [
+        "🥇 Athens Olympics Women's Singles Gold",
+        "🥇 Athens Olympics Women's Doubles Gold"
+      ]
+    },
+    {
+      "year": "2005", "age": "Age 24", "subtitle": "First World Singles Title", "isPeak": false,
+      "achievements": [
+        "🏆 Shanghai World Championships Women's Singles Champion",
+        "🏆 World Cup Women's Singles Champion"
+      ],
+      "badge": "⭐ Grand Slam Achieved"
+    },
+    {
+      "year": "2008", "age": "Age 27", "subtitle": "Beijing Defense", "isPeak": true,
+      "achievements": [
+        "🥇 Beijing Olympics Women's Singles Gold (successful defense)",
+        "🥇 Beijing Olympics Women's Team Champion"
+      ]
+    },
+    {
+      "year": "2009", "age": "Age 28", "subtitle": "Yokohama World Championships Defense", "isPeak": false,
+      "achievements": [
+        "🏆 Yokohama World Championships Women's Singles Champion (successful defense)",
+        "📌 Retired at peak"
+      ],
+      "badge": "⭐ Double Grand Slam"
+    }
+  ],
+  "achievements": {
+    "title": "⭐ Double Grand Slam",
+    "description": "Zhang Yining was the first female player in history to complete the Double Grand Slam, widely regarded as 'The Great魔王' (unbeatable legend).",
+    "items": [
+      {"icon": "🥇", "title": "Olympic Singles", "year": "2004 / 2008 Defense"},
+      {"icon": "🏅", "title": "World Championships Singles", "year": "2005 / 2009"},
+      {"icon": "🏆", "title": "World Cup Singles", "year": "2001 / 2002 / 2004 / 2005"}
+    ]
+  }
+}

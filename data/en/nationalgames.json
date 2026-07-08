@@ -1,0 +1,127 @@
+{
+  "id": "nationalgames",
+  "name": "National Games",
+  "icon": "🏟️",
+  "years": [
+    {
+      "year": "2025",
+      "location": "Guangdong-Hong Kong-Macao",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong", "silver": "Lin Shidong", "bronze": ["Wang Chuqin"]},
+        "womensSingles": {"gold": "Wang Manyu", "silver": "Sun Yingsha", "bronze": ["Chen Meng"]}
+      }
+    },
+    {
+      "year": "2021",
+      "location": "Shaanxi",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong", "silver": "Liu Dingshuo", "bronze": ["Liang Jingkun"]},
+        "womensSingles": {"gold": "Wang Manyu", "silver": "Sun Yingsha", "bronze": ["Liu Shiwen"]}
+      }
+    },
+    {
+      "year": "2017",
+      "location": "Tianjin",
+      "events": {
+        "mensSingles": {"gold": "Ma Long", "silver": "Fan Zhendong", "bronze": ["Wang Chuqin"]},
+        "womensSingles": {"gold": "Ding Ning", "silver": "Liu Shiwen", "bronze": ["Zhu Yuling"]}
+      }
+    },
+    {
+      "year": "2013",
+      "location": "Liaoning",
+      "events": {
+        "mensSingles": {"gold": "Ma Long", "silver": "Fan Zhendong", "bronze": ["Xu Xin"]},
+        "womensSingles": {"gold": "Li Xiaoxia", "silver": "Chen Meng", "bronze": ["Liu Shiwen"]}
+      }
+    },
+    {
+      "year": "2009",
+      "location": "Shandong",
+      "events": {
+        "mensSingles": {"gold": "Wang Hao", "silver": "Ma Long", "bronze": ["Wang Liqin"]},
+        "womensSingles": {"gold": "Zhang Yining", "silver": "Guo Yue", "bronze": ["Guo Yan"]}
+      }
+    },
+    {
+      "year": "2005",
+      "location": "Jiangsu",
+      "events": {
+        "mensSingles": {"gold": "Wang Liqin", "silver": "Wang Hao", "bronze": ["Ma Long"]},
+        "womensSingles": {"gold": "Zhang Yining", "silver": "Wang Nan", "bronze": ["Guo Yue"]}
+      }
+    },
+    {
+      "year": "2001",
+      "location": "Guangdong",
+      "events": {
+        "mensSingles": {"gold": "Ma Lin", "silver": "Qin Zhijian", "bronze": ["Kong Linghui", "Wang Liqin"]},
+        "womensSingles": {"gold": "Wang Nan", "silver": "Zhang Yining", "bronze": ["Zhang Yingying", "Li Ju"]}
+      }
+    },
+    {
+      "year": "1997",
+      "location": "Shanghai",
+      "events": {
+        "mensSingles": {"gold": "Wang Tao", "silver": "Ma Lin", "bronze": ["Feng Zhe", "Wang Liqin"]},
+        "womensSingles": {"gold": "Deng Yaping", "silver": "Wang Hui", "bronze": ["Wang Nan", "Li Ju"]}
+      }
+    },
+    {
+      "year": "1993",
+      "location": "Beijing",
+      "events": {
+        "mensSingles": {"gold": "Lü Lin", "silver": "Lin Zhigang", "bronze": ["Li Jing", "Xiong Ke"]},
+        "womensSingles": {"gold": "Deng Yaping", "silver": "Fan Jianxin", "bronze": ["Tang Weiyi", "Zhao Duoduo"]}
+      }
+    },
+    {
+      "year": "1987",
+      "location": "Guangdong",
+      "events": {
+        "mensSingles": {"gold": "Wang Tao", "silver": "Wan Guohui", "bronze": ["Fan Baozhong", "Teng Yi"]},
+        "womensSingles": {"gold": "Jiao Zhimin", "silver": "Qiao Hong", "bronze": ["Chen Jing", "Fan Jianxin"]}
+      }
+    },
+    {
+      "year": "1983",
+      "location": "Shanghai",
+      "events": {
+        "mensSingles": {"gold": "Hui Jun", "silver": "Xie Saike", "bronze": ["Wang Baojun"]},
+        "womensSingles": {"gold": "Jiao Zhimin", "silver": "Dai Lili", "bronze": ["Cao Yanhua"]}
+      }
+    },
+    {
+      "year": "1979",
+      "location": "Beijing",
+      "events": {
+        "mensSingles": {"gold": "Wang Huiyuan", "silver": "Wang Yansheng", "bronze": ["Teng Yi"]},
+        "womensSingles": {"gold": "Qi Baoxiang", "silver": "Ni Xialian", "bronze": ["Bu Qijuan"]}
+      }
+    },
+    {
+      "year": "1975",
+      "location": "Beijing",
+      "events": {
+        "mensSingles": {"gold": "Wang Wenrong", "silver": "Guo Yuehua", "bronze": ["Diao Wenyuan", "Wang Jianqiang"]},
+        "womensSingles": {"gold": "Yan Guili", "silver": "Wei Lijie", "bronze": ["Yu Jinjia", "Huang Xiping"]}
+      }
+    },
+    {
+      "year": "1965",
+      "location": "Beijing",
+      "events": {
+        "mensSingles": {"gold": "Zhuang Zedong", "silver": "He Zubin", "bronze": ["Zhang Xielin"]},
+        "womensSingles": {"gold": "Lin Huicheng", "silver": "Li Henan", "bronze": ["Li Li"]}
+      }
+    },
+    {
+      "year": "1959",
+      "location": "Beijing",
+      "events": {
+        "mensSingles": {"gold": "Wang Chuanyao", "silver": "Zhuang Jiafu", "bronze": ["Jiang Yongning"]},
+        "womensSingles": {"gold": "Hu Keming", "silver": "Ye Peiqiong", "bronze": ["Sun Meiying"]}
+      }
+    }
+  ]
+}

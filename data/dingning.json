@@ -1,0 +1,124 @@
+﻿{
+    "id":  "dingning",
+    "heroImages":  [
+                       "images/athletes/dingning/hero.jpg"
+                   ],
+    "team":  "中国国家乒乓球队",
+    "tags":  [
+                 {
+                     "text":  "🥇 奥运冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏅 世乒赛冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏆 世界杯冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1990.06.20 生于大庆",
+                     "type":  "normal"
+                 }
+             ],
+    "nameEn":  "DING NING · 乒乓传奇 · 大满贯",
+    "name":  "丁宁",
+    "stats":  [
+                  {
+                      "label":  "奥运金牌",
+                      "num":  3,
+                      "highlight":  true
+                  },
+                  {
+                      "label":  "世乒赛单打冠军",
+                      "num":  3,
+                      "highlight":  false
+                  },
+                  {
+                      "label":  "世界杯单打冠军",
+                      "num":  3,
+                      "highlight":  false
+                  },
+                  {
+                      "label":  "大满贯",
+                      "num":  1,
+                      "highlight":  true
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "subtitle":  "世乒赛单打首冠",
+                         "achievements":  [
+                                              "🏆 鹿特丹世乒赛女单冠军"
+                                          ],
+                         "age":  "21岁",
+                         "year":  "2011",
+                         "badge":  "⭐ 崭露头角",
+                         "isPeak":  true
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "伦敦奥运",
+                         "age":  "22岁",
+                         "year":  "2012",
+                         "achievements":  [
+                                              "🥇 伦敦奥运会女团冠军",
+                                              "🥈 伦敦奥运会女单亚军"
+                                          ]
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "世乒赛女单冠军",
+                         "age":  "25岁",
+                         "year":  "2015",
+                         "achievements":  [
+                                              "🏆 苏州世乒赛女单冠军"
+                                          ]
+                     },
+                     {
+                         "subtitle":  "里约登顶",
+                         "achievements":  [
+                                              "🥇 里约奥运会女单金牌",
+                                              "🥇 里约奥运会女团冠军"
+                                          ],
+                         "age":  "26岁",
+                         "year":  "2016",
+                         "badge":  "⭐ 大满贯达成",
+                         "isPeak":  true
+                     },
+                     {
+                         "subtitle":  "世乒赛三冠王",
+                         "achievements":  [
+                                              "🏆 杜塞尔多夫世乒赛女单冠军"
+                                          ],
+                         "age":  "27岁",
+                         "year":  "2017",
+                         "badge":  "⭐ 世乒赛三冠王",
+                         "isPeak":  true
+                     }
+                 ],
+    "country":  "CHN",
+    "birthDate":  "1990-06-20",
+    "achievements":  {
+                         "title":  "⭐ 大满贯",
+                         "description":  "丁宁是中国女乒第五位大满贯得主，以顽强的意志和左手下蹲式发球闻名。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会单打",
+                                           "year":  "2016 里约"
+                                       },
+                                       {
+                                           "icon":  "🏅",
+                                           "title":  "世乒赛单打",
+                                           "year":  "2011 / 2015 / 2017"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世界杯单打",
+                                           "year":  "2011 / 2014 / 2018"
+                                       }
+                                   ]
+                     }
+}

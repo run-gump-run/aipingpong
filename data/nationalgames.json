@@ -1,0 +1,127 @@
+{
+  "id": "nationalgames",
+  "name": "全运会",
+  "icon": "🏟️",
+  "years": [
+    {
+      "year": "2025",
+      "location": "粤港澳",
+      "events": {
+        "mensSingles": {"gold": "樊振东", "silver": "林诗栋", "bronze": ["王楚钦"]},
+        "womensSingles": {"gold": "王曼昱", "silver": "孙颖莎", "bronze": ["陈梦"]}
+      }
+    },
+    {
+      "year": "2021",
+      "location": "陕西",
+      "events": {
+        "mensSingles": {"gold": "樊振东", "silver": "刘丁硕", "bronze": ["梁靖崑"]},
+        "womensSingles": {"gold": "王曼昱", "silver": "孙颖莎", "bronze": ["刘诗雯"]}
+      }
+    },
+    {
+      "year": "2017",
+      "location": "天津",
+      "events": {
+        "mensSingles": {"gold": "马龙", "silver": "樊振东", "bronze": ["王楚钦"]},
+        "womensSingles": {"gold": "丁宁", "silver": "刘诗雯", "bronze": ["朱雨玲"]}
+      }
+    },
+    {
+      "year": "2013",
+      "location": "辽宁",
+      "events": {
+        "mensSingles": {"gold": "马龙", "silver": "樊振东", "bronze": ["许昕"]},
+        "womensSingles": {"gold": "李晓霞", "silver": "陈梦", "bronze": ["刘诗雯"]}
+      }
+    },
+    {
+      "year": "2009",
+      "location": "山东",
+      "events": {
+        "mensSingles": {"gold": "王皓", "silver": "马龙", "bronze": ["王励勤"]},
+        "womensSingles": {"gold": "张怡宁", "silver": "郭跃", "bronze": ["郭焱"]}
+      }
+    },
+    {
+      "year": "2005",
+      "location": "江苏",
+      "events": {
+        "mensSingles": {"gold": "王励勤", "silver": "王皓", "bronze": ["马龙"]},
+        "womensSingles": {"gold": "张怡宁", "silver": "王楠", "bronze": ["郭跃"]}
+      }
+    },
+    {
+      "year": "2001",
+      "location": "广东",
+      "events": {
+        "mensSingles": {"gold": "马琳", "silver": "秦志戬", "bronze": ["孔令辉", "王励勤"]},
+        "womensSingles": {"gold": "王楠", "silver": "张怡宁", "bronze": ["张莹莹", "李菊"]}
+      }
+    },
+    {
+      "year": "1997",
+      "location": "上海",
+      "events": {
+        "mensSingles": {"gold": "王涛", "silver": "马琳", "bronze": ["冯喆", "王励勤"]},
+        "womensSingles": {"gold": "邓亚萍", "silver": "王辉", "bronze": ["王楠", "李菊"]}
+      }
+    },
+    {
+      "year": "1993",
+      "location": "北京",
+      "events": {
+        "mensSingles": {"gold": "吕林", "silver": "林志刚", "bronze": ["李静", "熊柯"]},
+        "womensSingles": {"gold": "邓亚萍", "silver": "樊建欣", "bronze": ["唐薇依", "赵多多"]}
+      }
+    },
+    {
+      "year": "1987",
+      "location": "广东",
+      "events": {
+        "mensSingles": {"gold": "王涛", "silver": "万国辉", "bronze": ["范宝忠", "滕毅"]},
+        "womensSingles": {"gold": "焦志敏", "silver": "乔红", "bronze": ["陈静", "樊建欣"]}
+      }
+    },
+    {
+      "year": "1983",
+      "location": "上海",
+      "events": {
+        "mensSingles": {"gold": "惠钧", "silver": "谢赛克", "bronze": ["王宝军"]},
+        "womensSingles": {"gold": "焦志敏", "silver": "戴丽丽", "bronze": ["曹燕华"]}
+      }
+    },
+    {
+      "year": "1979",
+      "location": "北京",
+      "events": {
+        "mensSingles": {"gold": "王会元", "silver": "王燕生", "bronze": ["滕毅"]},
+        "womensSingles": {"gold": "齐宝香", "silver": "倪夏莲", "bronze": ["卜启娟"]}
+      }
+    },
+    {
+      "year": "1975",
+      "location": "北京",
+      "events": {
+        "mensSingles": {"gold": "王文荣", "silver": "郭跃华", "bronze": ["刁文元", "王健强"]},
+        "womensSingles": {"gold": "阎桂丽", "silver": "魏力婕", "bronze": ["余锦佳", "黄锡萍"]}
+      }
+    },
+    {
+      "year": "1965",
+      "location": "北京",
+      "events": {
+        "mensSingles": {"gold": "庄则栋", "silver": "何祖彬", "bronze": ["张燮林"]},
+        "womensSingles": {"gold": "林慧卿", "silver": "李赫男", "bronze": ["李莉"]}
+      }
+    },
+    {
+      "year": "1959",
+      "location": "北京",
+      "events": {
+        "mensSingles": {"gold": "王传耀", "silver": "庄家富", "bronze": ["姜永宁"]},
+        "womensSingles": {"gold": "胡克明", "silver": "叶佩琼", "bronze": ["孙梅英"]}
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "olympics",
+  "name": "Olympic Games",
+  "icon": "🏅",
+  "years": [
+    {
+      "year": "2024",
+      "location": "Paris",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong", "silver": "Truls Möregårdh", "bronze": ["Lebrun", "Hugo Calderano"]},
+        "womensSingles": {"gold": "Chen Meng", "silver": "Sun Yingsha", "bronze": ["Hina Hayata", "Shin Yubin"]},
+        "mensTeam": {"gold": "China", "silver": "Sweden", "bronze": ["France"]},
+        "womensTeam": {"gold": "China", "silver": "Japan", "bronze": ["South Korea"]},
+        "mixedDoubles": {"gold": "China (Wang Chuqin/Sun Yingsha)", "silver": "North Korea", "bronze": ["South Korea"]}
+      }
+    },
+    {
+      "year": "2020",
+      "location": "Tokyo",
+      "events": {
+        "mensSingles": {"gold": "Ma Long", "silver": "Fan Zhendong", "bronze": ["Lin Yun-Ju", "Dimitrij Ovtcharov"]},
+        "womensSingles": {"gold": "Chen Meng", "silver": "Sun Yingsha", "bronze": ["Mima Ito", "Yu Mengyu"]},
+        "mensTeam": {"gold": "China", "silver": "Germany", "bronze": ["Japan"]},
+        "womensTeam": {"gold": "China", "silver": "Japan", "bronze": ["Hong Kong, China"]},
+        "mixedDoubles": {"gold": "Japan (Jun Mizutani/Mima Ito)", "silver": "China (Liu Shiwen/Xu Xin)", "bronze": ["Chinese Taipei"]}
+      }
+    },
+    {
+      "year": "2016",
+      "location": "Rio",
+      "events": {
+        "mensSingles": {"gold": "Ma Long", "silver": "Zhang Jike", "bronze": ["Jun Mizutani", "Vladimir Samsonov"]},
+        "womensSingles": {"gold": "Ding Ning", "silver": "Li Xiaoxia", "bronze": ["Kim Song-I", "Ai Fukuhara"]},
+        "mensTeam": {"gold": "China", "silver": "Japan", "bronze": ["Germany"]},
+        "womensTeam": {"gold": "China", "silver": "Germany", "bronze": ["Japan"]}
+      }
+    },
+    {
+      "year": "2012",
+      "location": "London",
+      "events": {
+        "mensSingles": {"gold": "Zhang Jike", "silver": "Wang Hao", "bronze": ["Dimitrij Ovtcharov", "Chuang Chih-Yuan"]},
+        "womensSingles": {"gold": "Li Xiaoxia", "silver": "Ding Ning", "bronze": ["Feng Tianwei", "Kasumi Ishikawa"]},
+        "mensTeam": {"gold": "China", "silver": "South Korea", "bronze": ["Germany"]},
+        "womensTeam": {"gold": "China", "silver": "Japan", "bronze": ["Singapore"]}
+      }
+    },
+    {
+      "year": "2008",
+      "location": "Beijing",
+      "events": {
+        "mensSingles": {"gold": "Ma Lin", "silver": "Wang Hao", "bronze": ["Wang Liqin", "Jörgen Persson"]},
+        "womensSingles": {"gold": "Zhang Yining", "silver": "Wang Nan", "bronze": ["Guo Yue", "Li Jiawei"]},
+        "mensTeam": {"gold": "China", "silver": "Germany", "bronze": ["South Korea"]},
+        "womensTeam": {"gold": "China", "silver": "Singapore", "bronze": ["Japan"]}
+      }
+    },
+    {
+      "year": "2004",
+      "location": "Athens",
+      "events": {
+        "mensSingles": {"gold": "Ryu Seung-min", "silver": "Wang Hao", "bronze": ["Wang Liqin", "Jan-Ove Waldner"]},
+        "womensSingles": {"gold": "Zhang Yining", "silver": "Kim Hyang-mi", "bronze": ["Kim Kyung-ae", "Li Jiawei"]},
+        "mensDoubles": {"gold": "China (Ma Lin/Chen Qi)", "silver": "Hong Kong, China (Ko Lai Chak/Leung Chu Yan)", "bronze": ["China (Wang Hao/Kong Linghui)"]},
+        "womensDoubles": {"gold": "China (Zhang Yining/Wang Nan)", "silver": "China (Guo Yue/Niu Jianfeng)", "bronze": ["South Korea (Kim Kyung-ae/Kim Bok-rae)"]}
+      }
+    },
+    {
+      "year": "2000",
+      "location": "Sydney",
+      "events": {
+        "mensSingles": {"gold": "Kong Linghui", "silver": "Jan-Ove Waldner", "bronze": ["Liu Guoliang", "Jörgen Persson"]},
+        "womensSingles": {"gold": "Wang Nan", "silver": "Li Ju", "bronze": ["Chen Jing", "Sun Jin"]},
+        "mensDoubles": {"gold": "China (Wang Liqin/Yan Sen)", "silver": "China (Liu Guoliang/Kong Linghui)", "bronze": ["South Korea (Lee Chul-seung/Ryu Seung-min)"]},
+        "womensDoubles": {"gold": "China (Li Ju/Wang Nan)", "silver": "China (Sun Jin/Yang Ying)", "bronze": ["South Korea (Ryu Ji-hye/Kim Mu-ok)"]}
+      }
+    },
+    {
+      "year": "1996",
+      "location": "Atlanta",
+      "events": {
+        "mensSingles": {"gold": "Liu Guoliang", "silver": "Wang Tao", "bronze": ["Vladimir Samsonov (Belarus)", "Jörg Rosskopf (Germany)"]},
+        "womensSingles": {"gold": "Deng Yaping", "silver": "Chen Jing (Chinese Taipei)", "bronze": ["Qiao Hong", "Li Ju"]},
+        "mensDoubles": {"gold": "China (Kong Linghui/Liu Guoliang)", "silver": "China (Wang Tao/Lü Lin)", "bronze": ["South Korea (Lee Chul-seung/Nam Seok-joon)"]},
+        "womensDoubles": {"gold": "China (Deng Yaping/Qiao Hong)", "silver": "China (Liu Wei/Qiao Yunping)", "bronze": ["South Korea (Park Hae-eun/Ryu Ji-hye)"]}
+      }
+    },
+    {
+      "year": "1992",
+      "location": "Barcelona",
+      "events": {
+        "mensSingles": {"gold": "Jan-Ove Waldner (Sweden)", "silver": "Jean-Philippe Gatien (France)", "bronze": ["Ma Wenge", "Kim Taek-soo (South Korea)"]},
+        "womensSingles": {"gold": "Deng Yaping", "silver": "Qiao Hong", "bronze": ["Gao Jun", "Li Bun-hui (North Korea)"]},
+        "mensDoubles": {"gold": "China (Wang Tao/Lü Lin)", "silver": "Germany (Steffen Fetzner/Jörg Rosskopf)", "bronze": ["South Korea (Kim Taek-soo/Yoo Nam-kyu)", "Yugoslavia (Zoran Kalinić/Leszek Kucharski)"]},
+        "womensDoubles": {"gold": "China (Deng Yaping/Qiao Hong)", "silver": "China (Chen Zihe/Gao Jun)", "bronze": ["South Korea (Hong Cha-ok/Hyun Jung-hwa)", "Unified Team"]}
+      }
+    },
+    {
+      "year": "1988",
+      "location": "Seoul",
+      "events": {
+        "mensSingles": {"gold": "Yoo Nam-kyu (South Korea)", "silver": "Kim Ki-taik (South Korea)", "bronze": ["Erik Lindh (Sweden)", "Andrzej Grubba (Poland)"]},
+        "womensSingles": {"gold": "Chen Jing", "silver": "Li Huifen", "bronze": ["Jiao Zhimin", "Valentina Popova (Soviet Union)"]},
+        "mensDoubles": {"gold": "China (Chen Longcan/Wei Qingguang)", "silver": "Yugoslavia (Zoran Kalinić/Leszek Kucharski)", "bronze": ["Sweden (Erik Lindh/Jörgen Persson)", "West Germany (Peter Franz/Georg Böhm)"]},
+        "womensDoubles": {"gold": "South Korea (Yang Young-ja/Hyun Jung-hwa)", "silver": "China (Jiao Zhimin/Chen Jing)", "bronze": ["Japan", "Soviet Union"]}
+      }
+    }
+  ]
+}

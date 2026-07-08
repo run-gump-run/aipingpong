@@ -1,0 +1,67 @@
+{
+  "id": "dingning",
+  "name": "Ding Ning",
+  "nameEn": "DING NING · Table Tennis Legend · Grand Slam",
+  "country": "CHN",
+  "team": "China National Table Tennis Team",
+  "birthDate": "1990-06-20",
+  "heroImages": ["images/athletes/dingning/hero.jpg"],
+  "tags": [
+    {"text": "🥇 Olympic Champion", "type": "gold"},
+    {"text": "🏅 World Champion", "type": "gold"},
+    {"text": "🏆 World Cup Champion", "type": "gold"},
+    {"text": "🎂 1990.06.20 Born in Daqing", "type": "normal"}
+  ],
+  "stats": [
+    {"num": 3, "label": "Olympic Golds", "highlight": true},
+    {"num": 3, "label": "World Singles Titles", "highlight": false},
+    {"num": 3, "label": "World Cup Singles Titles", "highlight": false},
+    {"num": 1, "label": "Grand Slam", "highlight": true}
+  ],
+  "timeline": [
+    {
+      "year": "2011", "age": "Age 21", "subtitle": "First World Singles Title", "isPeak": true,
+      "achievements": [
+        "🏆 Rotterdam World Championships Women's Singles Champion"
+      ],
+      "badge": "⭐ Rising Star"
+    },
+    {
+      "year": "2012", "age": "Age 22", "subtitle": "London Olympics", "isPeak": false,
+      "achievements": [
+        "🥇 London Olympics Women's Team Champion",
+        "🥈 London Olympics Women's Singles Runner-up"
+      ]
+    },
+    {
+      "year": "2015", "age": "Age 25", "subtitle": "World Championships Singles Champion", "isPeak": false,
+      "achievements": [
+        "🏆 Suzhou World Championships Women's Singles Champion"
+      ]
+    },
+    {
+      "year": "2016", "age": "Age 26", "subtitle": "Rio Triumph", "isPeak": true,
+      "achievements": [
+        "🥇 Rio Olympics Women's Singles Gold",
+        "🥇 Rio Olympics Women's Team Champion"
+      ],
+      "badge": "⭐ Grand Slam Achieved"
+    },
+    {
+      "year": "2017", "age": "Age 27", "subtitle": "World Championships Three-peat", "isPeak": true,
+      "achievements": [
+        "🏆 Düsseldorf World Championships Women's Singles Champion"
+      ],
+      "badge": "⭐ World Championships Three-peat"
+    }
+  ],
+  "achievements": {
+    "title": "⭐ Grand Slam",
+    "description": "Ding Ning was the fifth female player from China to achieve the Grand Slam, known for her indomitable willpower and signature left-handed squatting serve.",
+    "items": [
+      {"icon": "🥇", "title": "Olympic Singles", "year": "2016 Rio"},
+      {"icon": "🏅", "title": "World Championships Singles", "year": "2011 / 2015 / 2017"},
+      {"icon": "🏆", "title": "World Cup Singles", "year": "2011 / 2014 / 2018"}
+    ]
+  }
+}

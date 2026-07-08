@@ -1,0 +1,141 @@
+{
+    "id":  "liuguoliang",
+    "name":  "刘国梁",
+    "nameEn":  "LIU GUOLIANG · 直拍横打先驱 · 大满贯",
+    "country":  "CHN",
+    "team":  "中国国家乒乓球队",
+    "birthDate":  "1976-01-06",
+    "heroImages":  [
+                       "images/athletes/liuguoliang/hero.jpg"
+                   ],
+    "tags":  [
+                 {
+                     "text":  "🥇 奥运男单冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏅 世乒赛单打冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏆 世界杯单打冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1976.01.06 生于河南新乡",
+                     "type":  "normal"
+                 }
+             ],
+    "stats":  [
+                  {
+                      "num":  2,
+                      "label":  "奥运金牌",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  1,
+                      "label":  "世乒赛单打冠军",
+                      "highlight":  true
+                  },
+                  {
+                      "num":  1,
+                      "label":  "世界杯单打冠军",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  1,
+                      "label":  "大满贯",
+                      "highlight":  true
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "year":  "1994",
+                         "age":  "18岁",
+                         "subtitle":  "国际赛场崭露头角",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 中国公开赛男单冠军",
+                                              "📌 直拍横打技术日臻成熟"
+                                          ]
+                     },
+                     {
+                         "year":  "1996",
+                         "age":  "20岁",
+                         "subtitle":  "亚特兰大奥运双冠",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥇 亚特兰大奥运会男单金牌（决赛击败王涛）",
+                                              "🥇 亚特兰大奥运会男双金牌（搭档孔令辉）",
+                                              "📌 中国男乒首位奥运男单冠军"
+                                          ],
+                         "badge":  "⭐ 奥运双冠王"
+                     },
+                     {
+                         "year":  "1996",
+                         "age":  "20岁",
+                         "subtitle":  "世界杯首冠",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 男子世界杯单打冠军"
+                                          ]
+                     },
+                     {
+                         "year":  "1999",
+                         "age":  "23岁",
+                         "subtitle":  "世乒赛登顶 · 成就大满贯",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🏆 埃因霍温世乒赛男单冠军（决赛击败马琳）",
+                                              "📌 集奥运会、世乒赛、世界杯单打冠军于一身",
+                                              "📌 中国男乒首位大满贯得主"
+                                          ],
+                         "badge":  "⭐ 大满贯达成"
+                     },
+                     {
+                         "year":  "2001",
+                         "age":  "25岁",
+                         "subtitle":  "世乒赛双打三连冠",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 大阪世乒赛男双冠军（搭档孔令辉，三连冠）"
+                                          ]
+                     },
+                     {
+                         "year":  "2002",
+                         "age":  "26岁",
+                         "subtitle":  "退役转型教练",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "📌 正式宣布退役",
+                                              "📌 后任中国男队主教练、中国乒协主席"
+                                          ]
+                     }
+                 ],
+    "achievements":  {
+                         "title":  "⭐ 大满贯",
+                         "description":  "刘国梁是中国男乒首位大满贯得主，集奥运会（1996）、世乒赛（1999）、世界杯（1996）单打冠军于一身。他是直拍横打技术的先驱者，与孔令辉并称「双子星」，退役后转型教练，带领中国乒乓球队延续辉煌。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会单打",
+                                           "year":  "1996 亚特兰大"
+                                       },
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会双打",
+                                           "year":  "1996 亚特兰大"
+                                       },
+                                       {
+                                           "icon":  "🏅",
+                                           "title":  "世乒赛单打",
+                                           "year":  "1999 埃因霍温"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世界杯单打",
+                                           "year":  "1996"
+                                       }
+                                   ]
+                     }
+}

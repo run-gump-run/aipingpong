@@ -1,0 +1,86 @@
+{
+    "id":  "niujianfeng",
+    "heroImages":  [
+                       "images/athletes/niujianfeng/hero.jpg"
+                   ],
+    "team":  "中国国家乒乓球队",
+    "tags":  [
+                 {
+                     "text":  "🏆 世界冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1981.04.03 生于保定",
+                     "type":  "normal"
+                 }
+             ],
+    "nameEn":  "NIU JIANFENG · 乒乓传奇",
+    "name":  "牛剑锋",
+    "stats":  [
+                  {
+                      "label":  "世乒赛冠军",
+                      "num":  1,
+                      "highlight":  true
+                  },
+                  {
+                      "label":  "奥运铜牌",
+                      "num":  1,
+                      "highlight":  false
+                  },
+                  {
+                      "label":  "巡回赛总决赛冠军",
+                      "num":  1,
+                      "highlight":  false
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "美国公开赛夺冠",
+                         "age":  "20岁",
+                         "year":  "2001",
+                         "achievements":  [
+                                              "🏆 美国公开赛女单、女双冠军",
+                                              "📌 乒超联赛最佳女运动员"
+                                          ]
+                     },
+                     {
+                         "subtitle":  "巡回赛总决赛冠军",
+                         "achievements":  [
+                                              "🏆 国际乒联巡回赛总决赛女单冠军（击败张怡宁）"
+                                          ],
+                         "age":  "22岁",
+                         "year":  "2003",
+                         "badge":  "⭐ 巅峰时刻",
+                         "isPeak":  true
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "雅典奥运",
+                         "age":  "23岁",
+                         "year":  "2004",
+                         "achievements":  [
+                                              "🥉 雅典奥运会女双铜牌",
+                                              "🏆 世乒赛女团冠军"
+                                          ]
+                     }
+                 ],
+    "country":  "CHN",
+    "birthDate":  "1981-04-03",
+    "achievements":  {
+                         "title":  "⭐ 男子化打法先驱",
+                         "description":  "牛剑锋以凶狠的弧圈球和男子化打法著称，退役后任北京体育大学副教授。",
+                         "items":  [
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世乒赛女团",
+                                           "year":  "2004"
+                                       },
+                                       {
+                                           "icon":  "📋",
+                                           "title":  "巡回赛总决赛",
+                                           "year":  "2003"
+                                       }
+                                   ]
+                     }
+}

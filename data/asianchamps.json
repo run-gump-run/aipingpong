@@ -1,0 +1,217 @@
+{
+  "id": "asianchamps",
+  "name": "亚锦赛",
+  "icon": "🎯",
+  "years": [
+    {
+      "year": "2023",
+      "location": "平昌",
+      "events": {
+        "mensSingles": {"gold": "马龙"},
+        "womensSingles": {"gold": "孙颖莎"},
+        "mensTeam": {"gold": "中国"},
+        "womensTeam": {"gold": "中国"}
+      }
+    },
+    {
+      "year": "2021",
+      "location": "多哈",
+      "events": {
+        "mensSingles": {"gold": "李尚洙(韩国)"},
+        "womensSingles": {"gold": "早田希娜(日本)"}
+      }
+    },
+    {
+      "year": "2019",
+      "location": "日惹",
+      "events": {
+        "mensSingles": {"gold": "许昕"},
+        "womensSingles": {"gold": "刘诗雯"}
+      }
+    },
+    {
+      "year": "2017",
+      "location": "无锡",
+      "events": {
+        "mensSingles": {"gold": "樊振东"},
+        "womensSingles": {"gold": "平野美宇(日本)"}
+      }
+    },
+    {
+      "year": "2015",
+      "location": "芭堤雅",
+      "events": {
+        "mensSingles": {"gold": "樊振东"},
+        "womensSingles": {"gold": "朱雨玲"}
+      }
+    },
+    {
+      "year": "2013",
+      "location": "釜山",
+      "events": {
+        "mensSingles": {"gold": "马龙"},
+        "womensSingles": {"gold": "刘诗雯"}
+      }
+    },
+    {
+      "year": "2012",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "马龙"},
+        "womensSingles": {"gold": "郭焱"}
+      }
+    },
+    {
+      "year": "2009",
+      "location": "勒克瑙",
+      "events": {
+        "mensSingles": {"gold": "马龙"},
+        "womensSingles": {"gold": "丁宁"}
+      }
+    },
+    {
+      "year": "2007",
+      "location": "扬州",
+      "events": {
+        "mensSingles": {"gold": "王皓"},
+        "womensSingles": {"gold": "张怡宁"}
+      }
+    },
+    {
+      "year": "2005",
+      "location": "济州",
+      "events": {
+        "mensSingles": {"gold": "王励勤"},
+        "womensSingles": {"gold": "林菱(中国香港)"}
+      }
+    },
+    {
+      "year": "2003",
+      "location": "曼谷",
+      "events": {
+        "mensSingles": {"gold": "王皓"},
+        "womensSingles": {"gold": "牛剑锋"}
+      }
+    },
+    {
+      "year": "2000",
+      "location": "多哈",
+      "events": {
+        "mensSingles": {"gold": "蒋澎龙(中国台北)"},
+        "womensSingles": {"gold": "林菱(中国香港)"}
+      }
+    },
+    {
+      "year": "1998",
+      "location": "大阪",
+      "events": {
+        "mensSingles": {"gold": "王励勤"},
+        "womensSingles": {"gold": "李菊"}
+      }
+    },
+    {
+      "year": "1996",
+      "location": "新加坡",
+      "events": {
+        "mensSingles": {"gold": "孔令辉"},
+        "womensSingles": {"gold": "小山智丽(日本)"}
+      }
+    },
+    {
+      "year": "1994",
+      "location": "天津",
+      "events": {
+        "mensSingles": {"gold": "孔令辉"},
+        "womensSingles": {"gold": "邓亚萍"}
+      }
+    },
+    {
+      "year": "1992",
+      "location": "新德里",
+      "events": {
+        "mensSingles": {"gold": "谢超杰"},
+        "womensSingles": {"gold": "康薇依"}
+      }
+    },
+    {
+      "year": "1990",
+      "location": "吉隆坡",
+      "events": {
+        "mensSingles": {"gold": "王涛"},
+        "womensSingles": {"gold": "乔红"}
+      }
+    },
+    {
+      "year": "1988",
+      "location": "新泻",
+      "events": {
+        "mensSingles": {"gold": "陈龙灿"},
+        "womensSingles": {"gold": "何智丽"}
+      }
+    },
+    {
+      "year": "1986",
+      "location": "深圳",
+      "events": {
+        "mensSingles": {"gold": "江嘉良"},
+        "womensSingles": {"gold": "何智丽"}
+      }
+    },
+    {
+      "year": "1984",
+      "location": "伊斯兰堡",
+      "events": {
+        "mensSingles": {"gold": "谢赛克"},
+        "womensSingles": {"gold": "何智丽"}
+      }
+    },
+    {
+      "year": "1982",
+      "location": "雅加达",
+      "events": {
+        "mensSingles": {"gold": "蔡振华"},
+        "womensSingles": {"gold": "曹燕华"}
+      }
+    },
+    {
+      "year": "1980",
+      "location": "加尔各答",
+      "events": {
+        "mensSingles": {"gold": "施之皓"},
+        "womensSingles": {"gold": "齐宝香"}
+      }
+    },
+    {
+      "year": "1978",
+      "location": "吉隆坡",
+      "events": {
+        "mensSingles": {"gold": "郭跃华"},
+        "womensSingles": {"gold": "曹燕华"}
+      }
+    },
+    {
+      "year": "1976",
+      "location": "平壤",
+      "events": {
+        "mensSingles": {"gold": "梁戈亮"},
+        "womensSingles": {"gold": "张立"}
+      }
+    },
+    {
+      "year": "1974",
+      "location": "横滨",
+      "events": {
+        "mensSingles": {"gold": "长谷川信彦(日本)"},
+        "womensSingles": {"gold": "枝野富枝(日本)"}
+      }
+    },
+    {
+      "year": "1972",
+      "location": "北京",
+      "events": {
+        "mensSingles": {"gold": "长谷川信彦(日本)"},
+        "womensSingles": {"gold": "李莉"}
+      }
+    }
+  ]
+}

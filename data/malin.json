@@ -1,0 +1,166 @@
+{
+    "id":  "malin",
+    "name":  "马琳",
+    "nameEn":  "MA LIN · 直板大师 · 世界杯之王",
+    "country":  "CHN",
+    "team":  "中国国家乒乓球队",
+    "birthDate":  "1980-02-19",
+    "heroImages":  [
+                       "images/athletes/malin/hero.jpg"
+                   ],
+    "tags":  [
+                 {
+                     "text":  "🥇 奥运男单冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏆 世界杯四冠王",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏅 世乒赛单打亚军×3",
+                     "type":  "normal"
+                 },
+                 {
+                     "text":  "🎂 1980.02.19 生于沈阳",
+                     "type":  "normal"
+                 }
+             ],
+    "stats":  [
+                  {
+                      "num":  3,
+                      "label":  "奥运金牌",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  0,
+                      "label":  "世乒赛单打冠军",
+                      "highlight":  false
+                  },
+                  {
+                      "num":  4,
+                      "label":  "世界杯单打冠军",
+                      "highlight":  true
+                  },
+                  {
+                      "num":  0,
+                      "label":  "大满贯",
+                      "highlight":  false
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "year":  "1999",
+                         "age":  "19岁",
+                         "subtitle":  "世乒赛初露锋芒",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🥈 埃因霍温世乒赛男单亚军（决赛负于刘国梁）"
+                                          ]
+                     },
+                     {
+                         "year":  "2000",
+                         "age":  "20岁",
+                         "subtitle":  "世界杯首冠",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 男子世界杯单打冠军（个人首个三大赛单打冠军）"
+                                          ]
+                     },
+                     {
+                         "year":  "2003",
+                         "age":  "23岁",
+                         "subtitle":  "世界杯卫冕",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🏆 男子世界杯单打冠军（卫冕成功）"
+                                          ]
+                     },
+                     {
+                         "year":  "2004",
+                         "age":  "24岁",
+                         "subtitle":  "雅典奥运双打夺金",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥇 雅典奥运会男双金牌（搭档陈玘）",
+                                              "🏆 男子世界杯单打冠军（第三冠）"
+                                          ]
+                     },
+                     {
+                         "year":  "2005",
+                         "age":  "25岁",
+                         "subtitle":  "世乒赛再获亚军",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🥈 上海世乒赛男单亚军（决赛负于王励勤）"
+                                          ]
+                     },
+                     {
+                         "year":  "2006",
+                         "age":  "26岁",
+                         "subtitle":  "世界杯四冠王",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🏆 男子世界杯单打冠军（第四冠，追平纪录）"
+                                          ],
+                         "badge":  "⭐ 世界杯四冠王"
+                     },
+                     {
+                         "year":  "2007",
+                         "age":  "27岁",
+                         "subtitle":  "世乒赛三度获亚军",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "🥈 萨格勒布世乒赛男单亚军（决赛负于王励勤）",
+                                              "📌 世乒赛男单三度获亚军，未能夺冠"
+                                          ]
+                     },
+                     {
+                         "year":  "2008",
+                         "age":  "28岁",
+                         "subtitle":  "北京奥运登顶",
+                         "isPeak":  true,
+                         "achievements":  [
+                                              "🥇 北京奥运会男单金牌（决赛4:1击败王皓）",
+                                              "🥇 北京奥运会男团金牌"
+                                          ],
+                         "badge":  "⭐ 奥运双冠王"
+                     },
+                     {
+                         "year":  "2013",
+                         "age":  "33岁",
+                         "subtitle":  "退役",
+                         "isPeak":  false,
+                         "achievements":  [
+                                              "📌 正式退役",
+                                              "📌 后转型教练，曾任广东队主教练"
+                                          ]
+                     }
+                 ],
+    "achievements":  {
+                         "title":  "⭐ 世界杯之王",
+                         "description":  "马琳是直板打法的集大成者，四夺世界杯单打冠军，被誉为「世界杯之王」。2008年北京奥运会夺得男单金牌达到职业生涯巅峰。遗憾的是世乒赛三度获亚军未能夺冠，未能完成大满贯。与王励勤、王皓并称「二王一马」。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会单打",
+                                           "year":  "2008 北京"
+                                       },
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会团体",
+                                           "year":  "2008 北京"
+                                       },
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运会双打",
+                                           "year":  "2004 雅典"
+                                       },
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世界杯单打",
+                                           "year":  "2000 / 2003 / 2004 / 2006"
+                                       }
+                                   ]
+                     }
+}

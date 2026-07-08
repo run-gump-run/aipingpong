@@ -1,0 +1,189 @@
+{
+  "id": "asiangames",
+  "name": "亚运会",
+  "icon": "🌏",
+  "years": [
+    {
+      "year": "2023",
+      "location": "杭州",
+      "events": {
+        "mensSingles": {"gold": "王楚钦", "silver": "樊振东"},
+        "womensSingles": {"gold": "孙颖莎"},
+        "mensTeam": {"gold": "中国"},
+        "womensTeam": {"gold": "中国"},
+        "mixedDoubles": {"gold": "中国(王楚钦/孙颖莎)"},
+        "mensDoubles": {"gold": "中国(樊振东/王楚钦)"},
+        "womensDoubles": {"gold": "中国(陈梦/王艺迪)"}
+      }
+    },
+    {
+      "year": "2018",
+      "location": "雅加达",
+      "events": {
+        "mensSingles": {"gold": "樊振东"},
+        "womensSingles": {"gold": "王曼昱"},
+        "mensTeam": {"gold": "中国"},
+        "womensTeam": {"gold": "中国"},
+        "mixedDoubles": {"gold": "中国(王楚钦/孙颖莎)"}
+      }
+    },
+    {
+      "year": "2014",
+      "location": "仁川",
+      "events": {
+        "mensSingles": {"gold": "许昕"},
+        "womensSingles": {"gold": "刘诗雯"},
+        "mensTeam": {"gold": "中国"},
+        "womensTeam": {"gold": "中国"},
+        "mixedDoubles": {"gold": "中国"},
+        "mensDoubles": {"gold": "中国"},
+        "womensDoubles": {"gold": "中国"}
+      }
+    },
+    {
+      "year": "2010",
+      "location": "广州",
+      "events": {
+        "mensSingles": {"gold": "马龙"},
+        "womensSingles": {"gold": "李晓霞"},
+        "mensTeam": {"gold": "中国"},
+        "womensTeam": {"gold": "中国"},
+        "mixedDoubles": {"gold": "中国"},
+        "mensDoubles": {"gold": "中国"},
+        "womensDoubles": {"gold": "中国"}
+      }
+    },
+    {
+      "year": "2006",
+      "location": "多哈",
+      "events": {
+        "mensSingles": {"gold": "王皓"},
+        "womensSingles": {"gold": "郭跃"},
+        "mensTeam": {"gold": "中国"},
+        "womensTeam": {"gold": "中国"},
+        "mixedDoubles": {"gold": "中国"},
+        "mensDoubles": {"gold": "中国"},
+        "womensDoubles": {"gold": "中国"}
+      }
+    },
+    {
+      "year": "2002",
+      "location": "釜山",
+      "events": {
+        "mensSingles": {"gold": "王励勤"},
+        "womensSingles": {"gold": "张怡宁"},
+        "mensTeam": {"gold": "中国"},
+        "womensTeam": {"gold": "中国"},
+        "mixedDoubles": {"gold": "中国"},
+        "mensDoubles": {"gold": "中国"},
+        "womensDoubles": {"gold": "中国"}
+      }
+    },
+    {
+      "year": "1998",
+      "location": "曼谷",
+      "events": {
+        "mensSingles": {"gold": "金泽洙(韩国)"},
+        "womensSingles": {"gold": "王楠"},
+        "mensTeam": {"gold": "中国"},
+        "womensTeam": {"gold": "中国"},
+        "mixedDoubles": {"gold": "中国"},
+        "mensDoubles": {"gold": "中国"},
+        "womensDoubles": {"gold": "中国"}
+      }
+    },
+    {
+      "year": "1994",
+      "location": "广岛",
+      "events": {
+        "mensSingles": {"gold": "王涛"},
+        "womensSingles": {"gold": "小山智丽(日本)"},
+        "mensTeam": {"gold": "中国"},
+        "womensTeam": {"gold": "中国"},
+        "mixedDoubles": {"gold": "中国"},
+        "mensDoubles": {"gold": "中国"},
+        "womensDoubles": {"gold": "中国"}
+      }
+    },
+    {
+      "year": "1990",
+      "location": "北京",
+      "events": {
+        "mensSingles": {"gold": "马文革"},
+        "womensSingles": {"gold": "邓亚萍"},
+        "mensTeam": {"gold": "中国"},
+        "womensTeam": {"gold": "中国"}
+      }
+    },
+    {
+      "year": "1986",
+      "location": "汉城",
+      "events": {
+        "mensSingles": {"gold": "刘南奎(韩国)"},
+        "womensSingles": {"gold": "焦志敏"},
+        "mensTeam": {"gold": "中国"},
+        "womensTeam": {"gold": "中国"}
+      }
+    },
+    {
+      "year": "1982",
+      "location": "新德里",
+      "events": {
+        "mensSingles": {"gold": "谢赛克"},
+        "womensSingles": {"gold": "曹燕华"},
+        "mensTeam": {"gold": "中国"},
+        "womensTeam": {"gold": "中国"}
+      }
+    },
+    {
+      "year": "1978",
+      "location": "曼谷",
+      "events": {
+        "mensSingles": {"gold": "梁戈亮"},
+        "womensSingles": {"gold": "张立"},
+        "mensTeam": {"gold": "中国"},
+        "womensTeam": {"gold": "中国"}
+      }
+    },
+    {
+      "year": "1974",
+      "location": "德黑兰",
+      "events": {
+        "mensSingles": {"gold": "梁戈亮"},
+        "womensSingles": {"gold": "张立"},
+        "mensTeam": {"gold": "中国"},
+        "womensTeam": {"gold": "中国"}
+      }
+    },
+    {
+      "year": "1966",
+      "location": "曼谷",
+      "events": {
+        "mensSingles": {"gold": "金忠男(韩国)"},
+        "womensSingles": {"gold": "深津尚子(日本)"},
+        "mensTeam": {"gold": "日本"},
+        "womensTeam": {"gold": "日本"}
+      }
+    },
+    {
+      "year": "1962",
+      "location": "雅加达",
+      "events": {
+        "mensSingles": {"gold": "三木圭一(日本)"},
+        "womensSingles": {"gold": "松崎君代(日本)"},
+        "mensTeam": {"gold": "日本"},
+        "womensTeam": {"gold": "日本"}
+      }
+    },
+    {
+      "year": "1958",
+      "location": "东京",
+      "events": {
+        "mensSingles": {"gold": "李国定(中国台北)"},
+        "womensSingles": {"gold": "难波多慧子(日本)"},
+        "mensTeam": {"gold": "南越"},
+        "womensTeam": {"gold": "日本"}
+      }
+    }
+  ]
+}

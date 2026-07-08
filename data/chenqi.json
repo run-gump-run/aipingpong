@@ -1,0 +1,65 @@
+﻿{
+    "id":  "chenqi",
+    "heroImages":  [
+                       "images/athletes/chenqi/hero.jpg"
+                   ],
+    "team":  "中国国家乒乓球队",
+    "tags":  [
+                 {
+                     "text":  "🥇 奥运冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1984.04.15 生于河北",
+                     "type":  "normal"
+                 }
+             ],
+    "nameEn":  "CHEN QI · 乒乓传奇",
+    "name":  "陈玘",
+    "stats":  [
+                  {
+                      "label":  "奥运金牌",
+                      "num":  1,
+                      "highlight":  true
+                  },
+                  {
+                      "label":  "世乒赛团体冠军",
+                      "num":  1,
+                      "highlight":  false
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "subtitle":  "雅典奥运夺金",
+                         "achievements":  [
+                                              "🥇 雅典奥运会男双冠军（与马琳）"
+                                          ],
+                         "age":  "20岁",
+                         "year":  "2004",
+                         "badge":  "⭐ 奥运冠军",
+                         "isPeak":  true
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "世乒赛团体冠军",
+                         "age":  "22岁",
+                         "year":  "2006",
+                         "achievements":  [
+                                              "🏆 不莱梅世乒赛男团冠军"
+                                          ]
+                     }
+                 ],
+    "country":  "CHN",
+    "birthDate":  "1984-04-15",
+    "achievements":  {
+                         "title":  "⭐ 奥运冠军",
+                         "description":  "陈玘以左手横板两面弧圈打法著称，雅典奥运与马琳搭档夺得男双金牌。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运男双",
+                                           "year":  "2004 雅典"
+                                       }
+                                   ]
+                     }
+}

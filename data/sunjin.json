@@ -1,0 +1,90 @@
+{
+    "id":  "sunjin",
+    "heroImages":  [
+                       "images/athletes/sunjin/hero.jpg"
+                   ],
+    "team":  "中国国家乒乓球队",
+    "tags":  [
+                 {
+                     "text":  "🏆 世界冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1980.03.13 生于徐州",
+                     "type":  "normal"
+                 }
+             ],
+    "nameEn":  "SUN JIN · 乒乓传奇",
+    "name":  "孙晋",
+    "stats":  [
+                  {
+                      "label":  "世乒赛女团冠军",
+                      "num":  1,
+                      "highlight":  true
+                  },
+                  {
+                      "label":  "奥运银牌",
+                      "num":  1,
+                      "highlight":  false
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "全国冠军",
+                         "age":  "18岁",
+                         "year":  "1998",
+                         "achievements":  [
+                                              "🏆 全国乒协杯赛女单冠军",
+                                              "🏆 全国锦标赛混双冠军（与马琳）"
+                                          ]
+                     },
+                     {
+                         "subtitle":  "悉尼奥运",
+                         "achievements":  [
+                                              "🥈 悉尼奥运会女双亚军（与杨影）",
+                                              "🏆 世乒赛女团冠军"
+                                          ],
+                         "age":  "20岁",
+                         "year":  "2000",
+                         "badge":  "⭐ 奥运亚军",
+                         "isPeak":  true
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "世乒赛女团卫冕",
+                         "age":  "21岁",
+                         "year":  "2001",
+                         "achievements":  [
+                                              "🏆 大阪世乒赛女团冠军"
+                                          ]
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "因伤退役",
+                         "age":  "22岁",
+                         "year":  "2002",
+                         "achievements":  [
+                                              "📌 因伤退役，进入北京大学深造"
+                                          ]
+                     }
+                 ],
+    "country":  "CHN",
+    "birthDate":  "1980-03-13",
+    "achievements":  {
+                         "title":  "⭐ 国乒名将",
+                         "description":  "孙晋以左手横板生胶快攻结合弧圈打法著称，退役后进入中金公司任职。",
+                         "items":  [
+                                       {
+                                           "icon":  "🏆",
+                                           "title":  "世乒赛女团",
+                                           "year":  "2000 / 2001"
+                                       },
+                                       {
+                                           "icon":  "🥈",
+                                           "title":  "奥运女双",
+                                           "year":  "2000 悉尼"
+                                       }
+                                   ]
+                     }
+}

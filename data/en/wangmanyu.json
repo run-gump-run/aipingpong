@@ -1,0 +1,57 @@
+{
+  "id": "wangmanyu",
+  "name": "Wang Manyu",
+  "nameEn": "WANG MANYU · Table Tennis Legend",
+  "country": "CHN",
+  "team": "China National Table Tennis Team",
+  "birthDate": "1999-02-09",
+  "heroImages": ["images/athletes/wangmanyu/hero.jpg"],
+  "tags": [
+    {"text": "🥇 Olympic Champion", "type": "gold"},
+    {"text": "🏅 World Champion", "type": "gold"},
+    {"text": "🎂 1999.02.09 Born in Qiqihar", "type": "normal"}
+  ],
+  "stats": [
+    {"num": 2, "label": "Olympic Women's Team Golds", "highlight": true},
+    {"num": 1, "label": "World Singles Titles", "highlight": true},
+    {"num": 1, "label": "National Games Singles Titles", "highlight": false}
+  ],
+  "timeline": [
+    {
+      "year": "2018", "age": "Age 19", "subtitle": "Jakarta Asian Games Champion", "isPeak": false,
+      "achievements": [
+        "🏆 Jakarta Asian Games Women's Team & Singles Champion"
+      ]
+    },
+    {
+      "year": "2021", "age": "Age 22", "subtitle": "Tokyo Olympics Gold", "isPeak": true,
+      "achievements": [
+        "🥇 Tokyo Olympics Women's Team Champion",
+        "🏆 Houston World Championships Women's Singles Champion"
+      ],
+      "badge": "⭐ Rising Star"
+    },
+    {
+      "year": "2024", "age": "Age 25", "subtitle": "Paris Gold Again", "isPeak": false,
+      "achievements": [
+        "🥇 Paris Olympics Women's Team Champion"
+      ]
+    },
+    {
+      "year": "2025", "age": "Age 26", "subtitle": "National Games Defense", "isPeak": true,
+      "achievements": [
+        "🏆 National Games Women's Singles Champion (successful defense)"
+      ],
+      "badge": "⭐ National Games Two-peat"
+    }
+  ],
+  "achievements": {
+    "title": "⭐ Leader of the New Generation",
+    "description": "Wang Manyu is the core of the new generation of Chinese women's table tennis, known for her men's-style power play.",
+    "items": [
+      {"icon": "🥇", "title": "Olympic Women's Team", "year": "2021 / 2024"},
+      {"icon": "🏅", "title": "World Championships Singles", "year": "2021"},
+      {"icon": "🏟️", "title": "National Games Singles", "year": "2021 / 2025 Defense"}
+    ]
+  }
+}

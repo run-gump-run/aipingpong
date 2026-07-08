@@ -1,0 +1,104 @@
+{
+    "id":  "wangmanyu",
+    "heroImages":  [
+                       "images/athletes/wangmanyu/hero.jpg"
+                   ],
+    "team":  "中国国家乒乓球队",
+    "tags":  [
+                 {
+                     "text":  "🥇 奥运冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🏅 世乒赛冠军",
+                     "type":  "gold"
+                 },
+                 {
+                     "text":  "🎂 1999.02.09 生于齐齐哈尔",
+                     "type":  "normal"
+                 }
+             ],
+    "nameEn":  "WANG MANYU · 乒乓传奇",
+    "name":  "王曼昱",
+    "stats":  [
+                  {
+                      "label":  "奥运女团金牌",
+                      "num":  2,
+                      "highlight":  true
+                  },
+                  {
+                      "label":  "世乒赛单打冠军",
+                      "num":  1,
+                      "highlight":  true
+                  },
+                  {
+                      "label":  "全运会单打冠军",
+                      "num":  1,
+                      "highlight":  false
+                  }
+              ],
+    "timeline":  [
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "雅加亚运冠军",
+                         "age":  "19岁",
+                         "year":  "2018",
+                         "achievements":  [
+                                              "🏆 雅加达亚运会女团冠军、女单冠军"
+                                          ]
+                     },
+                     {
+                         "subtitle":  "东京奥运夺金",
+                         "achievements":  [
+                                              "🥇 东京奥运会女团冠军",
+                                              "🏆 休斯敦世乒赛女单冠军"
+                                          ],
+                         "age":  "22岁",
+                         "year":  "2021",
+                         "badge":  "⭐ 崭露头角",
+                         "isPeak":  true
+                     },
+                     {
+                         "isPeak":  false,
+                         "subtitle":  "巴黎再夺金",
+                         "age":  "25岁",
+                         "year":  "2024",
+                         "achievements":  [
+                                              "🥇 巴黎奥运会女团冠军"
+                                          ]
+                     },
+                     {
+                         "subtitle":  "全运会卫冕",
+                         "achievements":  [
+                                              "🏆 全运会女单冠军（卫冕）"
+                                          ],
+                         "age":  "26岁",
+                         "year":  "2025",
+                         "badge":  "⭐ 全运会两连冠",
+                         "isPeak":  true
+                     }
+                 ],
+    "country":  "CHN",
+    "birthDate":  "1999-02-09",
+    "achievements":  {
+                         "title":  "⭐ 新生代领军",
+                         "description":  "王曼昱是国乒女队新生代的核心力量，以男子化力量型打法著称。",
+                         "items":  [
+                                       {
+                                           "icon":  "🥇",
+                                           "title":  "奥运女团",
+                                           "year":  "2021 / 2024"
+                                       },
+                                       {
+                                           "icon":  "🏅",
+                                           "title":  "世乒赛单打",
+                                           "year":  "2021"
+                                       },
+                                       {
+                                           "icon":  "🏟️",
+                                           "title":  "全运会单打",
+                                           "year":  "2021 / 2025 卫冕"
+                                       }
+                                   ]
+                     }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "asiangames",
+  "name": "Asian Games",
+  "icon": "🌏",
+  "years": [
+    {
+      "year": "2023",
+      "location": "Hangzhou",
+      "events": {
+        "mensSingles": {"gold": "Wang Chuqin", "silver": "Fan Zhendong"},
+        "womensSingles": {"gold": "Sun Yingsha"},
+        "mensTeam": {"gold": "China"},
+        "womensTeam": {"gold": "China"},
+        "mixedDoubles": {"gold": "China (Wang Chuqin/Sun Yingsha)"},
+        "mensDoubles": {"gold": "China (Fan Zhendong/Wang Chuqin)"},
+        "womensDoubles": {"gold": "China (Chen Meng/Wang Yidi)"}
+      }
+    },
+    {
+      "year": "2018",
+      "location": "Jakarta",
+      "events": {
+        "mensSingles": {"gold": "Fan Zhendong"},
+        "womensSingles": {"gold": "Wang Manyu"},
+        "mensTeam": {"gold": "China"},
+        "womensTeam": {"gold": "China"},
+        "mixedDoubles": {"gold": "China (Wang Chuqin/Sun Yingsha)"}
+      }
+    },
+    {
+      "year": "2014",
+      "location": "Incheon",
+      "events": {
+        "mensSingles": {"gold": "Xu Xin"},
+        "womensSingles": {"gold": "Liu Shiwen"},
+        "mensTeam": {"gold": "China"},
+        "womensTeam": {"gold": "China"},
+        "mixedDoubles": {"gold": "China"},
+        "mensDoubles": {"gold": "China"},
+        "womensDoubles": {"gold": "China"}
+      }
+    },
+    {
+      "year": "2010",
+      "location": "Guangzhou",
+      "events": {
+        "mensSingles": {"gold": "Ma Long"},
+        "womensSingles": {"gold": "Li Xiaoxia"},
+        "mensTeam": {"gold": "China"},
+        "womensTeam": {"gold": "China"},
+        "mixedDoubles": {"gold": "China"},
+        "mensDoubles": {"gold": "China"},
+        "womensDoubles": {"gold": "China"}
+      }
+    },
+    {
+      "year": "2006",
+      "location": "Doha",
+      "events": {
+        "mensSingles": {"gold": "Wang Hao"},
+        "womensSingles": {"gold": "Guo Yue"},
+        "mensTeam": {"gold": "China"},
+        "womensTeam": {"gold": "China"},
+        "mixedDoubles": {"gold": "China"},
+        "mensDoubles": {"gold": "China"},
+        "womensDoubles": {"gold": "China"}
+      }
+    },
+    {
+      "year": "2002",
+      "location": "Busan",
+      "events": {
+        "mensSingles": {"gold": "Wang Liqin"},
+        "womensSingles": {"gold": "Zhang Yining"},
+        "mensTeam": {"gold": "China"},
+        "womensTeam": {"gold": "China"},
+        "mixedDoubles": {"gold": "China"},
+        "mensDoubles": {"gold": "China"},
+        "womensDoubles": {"gold": "China"}
+      }
+    },
+    {
+      "year": "1998",
+      "location": "Bangkok",
+      "events": {
+        "mensSingles": {"gold": "Kim Taek-soo (South Korea)"},
+        "womensSingles": {"gold": "Wang Nan"},
+        "mensTeam": {"gold": "China"},
+        "womensTeam": {"gold": "China"},
+        "mixedDoubles": {"gold": "China"},
+        "mensDoubles": {"gold": "China"},
+        "womensDoubles": {"gold": "China"}
+      }
+    },
+    {
+      "year": "1994",
+      "location": "Hiroshima",
+      "events": {
+        "mensSingles": {"gold": "Wang Tao"},
+        "womensSingles": {"gold": "Chiharu Yamazaki (Japan)"},
+        "mensTeam": {"gold": "China"},
+        "womensTeam": {"gold": "China"},
+        "mixedDoubles": {"gold": "China"},
+        "mensDoubles": {"gold": "China"},
+        "womensDoubles": {"gold": "China"}
+      }
+    },
+    {
+      "year": "1990",
+      "location": "Beijing",
+      "events": {
+        "mensSingles": {"gold": "Ma Wenge"},
+        "womensSingles": {"gold": "Deng Yaping"},
+        "mensTeam": {"gold": "China"},
+        "womensTeam": {"gold": "China"}
+      }
+    },
+    {
+      "year": "1986",
+      "location": "Seoul",
+      "events": {
+        "mensSingles": {"gold": "Yoo Nam-kyu (South Korea)"},
+        "womensSingles": {"gold": "Jiao Zhimin"},
+        "mensTeam": {"gold": "China"},
+        "womensTeam": {"gold": "China"}
+      }
+    },
+    {
+      "year": "1982",
+      "location": "New Delhi",
+      "events": {
+        "mensSingles": {"gold": "Xie Saike"},
+        "womensSingles": {"gold": "Cao Yanhua"},
+        "mensTeam": {"gold": "China"},
+        "womensTeam": {"gold": "China"}
+      }
+    },
+    {
+      "year": "1978",
+      "location": "Bangkok",
+      "events": {
+        "mensSingles": {"gold": "Liang Geliang"},
+        "womensSingles": {"gold": "Zhang Li"},
+        "mensTeam": {"gold": "China"},
+        "womensTeam": {"gold": "China"}
+      }
+    },
+    {
+      "year": "1974",
+      "location": "Tehran",
+      "events": {
+        "mensSingles": {"gold": "Liang Geliang"},
+        "womensSingles": {"gold": "Zhang Li"},
+        "mensTeam": {"gold": "China"},
+        "womensTeam": {"gold": "China"}
+      }
+    },
+    {
+      "year": "1966",
+      "location": "Bangkok",
+      "events": {
+        "mensSingles": {"gold": "Kim Chung-nam (South Korea)"},
+        "womensSingles": {"gold": "Naoko Fukatsu (Japan)"},
+        "mensTeam": {"gold": "Japan"},
+        "womensTeam": {"gold": "Japan"}
+      }
+    },
+    {
+      "year": "1962",
+      "location": "Jakarta",
+      "events": {
+        "mensSingles": {"gold": "Keiichi Miki (Japan)"},
+        "womensSingles": {"gold": "Kimiko Matsuzaki (Japan)"},
+        "mensTeam": {"gold": "Japan"},
+        "womensTeam": {"gold": "Japan"}
+      }
+    },
+    {
+      "year": "1958",
+      "location": "Tokyo",
+      "events": {
+        "mensSingles": {"gold": "Li Kuo-ting (Chinese Taipei)"},
+        "womensSingles": {"gold": "Tomie Namba (Japan)"},
+        "mensTeam": {"gold": "South Vietnam"},
+        "womensTeam": {"gold": "Japan"}
+      }
+    }
+  ]
+}

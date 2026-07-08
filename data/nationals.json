@@ -1,0 +1,69 @@
+{
+  "id": "nationals",
+  "name": "全锦赛",
+  "icon": "🎖️",
+  "years": [
+    {
+      "year": "2024",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "黄友政"},
+        "womensSingles": {"gold": "刘炜珊"},
+        "mixedDoubles": {"gold": "林高远/刘诗雯"}
+      }
+    },
+    {
+      "year": "2022",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "樊振东"},
+        "womensSingles": {"gold": "王艺迪"}
+      }
+    },
+    {
+      "year": "2020",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "樊振东"}
+      }
+    },
+    {
+      "year": "2019",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "侯英超"}
+      }
+    },
+    {
+      "year": "2018",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "梁靖崑"}
+      }
+    },
+    {
+      "year": "2016",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "樊振东"},
+        "womensSingles": {"gold": "朱雨玲"}
+      }
+    },
+    {
+      "year": "2015",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "许昕"},
+        "womensSingles": {"gold": "朱雨玲"}
+      }
+    },
+    {
+      "year": "2014",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "樊振东"},
+        "womensSingles": {"gold": "朱雨玲"}
+      }
+    }
+  ]
+}

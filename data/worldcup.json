@@ -1,0 +1,342 @@
+{
+  "id": "worldcup",
+  "name": "世界杯",
+  "icon": "🏆",
+  "years": [
+    {
+      "year": "2026",
+      "location": "澳门",
+      "events": {
+        "womensSingles": {"gold": "孙颖莎", "silver": "王曼昱"}
+      }
+    },
+    {
+      "year": "2025",
+      "location": "",
+      "events": {
+        "mensSingles": {"gold": "雨果·卡尔德拉诺(巴西)"},
+        "womensSingles": {"gold": "孙颖莎"}
+      }
+    },
+    {
+      "year": "2024",
+      "location": "澳门",
+      "events": {
+        "mensSingles": {"gold": "马龙"},
+        "womensSingles": {"gold": "孙颖莎", "silver": "王曼昱"}
+      }
+    },
+    {
+      "year": "2020",
+      "location": "中国威海",
+      "events": {
+        "mensSingles": {"gold": "樊振东"},
+        "womensSingles": {"gold": "陈梦"}
+      }
+    },
+    {
+      "year": "2019",
+      "location": "中国成都",
+      "events": {
+        "mensSingles": {"gold": "樊振东"},
+        "womensSingles": {"gold": "刘诗雯"}
+      }
+    },
+    {
+      "year": "2018",
+      "location": "法国巴黎",
+      "events": {
+        "mensSingles": {"gold": "樊振东"},
+        "womensSingles": {"gold": "丁宁"}
+      }
+    },
+    {
+      "year": "2017",
+      "location": "比利时列日",
+      "events": {
+        "mensSingles": {"gold": "奥恰洛夫(德国)"},
+        "womensSingles": {"gold": "朱雨玲"}
+      }
+    },
+    {
+      "year": "2016",
+      "location": "德国萨尔布吕肯",
+      "events": {
+        "mensSingles": {"gold": "樊振东"},
+        "womensSingles": {"gold": "平野美宇(日本)"}
+      }
+    },
+    {
+      "year": "2015",
+      "location": "瑞典哈尔姆斯塔德",
+      "events": {
+        "mensSingles": {"gold": "马龙"},
+        "womensSingles": {"gold": "刘诗雯"}
+      }
+    },
+    {
+      "year": "2014",
+      "location": "德国杜塞尔多夫",
+      "events": {
+        "mensSingles": {"gold": "张继科"},
+        "womensSingles": {"gold": "丁宁"}
+      }
+    },
+    {
+      "year": "2013",
+      "location": "比利时韦尔维耶",
+      "events": {
+        "mensSingles": {"gold": "许昕"},
+        "womensSingles": {"gold": "刘诗雯"}
+      }
+    },
+    {
+      "year": "2012",
+      "location": "英国利物浦",
+      "events": {
+        "mensSingles": {"gold": "马龙"},
+        "womensSingles": {"gold": "刘诗雯"}
+      }
+    },
+    {
+      "year": "2011",
+      "location": "法国巴黎",
+      "events": {
+        "mensSingles": {"gold": "张继科"},
+        "womensSingles": {"gold": "丁宁"}
+      }
+    },
+    {
+      "year": "2010",
+      "location": "阿联酋迪拜",
+      "events": {
+        "mensSingles": {"gold": "王皓"},
+        "womensSingles": {"gold": "郭焱"}
+      }
+    },
+    {
+      "year": "2009",
+      "location": "俄罗斯莫斯科",
+      "events": {
+        "mensSingles": {"gold": "萨姆索诺夫(白俄罗斯)"},
+        "womensSingles": {"gold": "刘诗雯"}
+      }
+    },
+    {
+      "year": "2008",
+      "location": "比利时列日",
+      "events": {
+        "mensSingles": {"gold": "王皓"},
+        "womensSingles": {"gold": "李晓霞"}
+      }
+    },
+    {
+      "year": "2007",
+      "location": "西班牙巴塞罗那",
+      "events": {
+        "mensSingles": {"gold": "王皓"},
+        "womensSingles": {"gold": "王楠"}
+      }
+    },
+    {
+      "year": "2006",
+      "location": "法国巴黎",
+      "events": {
+        "mensSingles": {"gold": "马琳"},
+        "womensSingles": {"gold": "郭焱"}
+      }
+    },
+    {
+      "year": "2005",
+      "location": "比利时列日",
+      "events": {
+        "mensSingles": {"gold": "波尔(德国)"},
+        "womensSingles": {"gold": "张怡宁"}
+      }
+    },
+    {
+      "year": "2004",
+      "location": "中国萧山",
+      "events": {
+        "mensSingles": {"gold": "马琳"},
+        "womensSingles": {"gold": "张怡宁"}
+      }
+    },
+    {
+      "year": "2003",
+      "location": "中国江阴",
+      "events": {
+        "mensSingles": {"gold": "马琳"},
+        "womensSingles": {"gold": "王楠"}
+      }
+    },
+    {
+      "year": "2002",
+      "location": "中国济南",
+      "events": {
+        "mensSingles": {"gold": "波尔(德国)"},
+        "womensSingles": {"gold": "张怡宁"}
+      }
+    },
+    {
+      "year": "2001",
+      "location": "意大利库马约尔",
+      "events": {
+        "mensSingles": {"gold": "萨姆索诺夫(白俄罗斯)"},
+        "womensSingles": {"gold": "张怡宁"}
+      }
+    },
+    {
+      "year": "2000",
+      "location": "中国扬州",
+      "events": {
+        "mensSingles": {"gold": "马琳"},
+        "womensSingles": {"gold": "李菊"}
+      }
+    },
+    {
+      "year": "1999",
+      "location": "中国中山",
+      "events": {
+        "mensSingles": {"gold": "萨姆索诺夫(白俄罗斯)"},
+        "womensSingles": {"gold": "王楠"}
+      }
+    },
+    {
+      "year": "1998",
+      "location": "中国汕头",
+      "events": {
+        "mensSingles": {"gold": "罗斯科普夫(德国)"},
+        "womensSingles": {"gold": "王楠"}
+      }
+    },
+    {
+      "year": "1997",
+      "location": "法国尼姆",
+      "events": {
+        "mensSingles": {"gold": "普里莫拉茨(克罗地亚)"},
+        "womensSingles": {"gold": "王楠"}
+      }
+    },
+    {
+      "year": "1996",
+      "location": "法国尼姆",
+      "events": {
+        "mensSingles": {"gold": "刘国梁"},
+        "womensSingles": {"gold": "邓亚萍"}
+      }
+    },
+    {
+      "year": "1995",
+      "location": "法国尼姆",
+      "events": {
+        "mensSingles": {"gold": "孔令辉"}
+      }
+    },
+    {
+      "year": "1994",
+      "location": "中国台北",
+      "events": {
+        "mensSingles": {"gold": "盖亭(法国)"}
+      }
+    },
+    {
+      "year": "1993",
+      "location": "中国广州",
+      "events": {
+        "mensSingles": {"gold": "普里莫拉茨(克罗地亚)"}
+      }
+    },
+    {
+      "year": "1992",
+      "location": "越南胡志明市",
+      "events": {
+        "mensSingles": {"gold": "马文革"}
+      }
+    },
+    {
+      "year": "1991",
+      "location": "吉隆坡",
+      "events": {
+        "mensSingles": {"gold": "佩尔森(瑞典)"}
+      }
+    },
+    {
+      "year": "1990",
+      "location": "日本千叶",
+      "events": {
+        "mensSingles": {"gold": "瓦尔德内尔(瑞典)"}
+      }
+    },
+    {
+      "year": "1989",
+      "location": "肯尼亚内罗毕",
+      "events": {
+        "mensSingles": {"gold": "马文革"}
+      }
+    },
+    {
+      "year": "1988",
+      "location": "中国武汉",
+      "events": {
+        "mensSingles": {"gold": "格鲁巴(波兰)"}
+      }
+    },
+    {
+      "year": "1987",
+      "location": "澳门",
+      "events": {
+        "mensSingles": {"gold": "滕毅"}
+      }
+    },
+    {
+      "year": "1986",
+      "location": "特立尼达和多巴哥",
+      "events": {
+        "mensSingles": {"gold": "陈龙灿"}
+      }
+    },
+    {
+      "year": "1985",
+      "location": "中国佛山",
+      "events": {
+        "mensSingles": {"gold": "陈新华"}
+      }
+    },
+    {
+      "year": "1984",
+      "location": "吉隆坡",
+      "events": {
+        "mensSingles": {"gold": "江嘉良"}
+      }
+    },
+    {
+      "year": "1983",
+      "location": "巴巴多斯",
+      "events": {
+        "mensSingles": {"gold": "阿佩伊伦(瑞典)"}
+      }
+    },
+    {
+      "year": "1982",
+      "location": "香港",
+      "events": {
+        "mensSingles": {"gold": "郭跃华"}
+      }
+    },
+    {
+      "year": "1981",
+      "location": "吉隆坡",
+      "events": {
+        "mensSingles": {"gold": "克兰帕尔(匈牙利)"}
+      }
+    },
+    {
+      "year": "1980",
+      "location": "香港",
+      "events": {
+        "mensSingles": {"gold": "郭跃华"}
+      }
+    }
+  ]
+}
