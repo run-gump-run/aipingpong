@@ -124,8 +124,8 @@ npx http-server -p 8080
       "year": "2024",
       "location": "巴黎",
       "events": {
-        "mensSingles": {"gold": "樊振东", "silver": "莫雷加德", "bronze": ["勒布伦", "雨果"]},
-        "womensSingles": {"gold": "陈梦", "silver": "孙颖莎", "bronze": ["早田希娜", "申裕斌"]}
+        "mensSingles": {"gold": "樊振东", "silver": "莫雷加德", "bronze": "勒布伦"},
+        "womensSingles": {"gold": "陈梦", "silver": "孙颖莎", "bronze": "早田希娜"}
       }
     }
   ]
@@ -168,5 +168,5 @@ npx http-server -p 8080
 
 ## 🙏 数据声明
 
+
 数据整理自公开报道，仅供展示参考。
-# aipingpong
