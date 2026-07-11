@@ -360,7 +360,10 @@ a { text-decoration: none; color: inherit; }
 .athlete-hero-slide {
   position: absolute;
   inset: 0;
-  background: center center / cover no-repeat;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* 聚焦运动员头部：将图片上方 25% 处对齐容器中心，避免头部被上下裁剪 */
+  background-position: center 25%;
   opacity: 0;
   transition: opacity 1.5s ease-in-out;
 }
@@ -974,8 +977,21 @@ a { text-decoration: none; color: inherit; }
     background: linear-gradient(135deg, rgba(26,26,46,0.50) 0%, rgba(22,33,62,0.38) 50%, rgba(26,26,46,0.50) 100%);
   }
 
+  /* 窄屏下进一步聚焦头部，避免竖图被过度裁剪 */
+  .athlete-hero-slide {
+    background-position: center 18%;
+  }
+
+
   .medal-row { grid-template-columns: 60px 1fr; gap: 0.5rem; }
   .medal-winners { font-size: 0.82rem; gap: 0.5rem; }
+}
+
+/* 竖屏手机：图片更窄高，进一步聚焦头部，确保完整可见 */
+@media (max-width: 768px) and (orientation: portrait) {
+  .athlete-hero-slide {
+    background-position: center 12%;
+  }
 }
 
 /* Dark mode specific adjustments */

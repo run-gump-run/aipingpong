@@ -7,102 +7,354 @@
       "year": "2024",
       "location": "巴黎",
       "events": {
-        "mensSingles": {"gold": "樊振东", "silver": "莫雷加德", "bronze": ["勒布伦", "雨果"]},
-        "womensSingles": {"gold": "陈梦", "silver": "孙颖莎", "bronze": ["早田希娜", "申裕斌"]},
-        "mensTeam": {"gold": "中国", "silver": "瑞典", "bronze": ["法国"]},
-        "womensTeam": {"gold": "中国", "silver": "日本", "bronze": ["韩国"]},
-        "mixedDoubles": {"gold": "中国(王楚钦/孙颖莎)", "silver": "朝鲜", "bronze": ["韩国"]}
+        "mensSingles": {
+          "gold": "樊振东",
+          "silver": "莫雷加德",
+          "bronze": [
+            "勒布伦"
+          ]
+        },
+        "womensSingles": {
+          "gold": "陈梦",
+          "silver": "孙颖莎",
+          "bronze": [
+            "早田希娜"
+          ]
+        },
+        "mensTeam": {
+          "gold": "中国",
+          "silver": "瑞典",
+          "bronze": [
+            "法国"
+          ]
+        },
+        "womensTeam": {
+          "gold": "中国",
+          "silver": "日本",
+          "bronze": [
+            "韩国"
+          ]
+        },
+        "mixedDoubles": {
+          "gold": "中国(王楚钦/孙颖莎)",
+          "silver": "朝鲜",
+          "bronze": [
+            "韩国"
+          ]
+        }
       }
     },
     {
       "year": "2020",
       "location": "东京",
       "events": {
-        "mensSingles": {"gold": "马龙", "silver": "樊振东", "bronze": ["林昀儒", "奥恰洛夫"]},
-        "womensSingles": {"gold": "陈梦", "silver": "孙颖莎", "bronze": ["伊藤美诚", "于梦雨"]},
-        "mensTeam": {"gold": "中国", "silver": "德国", "bronze": ["日本"]},
-        "womensTeam": {"gold": "中国", "silver": "日本", "bronze": ["中国香港"]},
-        "mixedDoubles": {"gold": "日本(水谷隼/伊藤美诚)", "silver": "中国(刘诗雯/许昕)", "bronze": ["中国台北"]}
+        "mensSingles": {
+          "gold": "马龙",
+          "silver": "樊振东",
+          "bronze": [
+            "奥恰洛夫"
+          ]
+        },
+        "womensSingles": {
+          "gold": "陈梦",
+          "silver": "孙颖莎",
+          "bronze": [
+            "伊藤美诚"
+          ]
+        },
+        "mensTeam": {
+          "gold": "中国",
+          "silver": "德国",
+          "bronze": [
+            "日本"
+          ]
+        },
+        "womensTeam": {
+          "gold": "中国",
+          "silver": "日本",
+          "bronze": [
+            "中国香港"
+          ]
+        },
+        "mixedDoubles": {
+          "gold": "日本(水谷隼/伊藤美诚)",
+          "silver": "中国(刘诗雯/许昕)",
+          "bronze": [
+            "中国台北"
+          ]
+        }
       }
     },
     {
       "year": "2016",
       "location": "里约",
       "events": {
-        "mensSingles": {"gold": "马龙", "silver": "张继科", "bronze": ["水谷隼", "萨姆索诺夫"]},
-        "womensSingles": {"gold": "丁宁", "silver": "李晓霞", "bronze": ["金宋依", "福原爱"]},
-        "mensTeam": {"gold": "中国", "silver": "日本", "bronze": ["德国"]},
-        "womensTeam": {"gold": "中国", "silver": "德国", "bronze": ["日本"]}
+        "mensSingles": {
+          "gold": "马龙",
+          "silver": "张继科",
+          "bronze": [
+            "水谷隼"
+          ]
+        },
+        "womensSingles": {
+          "gold": "丁宁",
+          "silver": "李晓霞",
+          "bronze": [
+            "金宋依"
+          ]
+        },
+        "mensTeam": {
+          "gold": "中国",
+          "silver": "日本",
+          "bronze": [
+            "德国"
+          ]
+        },
+        "womensTeam": {
+          "gold": "中国",
+          "silver": "德国",
+          "bronze": [
+            "日本"
+          ]
+        }
       }
     },
     {
       "year": "2012",
       "location": "伦敦",
       "events": {
-        "mensSingles": {"gold": "张继科", "silver": "王皓", "bronze": ["奥恰洛夫", "庄智渊"]},
-        "womensSingles": {"gold": "李晓霞", "silver": "丁宁", "bronze": ["冯天薇", "石川佳纯"]},
-        "mensTeam": {"gold": "中国", "silver": "韩国", "bronze": ["德国"]},
-        "womensTeam": {"gold": "中国", "silver": "日本", "bronze": ["新加坡"]}
+        "mensSingles": {
+          "gold": "张继科",
+          "silver": "王皓",
+          "bronze": [
+            "奥恰洛夫"
+          ]
+        },
+        "womensSingles": {
+          "gold": "李晓霞",
+          "silver": "丁宁",
+          "bronze": [
+            "冯天薇"
+          ]
+        },
+        "mensTeam": {
+          "gold": "中国",
+          "silver": "韩国",
+          "bronze": [
+            "德国"
+          ]
+        },
+        "womensTeam": {
+          "gold": "中国",
+          "silver": "日本",
+          "bronze": [
+            "新加坡"
+          ]
+        }
       }
     },
     {
       "year": "2008",
       "location": "北京",
       "events": {
-        "mensSingles": {"gold": "马琳", "silver": "王皓", "bronze": ["王励勤", "佩尔森"]},
-        "womensSingles": {"gold": "张怡宁", "silver": "王楠", "bronze": ["郭跃", "李佳薇"]},
-        "mensTeam": {"gold": "中国", "silver": "德国", "bronze": ["韩国"]},
-        "womensTeam": {"gold": "中国", "silver": "新加坡", "bronze": ["日本"]}
+        "mensSingles": {
+          "gold": "马琳",
+          "silver": "王皓",
+          "bronze": [
+            "王励勤"
+          ]
+        },
+        "womensSingles": {
+          "gold": "张怡宁",
+          "silver": "王楠",
+          "bronze": [
+            "郭跃"
+          ]
+        },
+        "mensTeam": {
+          "gold": "中国",
+          "silver": "德国",
+          "bronze": [
+            "韩国"
+          ]
+        },
+        "womensTeam": {
+          "gold": "中国",
+          "silver": "新加坡",
+          "bronze": [
+            "日本"
+          ]
+        }
       }
     },
     {
       "year": "2004",
       "location": "雅典",
       "events": {
-        "mensSingles": {"gold": "柳承敏", "silver": "王皓", "bronze": ["王励勤", "瓦尔德内尔"]},
-        "womensSingles": {"gold": "张怡宁", "silver": "金香美", "bronze": ["金景娥", "李佳薇"]},
-        "mensDoubles": {"gold": "中国(马琳/陈玘)", "silver": "中国香港(高礼泽/李静)", "bronze": ["中国(王皓/孔令辉)"]},
-        "womensDoubles": {"gold": "中国(张怡宁/王楠)", "silver": "中国(郭跃/牛剑锋)", "bronze": ["韩国(金景娥/金福来)"]}
+        "mensSingles": {
+          "gold": "柳承敏",
+          "silver": "王皓",
+          "bronze": [
+            "王励勤"
+          ]
+        },
+        "womensSingles": {
+          "gold": "张怡宁",
+          "silver": "金香美",
+          "bronze": [
+            "金景娥"
+          ]
+        },
+        "mensDoubles": {
+          "gold": "中国(马琳/陈玘)",
+          "silver": "中国香港(高礼泽/李静)",
+          "bronze": [
+            "中国(王皓/孔令辉)"
+          ]
+        },
+        "womensDoubles": {
+          "gold": "中国(张怡宁/王楠)",
+          "silver": "中国(郭跃/牛剑锋)",
+          "bronze": [
+            "韩国(金景娥/金福来)"
+          ]
+        }
       }
     },
     {
       "year": "2000",
       "location": "悉尼",
       "events": {
-        "mensSingles": {"gold": "孔令辉", "silver": "瓦尔德内尔", "bronze": ["刘国梁", "佩尔森"]},
-        "womensSingles": {"gold": "王楠", "silver": "李菊", "bronze": ["陈静", "孙晋"]},
-        "mensDoubles": {"gold": "中国(王励勤/阎森)", "silver": "中国(刘国梁/孔令辉)", "bronze": ["韩国(李哲承/柳承敏)"]},
-        "womensDoubles": {"gold": "中国(李菊/王楠)", "silver": "中国(孙晋/杨影)", "bronze": ["韩国(柳智惠/金茂校)"]}
+        "mensSingles": {
+          "gold": "孔令辉",
+          "silver": "瓦尔德内尔",
+          "bronze": [
+            "刘国梁"
+          ]
+        },
+        "womensSingles": {
+          "gold": "王楠",
+          "silver": "李菊",
+          "bronze": [
+            "陈静"
+          ]
+        },
+        "mensDoubles": {
+          "gold": "中国(王励勤/阎森)",
+          "silver": "中国(刘国梁/孔令辉)",
+          "bronze": [
+            "韩国(李哲承/柳承敏)"
+          ]
+        },
+        "womensDoubles": {
+          "gold": "中国(李菊/王楠)",
+          "silver": "中国(孙晋/杨影)",
+          "bronze": [
+            "韩国(柳智惠/金茂校)"
+          ]
+        }
       }
     },
     {
       "year": "1996",
       "location": "亚特兰大",
       "events": {
-        "mensSingles": {"gold": "刘国梁", "silver": "王涛", "bronze": ["萨姆索诺夫(白俄罗斯)", "罗斯科夫(德国)"]},
-        "womensSingles": {"gold": "邓亚萍", "silver": "陈静(中国台北)", "bronze": ["乔红", "李菊"]},
-        "mensDoubles": {"gold": "中国(孔令辉/刘国梁)", "silver": "中国(王涛/吕林)", "bronze": ["韩国(李哲承/南石俊)"]},
-        "womensDoubles": {"gold": "中国(邓亚萍/乔红)", "silver": "中国(刘伟/乔云萍)", "bronze": ["韩国(朴海恩/柳智惠)"]}
+        "mensSingles": {
+          "gold": "刘国梁",
+          "silver": "王涛",
+          "bronze": [
+            "萨姆索诺夫(白俄罗斯)"
+          ]
+        },
+        "womensSingles": {
+          "gold": "邓亚萍",
+          "silver": "陈静(中国台北)",
+          "bronze": [
+            "乔红"
+          ]
+        },
+        "mensDoubles": {
+          "gold": "中国(孔令辉/刘国梁)",
+          "silver": "中国(王涛/吕林)",
+          "bronze": [
+            "韩国(李哲承/南石俊)"
+          ]
+        },
+        "womensDoubles": {
+          "gold": "中国(邓亚萍/乔红)",
+          "silver": "中国(刘伟/乔云萍)",
+          "bronze": [
+            "韩国(朴海恩/柳智惠)"
+          ]
+        }
       }
     },
     {
       "year": "1992",
       "location": "巴塞罗那",
       "events": {
-        "mensSingles": {"gold": "瓦尔德内尔(瑞典)", "silver": "盖亭(法国)", "bronze": ["马文革", "金择洙(韩国)"]},
-        "womensSingles": {"gold": "邓亚萍", "silver": "乔红", "bronze": ["高军", "李粉姬(朝鲜)"]},
-        "mensDoubles": {"gold": "中国(王涛/吕林)", "silver": "德国(罗斯/卡尔森)", "bronze": ["韩国(金择洙/刘南奎)", "南斯拉夫(洛夫/费兹纳)"]},
-        "womensDoubles": {"gold": "中国(邓亚萍/乔红)", "silver": "中国(陈子荷/高军)", "bronze": ["韩国(洪次芳/玄静和)", "独联体"]}
+        "mensSingles": {
+          "gold": "瓦尔德内尔(瑞典)",
+          "silver": "盖亭(法国)",
+          "bronze": [
+            "马文革"
+          ]
+        },
+        "womensSingles": {
+          "gold": "邓亚萍",
+          "silver": "乔红",
+          "bronze": [
+            "高军"
+          ]
+        },
+        "mensDoubles": {
+          "gold": "中国(王涛/吕林)",
+          "silver": "德国(罗斯/卡尔森)",
+          "bronze": [
+            "韩国(金择洙/刘南奎)"
+          ]
+        },
+        "womensDoubles": {
+          "gold": "中国(邓亚萍/乔红)",
+          "silver": "中国(陈子荷/高军)",
+          "bronze": [
+            "韩国(洪次芳/玄静和)"
+          ]
+        }
       }
     },
     {
       "year": "1988",
       "location": "汉城",
       "events": {
-        "mensSingles": {"gold": "刘南奎(韩国)", "silver": "金琦泽(韩国)", "bronze": ["林德(瑞典)", "格鲁巴(波兰)"]},
-        "womensSingles": {"gold": "陈静", "silver": "李惠芬", "bronze": ["焦志敏", "布拉托娃(苏联)"]},
-        "mensDoubles": {"gold": "中国(陈龙灿/韦晴光)", "silver": "南斯拉夫(洛夫/费兹纳)", "bronze": ["瑞典(林德/佩尔森)", "西德(法齐/克莱因)"]},
-        "womensDoubles": {"gold": "韩国(梁英子/玄静和)", "silver": "中国(焦志敏/陈静)", "bronze": ["日本", "苏联"]}
+        "mensSingles": {
+          "gold": "刘南奎(韩国)",
+          "silver": "金琦泽(韩国)",
+          "bronze": [
+            "林德(瑞典)"
+          ]
+        },
+        "womensSingles": {
+          "gold": "陈静",
+          "silver": "李惠芬",
+          "bronze": [
+            "焦志敏"
+          ]
+        },
+        "mensDoubles": {
+          "gold": "中国(陈龙灿/韦晴光)",
+          "silver": "南斯拉夫(洛夫/费兹纳)",
+          "bronze": [
+            "瑞典(林德/佩尔森)"
+          ]
+        },
+        "womensDoubles": {
+          "gold": "韩国(梁英子/玄静和)",
+          "silver": "中国(焦志敏/陈静)",
+          "bronze": [
+            "日本"
+          ]
+        }
       }
     }
   ]

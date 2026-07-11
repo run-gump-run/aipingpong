@@ -39,7 +39,7 @@ const TournamentPage = (function() {
         loading.value = true;
         data.value = null;
         try {
-          const res = await fetch(i18n.dataPath(id));
+          const res = await fetch(`${i18n.dataPath(id)}?v=${Date.now()}`, { cache: 'no-store' });
           if (!res.ok) throw new Error('Not found');
           data.value = await res.json();
           loading.value = false;
