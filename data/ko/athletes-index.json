@@ -275,18 +275,6 @@
       "photo": "images/athletes/wangmanyu/hero.jpg",
       "keyStats": "🏆 올림픽 여자 단체 금메달 2개",
       "dataFile": "data/ko/wangmanyu.json"
-    },
-    {
-      "id": "sunjin",
-      "name": "순진",
-      "nameEn": "SUN JIN",
-      "country": "중국",
-      "flag": "🇨🇳",
-      "team": "중국 국가 탁구팀",
-      "birthDate": "1980-03-13",
-      "photo": "images/athletes/sunjin/hero.jpg",
-      "keyStats": "🏆 2000 시드니 올림픽 여자 복식 준우승",
-      "dataFile": "data/ko/sunjin.json"
     }
   ]
 }

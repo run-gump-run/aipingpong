@@ -273,20 +273,8 @@
                          "team":  "中国国家乒乓球队",
                          "birthDate":  "1999-02-09",
                          "photo":  "images/athletes/wangmanyu/hero.jpg",
-                         "keyStats":  "🏆 2枚奥运女团金牌",
-                         "dataFile":  "data/wangmanyu.json"
-                     },
-                     {
-                         "id":  "sunjin",
-                         "name":  "孙晋",
-                         "nameEn":  "SUN JIN",
-                         "country":  "中国",
-                         "flag":  "🇨🇳",
-                         "team":  "中国国家乒乓球队",
-                         "birthDate":  "1980-03-13",
-                         "photo":  "images/athletes/sunjin/hero.jpg",
-                        "keyStats":  "🏆 2000悉尼奥运女双亚军",
-                        "dataFile":  "data/sunjin.json"
+                        "keyStats":  "🏆 2枚奥运女团金牌",
+                        "dataFile":  "data/wangmanyu.json"
                     }
                 ]
 }

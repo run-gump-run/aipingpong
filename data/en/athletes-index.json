@@ -275,18 +275,6 @@
       "photo": "images/athletes/wangmanyu/hero.jpg",
       "keyStats": "🏆 2 Olympic Women's Team Golds",
       "dataFile": "data/en/wangmanyu.json"
-    },
-    {
-      "id": "sunjin",
-      "name": "Sun Jin",
-      "nameEn": "SUN JIN",
-      "country": "China",
-      "flag": "🇨🇳",
-      "team": "China National Table Tennis Team",
-      "birthDate": "1980-03-13",
-      "photo": "images/athletes/sunjin/hero.jpg",
-      "keyStats": "🏆 2000 Sydney Olympic Women's Doubles Runner-up",
-      "dataFile": "data/en/sunjin.json"
     }
   ]
 }

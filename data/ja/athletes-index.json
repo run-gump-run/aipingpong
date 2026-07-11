@@ -275,18 +275,6 @@
       "photo": "images/athletes/wangmanyu/hero.jpg",
       "keyStats": "🏆 オリンピック女子団体金メダル2個",
       "dataFile": "data/ja/wangmanyu.json"
-    },
-    {
-      "id": "sunjin",
-      "name": "孫晋",
-      "nameEn": "SUN JIN",
-      "country": "中国",
-      "flag": "🇨🇳",
-      "team": "中国国家卓球チーム",
-      "birthDate": "1980-03-13",
-      "photo": "images/athletes/sunjin/hero.jpg",
-      "keyStats": " 2000シドニーオリンピック女子ダブルス準優勝",
-      "dataFile": "data/ja/sunjin.json"
     }
   ]
 }
