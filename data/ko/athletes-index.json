@@ -144,18 +144,7 @@
       "keyStats": "🥇 2024 파리 올림픽 혼합복식 + 여자 단체 챔피언 · 월드컵 3회 우승 · 세계 선수권 단식 챔피언",
       "dataFile": "data/ko/sunyingsha.json"
     },
-    {
-      "id": "yansen",
-      "name": "센",
-      "nameEn": "YAN SEN",
-      "country": "중국",
-      "flag": "🇨",
-      "team": "중국 국가 탁구팀",
-      "birthDate": "1975-08-25",
-      "photo": "images/athletes/yansen/hero.jpg",
-      "keyStats": " 2000 시드니 올림픽 남자 복식 챔피언",
-      "dataFile": "data/ko/yansen.json"
-    },
+
     {
       "id": "chenqi",
       "name": "천치",
@@ -192,18 +181,7 @@
       "keyStats": "🥇 2000 시드니 올림픽 여자 단식 챔피언 · 그랜드슬램",
       "dataFile": "data/ko/wangnan.json"
     },
-    {
-      "id": "liju",
-      "name": "리쥐",
-      "nameEn": "LI JU",
-      "country": "중국",
-      "flag": "🇳",
-      "team": "중국 국가 탁구팀",
-      "birthDate": "1976-01-22",
-      "photo": "images/athletes/liju/hero.jpg",
-      "keyStats": "🏆 2000 시드니 올림픽 여자 복식 챔피언 · 단식 준우승",
-      "dataFile": "data/ko/liju.json"
-    },
+
     {
       "id": "zhangyining",
       "name": "장이닝",
@@ -228,18 +206,7 @@
       "keyStats": "🏆 올림픽 금메달 2개",
       "dataFile": "data/ko/guoyue.json"
     },
-    {
-      "id": "niujianfeng",
-      "name": "뉴젠펑",
-      "nameEn": "NIU JIANFENG",
-      "country": "중국",
-      "flag": "🇨🇳",
-      "team": "중국 국가 탁구팀",
-      "birthDate": "1981-04-03",
-      "photo": "images/athletes/niujianfeng/hero.jpg",
-      "keyStats": "🥉 2004 아테네 올림픽 여자 복식 동메달",
-      "dataFile": "data/ko/niujianfeng.json"
-    },
+
     {
       "id": "lixiaoxia",
       "name": "리샤오샤",

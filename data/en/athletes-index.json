@@ -144,18 +144,7 @@
       "keyStats": "🥇 2024 Paris Olympic Mixed Doubles + Women's Team Champion · 3x World Cup Champion · World Singles Champion",
       "dataFile": "data/en/sunyingsha.json"
     },
-    {
-      "id": "yansen",
-      "name": "Yan Sen",
-      "nameEn": "YAN SEN",
-      "country": "China",
-      "flag": "🇨🇳",
-      "team": "China National Table Tennis Team",
-      "birthDate": "1975-08-25",
-      "photo": "images/athletes/yansen/hero.jpg",
-      "keyStats": "🏆 2000 Sydney Olympic Men's Doubles Champion",
-      "dataFile": "data/en/yansen.json"
-    },
+
     {
       "id": "chenqi",
       "name": "Chen Qi",
@@ -192,18 +181,7 @@
       "keyStats": "🥇 2000 Sydney Olympic Women's Singles Champion · Grand Slam",
       "dataFile": "data/en/wangnan.json"
     },
-    {
-      "id": "liju",
-      "name": "Li Ju",
-      "nameEn": "LI JU",
-      "country": "China",
-      "flag": "🇨🇳",
-      "team": "China National Table Tennis Team",
-      "birthDate": "1976-01-22",
-      "photo": "images/athletes/liju/hero.jpg",
-      "keyStats": "🏆 2000 Sydney Olympic Women's Doubles Champion · Singles Runner-up",
-      "dataFile": "data/en/liju.json"
-    },
+
     {
       "id": "zhangyining",
       "name": "Zhang Yining",
@@ -228,18 +206,7 @@
       "keyStats": "🏆 2 Olympic Golds",
       "dataFile": "data/en/guoyue.json"
     },
-    {
-      "id": "niujianfeng",
-      "name": "Niu Jianfeng",
-      "nameEn": "NIU JIANFENG",
-      "country": "China",
-      "flag": "🇨🇳",
-      "team": "China National Table Tennis Team",
-      "birthDate": "1981-04-03",
-      "photo": "images/athletes/niujianfeng/hero.jpg",
-      "keyStats": "🥉 2004 Athens Olympic Women's Doubles Bronze",
-      "dataFile": "data/en/niujianfeng.json"
-    },
+
     {
       "id": "lixiaoxia",
       "name": "Li Xiaoxia",

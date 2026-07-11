@@ -144,18 +144,7 @@
       "keyStats": "🥇 2024パリオリンピック混合ダブルス + 女子団体チャンピオン · ワールドカップ3回優勝 · 世界選手権シングルスチャンピオン",
       "dataFile": "data/ja/sunyingsha.json"
     },
-    {
-      "id": "yansen",
-      "name": "閻森",
-      "nameEn": "YAN SEN",
-      "country": "中国",
-      "flag": "🇨🇳",
-      "team": "中国国家卓球チーム",
-      "birthDate": "1975-08-25",
-      "photo": "images/athletes/yansen/hero.jpg",
-      "keyStats": "🏆 2000シドニーオリンピック男子ダブルスチャンピオン",
-      "dataFile": "data/ja/yansen.json"
-    },
+
     {
       "id": "chenqi",
       "name": "陳玘",
@@ -192,18 +181,7 @@
       "keyStats": " 2000シドニーオリンピック女子シングルスチャンピオン · グランドスラム",
       "dataFile": "data/ja/wangnan.json"
     },
-    {
-      "id": "liju",
-      "name": "李菊",
-      "nameEn": "LI JU",
-      "country": "中国",
-      "flag": "🇨🇳",
-      "team": "中国国家卓球チーム",
-      "birthDate": "1976-01-22",
-      "photo": "images/athletes/liju/hero.jpg",
-      "keyStats": "🏆 2000シドニーオリンピック女子ダブルスチャンピオン · シングルス準優勝",
-      "dataFile": "data/ja/liju.json"
-    },
+
     {
       "id": "zhangyining",
       "name": "張怡寧",
@@ -228,18 +206,7 @@
       "keyStats": "🏆 オリンピック金メダル2個",
       "dataFile": "data/ja/guoyue.json"
     },
-    {
-      "id": "niujianfeng",
-      "name": "牛剣鋒",
-      "nameEn": "NIU JIANFENG",
-      "country": "中国",
-      "flag": "🇨🇳",
-      "team": "中国国家卓球チーム",
-      "birthDate": "1981-04-03",
-      "photo": "images/athletes/niujianfeng/hero.jpg",
-      "keyStats": "🥉 2004アテネオリンピック女子ダブルス銅メダル",
-      "dataFile": "data/ja/niujianfeng.json"
-    },
+
     {
       "id": "lixiaoxia",
       "name": "李暁霞",

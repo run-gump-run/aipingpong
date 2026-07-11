@@ -144,18 +144,7 @@
                          "keyStats":  "🥇 2024巴黎奥运混双+女团冠军 · 世界杯三连冠 · 世乒赛单打冠军",
                          "dataFile":  "data/sunyingsha.json"
                      },
-                     {
-                         "id":  "yansen",
-                         "name":  "阎森",
-                         "nameEn":  "YAN SEN",
-                         "country":  "中国",
-                         "flag":  "🇨🇳",
-                         "team":  "中国国家乒乓球队",
-                         "birthDate":  "1975-08-25",
-                         "photo":  "images/athletes/yansen/hero.jpg",
-                         "keyStats":  "🏆 2000悉尼奥运男双冠军",
-                         "dataFile":  "data/yansen.json"
-                     },
+
                      {
                          "id":  "chenqi",
                          "name":  "陈玘",
@@ -192,18 +181,7 @@
                          "keyStats":  "🥇 2000悉尼奥运女单冠军 · 大满贯",
                          "dataFile":  "data/wangnan.json"
                      },
-                     {
-                         "id":  "liju",
-                         "name":  "李菊",
-                         "nameEn":  "LI JU",
-                         "country":  "中国",
-                         "flag":  "🇨🇳",
-                         "team":  "中国国家乒乓球队",
-                         "birthDate":  "1976-01-22",
-                         "photo":  "images/athletes/liju/hero.jpg",
-                         "keyStats":  "🏆 2000悉尼奥运女双冠军 · 女单亚军",
-                         "dataFile":  "data/liju.json"
-                     },
+
                      {
                          "id":  "zhangyining",
                          "name":  "张怡宁",
@@ -228,18 +206,7 @@
                          "keyStats":  "🏆 2枚奥运金牌",
                          "dataFile":  "data/guoyue.json"
                      },
-                     {
-                         "id":  "niujianfeng",
-                         "name":  "牛剑锋",
-                         "nameEn":  "NIU JIANFENG",
-                         "country":  "中国",
-                         "flag":  "🇨🇳",
-                         "team":  "中国国家乒乓球队",
-                         "birthDate":  "1981-04-03",
-                         "photo":  "images/athletes/niujianfeng/hero.jpg",
-                         "keyStats":  "🥉 2004雅典奥运女双季军",
-                         "dataFile":  "data/niujianfeng.json"
-                     },
+
                      {
                          "id":  "lixiaoxia",
                          "name":  "李晓霞",
